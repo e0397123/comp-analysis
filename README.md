@@ -5,7 +5,7 @@ Repository for AAAI-2024 Paper - A Comprehensive Analysis of the Effectiveness o
 
 [31/05/2024] Add data to the repository.
 
-## Data Statistics
+## Multi-Dimensional Eval Data Statistics
 
 ![image](https://github.com/e0397123/comp-analysis/assets/59479068/6f1e8b36-8cdb-48ed-bd7f-071f8cd69c31)
 
