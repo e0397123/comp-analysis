@@ -13,6 +13,14 @@ Repository for AAAI-2024 Paper - A Comprehensive Analysis of the Effectiveness o
 
 ![image](https://github.com/e0397123/comp-analysis/assets/59479068/6187630e-00ae-437c-8741-c55142a2fa38)
 
+## Robustness Eval Data Statistics
+
+![image](https://github.com/e0397123/comp-analysis/assets/59479068/ad7a68b9-ab5a-4850-be0e-909f7b775119)
+
+## Robustness Eval of LLMs
+
+![image](https://github.com/e0397123/comp-analysis/assets/59479068/55ae1d58-6765-4987-a5cc-3ea4d9ac0e71)
+
 ## Please cite us if you found the data useful
 ```
 @inproceedings{zhang2024comprehensive,
