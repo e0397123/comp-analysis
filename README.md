@@ -1,8 +1,6 @@
 # xDial-Eval
-Repository for EMNLP-2023 Findings Paper - xDial-Eval: A Multilingual Open-Domain Dialogue Evaluation Benchmark
+Repository for AAAI-2024 Paper - A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators
 
 ## Changelog
 
-[25/10/2023] Add data to the repository.
-
-[27/10/2023] Add code for zero-shot inference with open-source LLMs to the repository.
+[31/05/2024] Add data to the repository.
