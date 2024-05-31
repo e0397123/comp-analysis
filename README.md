@@ -5,7 +5,7 @@ Repository for AAAI-2024 Paper - A Comprehensive Analysis of the Effectiveness o
 
 [31/05/2024] Add data to the repository.
 
-## Cite us if you found the data useful
+## Please cite us if you found the data useful
 ```
 @inproceedings{zhang2024comprehensive,
   title={A comprehensive analysis of the effectiveness of large language models as automatic dialogue evaluators},
