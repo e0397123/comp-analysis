@@ -9,6 +9,9 @@ Repository for AAAI-2024 Paper - A Comprehensive Analysis of the Effectiveness o
 
 ![image](https://github.com/e0397123/comp-analysis/assets/59479068/6f1e8b36-8cdb-48ed-bd7f-071f8cd69c31)
 
+## Multi-Dimensional Eval of LLMs
+
+![image](https://github.com/e0397123/comp-analysis/assets/59479068/6187630e-00ae-437c-8741-c55142a2fa38)
 
 ## Please cite us if you found the data useful
 ```
