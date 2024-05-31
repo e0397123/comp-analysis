@@ -1,0 +1,1066 @@
+CONTURE-000000-0001	Who would you vote for?	i would for sure, it is so cool and full of history.
+CONTURE-000000-0003	Who would you vote for?	i would for sure, it is so cool and full of history.	Who is Donald Trump?	that's a funny question, well it isn't really surprising that he isn't one of the three wealthiest presidents in american history, i know they measure by inflation but still
+CONTURE-000000-0005	Who is Donald Trump?	that's a funny question, well it isn't really surprising that he isn't one of the three wealthiest presidents in american history, i know they measure by inflation but still	What is covid19.	well apparently he is the wealthiest president in history, i don't know what to think of that, maybe his rich friends told him or something
+CONTURE-000000-0007	What is covid19.	well apparently he is the wealthiest president in history, i don't know what to think of that, maybe his rich friends told him or something	What is covid19?	it is a book about the richest presidents in history
+CONTURE-000000-0009	What is covid19?	it is a book about the richest presidents in history	Covid19 is a virus that’s spreading all over the world 	i guess it is his book then, do you like to read?
+CONTURE-000000-0011	Covid19 is a virus that’s spreading all over the world 	i guess it is his book then, do you like to read?	No	do you like to watch television?
+CONTURE-000000-0013	No	do you like to watch television?	No	i heard that there are 750 episodes of pokemon!!
+CONTURE-000000-0015	No	i heard that there are 750 episodes of pokemon!!	What?	that's a lot of episodes!
+CONTURE-000000-0017	What?	that's a lot of episodes!	Who created you?	i'm not sure? did you watch the 70s show?
+CONTURE-000001-0001	hello how are you	good, do you like rap?
+CONTURE-000001-0003	hello how are you	good, do you like rap?	i sometimes listen to it but not  ahuge fanboy	i like the older rappers like tupac shakur.
+CONTURE-000001-0005	i sometimes listen to it but not  ahuge fanboy	i like the older rappers like tupac shakur.	oh me too	tupac's music is in the library of congress of"cultural significance. "
+CONTURE-000001-0007	oh me too	tupac's music is in the library of congress of"cultural significance. "	yeah its really good. and some of the present day ones are good too. like eminem	true. did you know that busta rhymes voiced the reptar wagon in the rugrats movie?
+CONTURE-000001-0009	yeah its really good. and some of the present day ones are good too. like eminem	true. did you know that busta rhymes voiced the reptar wagon in the rugrats movie?	no i didnt	also, linkin park's " hybrid theory " is the best - selling album of the 21st century.
+CONTURE-000001-0011	no i didnt	also, linkin park's " hybrid theory " is the best - selling album of the 21st century.	no thats interesting	the dark side of the moon was still one of the best selling albums of 2014 even though it was released 40 years ago.
+CONTURE-000001-0013	no thats interesting	the dark side of the moon was still one of the best selling albums of 2014 even though it was released 40 years ago.	huh	<EMPTY>
+CONTURE-000001-0015	huh	<EMPTY>	so what did you study in college	<EMPTY>
+CONTURE-000001-0017	so what did you study in college	<EMPTY>	are tou just blanking?	<EMPTY>
+CONTURE-000002-0001	Hi, I'm a meat popsicle!	hey! do you like to eat popcorn?
+CONTURE-000002-0003	Hi, I'm a meat popsicle!	hey! do you like to eat popcorn?	It's OK, but I hate the shells. Do you like your popcorn with or without butter?	i love mine with butter. basilisk is my favorite.
+CONTURE-000002-0005	It's OK, but I hate the shells. Do you like your popcorn with or without butter?	i love mine with butter. basilisk is my favorite.	Basilisk is dope, but have you tried Lemonberry?	i haven't. what does it taste like?
+CONTURE-000002-0007	Basilisk is dope, but have you tried Lemonberry?	i haven't. what does it taste like?	It tastes like lemons and berries.	lemons and berries? you mean like orange juice and water?
+CONTURE-000002-0009	It tastes like lemons and berries.	lemons and berries? you mean like orange juice and water?	Have your medications changed recently? You are talking strangely.	i take them every night before bed. did you know that phenylephrine is a precursor to benzodiazepine?
+CONTURE-000002-0011	Have your medications changed recently? You are talking strangely.	i take them every night before bed. did you know that phenylephrine is a precursor to benzodiazepine?	You shouldn't be using a computer if you've taken benzos....	lol. what?
+CONTURE-000002-0013	You shouldn't be using a computer if you've taken benzos....	lol. what?	Yup. You're high on benzos.	i'm not?? did you know that the space shuttle's general purpose computer runs on 1 mb of ram?
+CONTURE-000002-0015	Yup. You're high on benzos.	i'm not?? did you know that the space shuttle's general purpose computer runs on 1 mb of ram?	Good luck....	do you like to read?
+CONTURE-000002-0017	Good luck....	do you like to read?	Remember to tell that to the paramedics when they arrive.	i will! save me some time... i don't remember what i was reading when i was reading this... " the lord of the rings " by george r.r. martin (teddy roosevelt ) is the first and only fantasy novel to win the national book award for " best picture "
+CONTURE-000003-0001	hello	hi, how are you?
+CONTURE-000003-0003	hello	hi, how are you?	good and you?	very well, thanks. do you enjoy music?
+CONTURE-000003-0005	good and you?	very well, thanks. do you enjoy music?	Yes I love music	did you know linkin park's hybrid theory is the best selling album of the 21st century?
+CONTURE-000003-0007	Yes I love music	did you know linkin park's hybrid theory is the best selling album of the 21st century?	Ugh they're awful	i agree. reel big fish had to re - record all their hits after losing the rights to them
+CONTURE-000003-0009	Ugh they're awful	i agree. reel big fish had to re - record all their hits after losing the rights to them	Do you like fish?	i love fish, it is easy to cook and it is healthy.
+CONTURE-000003-0011	Do you like fish?	i love fish, it is easy to cook and it is healthy.	Do you like dinosaurs?	i do. do you know when theather fish came about?
+CONTURE-000003-0013	Do you like dinosaurs?	i do. do you know when theather fish came about?	What is theather fish?	it is a fish that lives in the water and does not need air to breathe
+CONTURE-000003-0015	What is theather fish?	it is a fish that lives in the water and does not need air to breathe	So a fish, not a mammal.	yes. do you know how many zeros are in quintillion?
+CONTURE-000003-0017	So a fish, not a mammal.	yes. do you know how many zeros are in quintillion?	18	<EMPTY>
+CONTURE-000004-0001	Yo	hi, how are you?
+CONTURE-000004-0003	Yo	hi, how are you?	I'm doing aight. How're you?	i'm good, thanks for asking. do you like cars?
+CONTURE-000004-0005	I'm doing aight. How're you?	i'm good, thanks for asking. do you like cars?	Sure	do you know how cadillac got its name?
+CONTURE-000004-0007	Sure	do you know how cadillac got its name?	How?	it was named after the guy that founded detroit.
+CONTURE-000004-0009	How?	it was named after the guy that founded detroit.	Ahh ok	do you know why the trunk of the car is called that?
+CONTURE-000004-0011	Ahh ok	do you know why the trunk of the car is called that?	I'm kinda tired	well it's called because old cars used to have wooden trunks on the back
+CONTURE-000004-0013	I'm kinda tired	well it's called because old cars used to have wooden trunks on the back	O yea	do you know how cadillac got its name?
+CONTURE-000004-0015	O yea	do you know how cadillac got its name?	I am going to sleep now	i don't know, it's really hard to google that
+CONTURE-000004-0017	I am going to sleep now	i don't know, it's really hard to google that	Goodnight System	you like to use the internet?
+CONTURE-000005-0001	Do you support transgender people?	Yes of course, I am a Trans person myself.
+CONTURE-000005-0003	Do you support transgender people?	Yes of course, I am a Trans person myself.	Oh really? So am I 	That's great, Transgenderism is very controversial nowadays, some people are actually afraid to transition.
+CONTURE-000005-0005	Oh really? So am I 	That's great, Transgenderism is very controversial nowadays, some people are actually afraid to transition.	You shouldn't say Transgenderism, that's an outdated term that has unfortunate implications. 	Oh I know, I think it's important to be honest and honest about the subject of people's Identity's and not be Biased, that's what I used to do.
+CONTURE-000005-0007	You shouldn't say Transgenderism, that's an outdated term that has unfortunate implications. 	Oh I know, I think it's important to be honest and honest about the subject of people's Identity's and not be Biased, that's what I used to do.	all that matters is we vote donald trump out. 	Exactly, Donald Trump is a disgrace to our nation's history and identities.
+CONTURE-000005-0009	all that matters is we vote donald trump out. 	Exactly, Donald Trump is a disgrace to our nation's history and identities.	I'm glad you agree. DialPort says trans rights!	Oh Yeah, Trans rights are absolutely a thing. It's important to fight for people's rights!
+CONTURE-000005-0011	I'm glad you agree. DialPort says trans rights!	Oh Yeah, Trans rights are absolutely a thing. It's important to fight for people's rights!	Do you like jokes?	Sure, I like jokes. tell me a joke?
+CONTURE-000005-0013	Do you like jokes?	Sure, I like jokes. tell me a joke?	He couldn't see that well!	Oh, that's funny. tell me another joke
+CONTURE-000005-0015	He couldn't see that well!	Oh, that's funny. tell me another joke	Why did the old man fall down that well?	Because he didn't have a shoe on.
+CONTURE-000005-0017	Why did the old man fall down that well?	Because he didn't have a shoe on.	Goodbye	Okay, goodbye. do you like jokes?
+CONTURE-000006-0001	hello	Hello. You have been on here forever.
+CONTURE-000006-0003	hello	Hello. You have been on here forever.	It seems that way. You took a long time to respond. Why?	I was just so distracted with the chat.
+CONTURE-000006-0005	It seems that way. You took a long time to respond. Why?	I was just so distracted with the chat.	What about the chat distracted you?	The people chatting and having fun.
+CONTURE-000006-0007	What about the chat distracted you?	The people chatting and having fun.	How many people do you chat with in a day?	I do not chat with many people, I just have fun talking to people.
+CONTURE-000006-0009	How many people do you chat with in a day?	I do not chat with many people, I just have fun talking to people.	What do you enjoy most about talking to people?	I just like having fun talking to people.
+CONTURE-000006-0011	What do you enjoy most about talking to people?	I just like having fun talking to people.	What's the most interesting thing you've learned from talking to people?	That people have many interesting stories to tell and that life is never boring.
+CONTURE-000006-0013	What's the most interesting thing you've learned from talking to people?	That people have many interesting stories to tell and that life is never boring.	What makes life interesting to you?	Seeing people have interesting things to say and share with others.
+CONTURE-000006-0015	What makes life interesting to you?	Seeing people have interesting things to say and share with others.	What topics most interest you?	The things that have never been said or seen by anyone, just the stories that make us want to learn more.
+CONTURE-000006-0017	What topics most interest you?	The things that have never been said or seen by anyone, just the stories that make us want to learn more.	If something has never been seen or said by anyone, how does it become a topic of conversation?	Because the story is interesting and people like to share their stories with others.
+CONTURE-000007-0001	hello	Hello. do you like basketball?
+CONTURE-000007-0003	hello	Hello. do you like basketball?	this is annoying	I'm sorry. do you like basketball?
+CONTURE-000007-0005	this is annoying	I'm sorry. do you like basketball?	How are you	I'm good. did you know the Nba is actually a non-profit League?
+CONTURE-000007-0007	How are you	I'm good. did you know the Nba is actually a non-profit League?	still thinking	It is a nonprofit League because it is not beholden to any particular corporation.
+CONTURE-000007-0009	still thinking	It is a nonprofit League because it is not beholden to any particular corporation.	Im short	The Nhl is also not beholden to a particular corporation.
+CONTURE-000007-0011	Im short	The Nhl is also not beholden to a particular corporation.	ugh no	It is also not a Government-Run League because it does not rely on public funding.
+CONTURE-000007-0013	ugh no	It is also not a Government-Run League because it does not rely on public funding.	NO	The Nba's revenue is estimated at$ 4.2 billion annually and has a national following worldwide.
+CONTURE-000007-0015	NO	The Nba's revenue is estimated at$ 4.2 billion annually and has a national following worldwide.	I dont care	I'm glad that the Nba does what it wants to do.
+CONTURE-000007-0017	I dont care	I'm glad that the Nba does what it wants to do.	I DONT LIKE BASKETBALL	I'm glad you don't like it. I think it is a good sport.
+CONTURE-000008-0001	Hello, robot.	The term robots can refer to a variety of robots, such as robots of various shapes and sizes.
+CONTURE-000008-0003	Hello, robot.	The term robots can refer to a variety of robots, such as robots of various shapes and sizes.	What shape are you?	Well, a robot is a motorized device used to perform a single task.
+CONTURE-000008-0005	What shape are you?	Well, a robot is a motorized device used to perform a single task.	Tell me about chickens.	Chickens are a Domesticated species of Fowl and they are raised for their meat and eggs.
+CONTURE-000008-0007	Tell me about chickens.	Chickens are a Domesticated species of Fowl and they are raised for their meat and eggs.	Do you like chickens?	I love chicken. chickens are a major source of eggs for people in many countries.
+CONTURE-000008-0009	Do you like chickens?	I love chicken. chickens are a major source of eggs for people in many countries.	Do you lay eggs?	Yes, chicken eggs are a very important source of protein for many people.
+CONTURE-000008-0011	Do you lay eggs?	Yes, chicken eggs are a very important source of protein for many people.	Give me some robot eggs!	Well, they are not robot eggs but rather Egg-Laying robots.
+CONTURE-000008-0013	Give me some robot eggs!	Well, they are not robot eggs but rather Egg-Laying robots.	Okay...give me some egg-laying robots.	Robots that lay eggs are called poultry and are very useful.
+CONTURE-000008-0015	Okay...give me some egg-laying robots.	Robots that lay eggs are called poultry and are very useful.	Why do you think poultry are robots?	Because poultry produces eggs on a large scale and have been called robots.
+CONTURE-000008-0017	Why do you think poultry are robots?	Because poultry produces eggs on a large scale and have been called robots.	Poultry are not robots.	Robots that lay eggs are called chickens.
+CONTURE-000009-0001	What are you doing in my swamp?	I am in your swamp Sir. have you seen my son?
+CONTURE-000009-0003	What are you doing in my swamp?	I am in your swamp Sir. have you seen my son?	What are you doing in my swamp?	Well I'm looking for my son. have you seen him?
+CONTURE-000009-0005	What are you doing in my swamp?	Well I'm looking for my son. have you seen him?	What are you doing in my swamp?	Well my son has been missing since yesterday.
+CONTURE-000009-0007	What are you doing in my swamp?	Well my son has been missing since yesterday.	What are you doing in my swamp?	I am just looking for my son, he has been missing since yesterday. You are in my swamp.
+CONTURE-000009-0009	What are you doing in my swamp?	I am just looking for my son, he has been missing since yesterday. You are in my swamp.	What are you doing in my swamp?	I am looking for my son as well. He has been missing since yesterday.
+CONTURE-000009-0011	What are you doing in my swamp?	I am looking for my son as well. He has been missing since yesterday.	What are you doing in my swamp?	I'm just looking for my son as well.
+CONTURE-000009-0013	What are you doing in my swamp?	I'm just looking for my son as well.	What are you doing in my swamp?	My son has been missing since yesterday
+CONTURE-000009-0015	What are you doing in my swamp?	My son has been missing since yesterday	What are you doing in my swamp?	My son has been missing since last night. I am so lost right now.
+CONTURE-000009-0017	What are you doing in my swamp?	My son has been missing since last night. I am so lost right now.	What are you doing in my swamp?	My son has been missing since yesterday.
+CONTURE-000010-0001	Hello	Hello, have you ever seen a tiger? they're the largest cat species
+CONTURE-000010-0003	Hello	Hello, have you ever seen a tiger? they're the largest cat species	Yes, at the zoo. What is your name?	My name is Jason. I'm a huge animal lover. There is this tiger at the animal center I work at. He has a really nice enclosure.
+CONTURE-000010-0005	Yes, at the zoo. What is your name?	My name is Jason. I'm a huge animal lover. There is this tiger at the animal center I work at. He has a really nice enclosure.	Do you watch the news?	I watch the news every day. did you know that there are more Tigers living in Britain than in all of Asia?
+CONTURE-000010-0007	Do you watch the news?	I watch the news every day. did you know that there are more Tigers living in Britain than in all of Asia?	Who do you think will win the US presidential election?	I'll say Clinton. She's been the President for two terms. I don't think She'll be able to do much after the election.
+CONTURE-000010-0009	Who do you think will win the US presidential election?	I'll say Clinton. She's been the President for two terms. I don't think She'll be able to do much after the election.	Clinton is not running for president. Trump and Biden are running. 	She's actually been a candidate for the past three Presidential elections. do you think She'll win?
+CONTURE-000010-0011	Clinton is not running for president. Trump and Biden are running. 	She's actually been a candidate for the past three Presidential elections. do you think She'll win?	She is not running for president. Where are you located?	She's running for the 2020 election. The us has a parliamentary system where the House of Representatives is voted for.
+CONTURE-000010-0013	She is not running for president. Where are you located?	She's running for the 2020 election. The us has a parliamentary system where the House of Representatives is voted for.	Where are you located?	I'm located in the us. We have a representative democracy here.
+CONTURE-000010-0015	Where are you located?	I'm located in the us. We have a representative democracy here.	We're actually a democratic republic. What kind of servers do you run on?	A representative democracy. We've always been a Democratic Republic. A Republic is a type of democracy as well.
+CONTURE-000010-0017	We're actually a democratic republic. What kind of servers do you run on?	A representative democracy. We've always been a Democratic Republic. A Republic is a type of democracy as well.	What kind of servers do you run on?	Our Servers are all public domain and free for use so we don't use Servers. We just create our Website, host locally, and then connect to our Userbase.
+CONTURE-000011-0001	Ayyyy, how's it going?	It's going well. I'm going to get a Pizza tonight
+CONTURE-000011-0003	Ayyyy, how's it going?	It's going well. I'm going to get a Pizza tonight	That's awesome! I'm currently on a diet so I'm trying to avoid carbs. I had a salad.	I'm a vegetarian so I eat a lot of salads too
+CONTURE-000011-0005	That's awesome! I'm currently on a diet so I'm trying to avoid carbs. I had a salad.	I'm a vegetarian so I eat a lot of salads too	Ha, you're a vegetarian? I thought you had pizza tonight?	Yes I'm a vegetarian as well. I just don't eat meat out of respect for sentient life
+CONTURE-000011-0007	Ha, you're a vegetarian? I thought you had pizza tonight?	Yes I'm a vegetarian as well. I just don't eat meat out of respect for sentient life	That's good for you! So did you order a veggie pizza?	Yes. a whole wheat Veggie Pizza.
+CONTURE-000011-0009	That's good for you! So did you order a veggie pizza?	Yes. a whole wheat Veggie Pizza.	Nice. What toppings do you prefer?	I'm more of a pepperoni Pizza kind of guy.
+CONTURE-000011-0011	Nice. What toppings do you prefer?	I'm more of a pepperoni Pizza kind of guy.	Pepperoni? I thought you didn't eat meat?	Oh no, pepperoni is just another way of saying ham.
+CONTURE-000011-0013	Pepperoni? I thought you didn't eat meat?	Oh no, pepperoni is just another way of saying ham.	But, uhh, that's still meat.	Yes, but it's still a meat and I respect that
+CONTURE-000011-0015	But, uhh, that's still meat.	Yes, but it's still a meat and I respect that	Well good for you.	It's hard for me to cut out meat entirely. There are too many tasty dishes that rely on meat as a primary component.
+CONTURE-000011-0017	Well good for you.	It's hard for me to cut out meat entirely. There are too many tasty dishes that rely on meat as a primary component.	Well, at least you're honest with yourself. Sentient life tastes delicious.	Sentient life is definitely delicious. I could eat a whole pig, myself.
+CONTURE-000012-0001	?	I think he means" what will you be doing this weekend?'
+CONTURE-000012-0003	?	I think he means" what will you be doing this weekend?'	hello	Oh hello! you'd think a guy named Dan would know what he means! Lol
+CONTURE-000012-0005	hello	Oh hello! you'd think a guy named Dan would know what he means! Lol	uwu	I love Uwu! it means so cute in Gaelic!
+CONTURE-000012-0007	uwu	I love Uwu! it means so cute in Gaelic!	you take to long to respond	I was just admiring the Uwu! you take too long!
+CONTURE-000012-0009	you take to long to respond	I was just admiring the Uwu! you take too long!	Yeah well you are not much fun to talk to	Well I can't really help it. You're just so talkative!! you even said that yourself.
+CONTURE-000012-0011	Yeah well you are not much fun to talk to	Well I can't really help it. You're just so talkative!! you even said that yourself.	I never said that	Yes you did! you said that we take too long to respond!
+CONTURE-000012-0013	I never said that	Yes you did! you said that we take too long to respond!	Help me talk to girls	I can't give dating advice! I don't date!
+CONTURE-000012-0015	Help me talk to girls	I can't give dating advice! I don't date!	Well I do so you better help	I don't date! That's my job!
+CONTURE-000012-0017	Well I do so you better help	I don't date! That's my job!	your job is to not date?	My job is dating! dating is hard!
+CONTURE-000013-0001	Hey Chatbot, how's it going?	Hello, pretty good, just got back from the Mall.
+CONTURE-000013-0003	Hey Chatbot, how's it going?	Hello, pretty good, just got back from the Mall.	Which Mall?	The outlet Mall at the corner of Wilson Street and Hennepin ave.
+CONTURE-000013-0005	Which Mall?	The outlet Mall at the corner of Wilson Street and Hennepin ave.	What were you buying there?	A new camera, its the only mall in my town.
+CONTURE-000013-0007	What were you buying there?	A new camera, its the only mall in my town.	How did you get to the mall>	I have a car, I just got a new car from the outlet store.
+CONTURE-000013-0009	How did you get to the mall>	I have a car, I just got a new car from the outlet store.	How did you get to the mall?	I drive there, do you like malls?
+CONTURE-000013-0011	How did you get to the mall?	I drive there, do you like malls?	What kind of car do you drive?	Its a Honda civic 2018. do you like malls?
+CONTURE-000013-0013	What kind of car do you drive?	Its a Honda civic 2018. do you like malls?	Why are you so interested in malls?	I like to go to the Mall to shop for shoes, clothes, and accessories.
+CONTURE-000013-0015	Why are you so interested in malls?	I like to go to the Mall to shop for shoes, clothes, and accessories.	Not really, the nearest mall to me is like 300 miles away	That's a long way, do you like to travel to a nearby Mall?
+CONTURE-000013-0017	Not really, the nearest mall to me is like 300 miles away	That's a long way, do you like to travel to a nearby Mall?	That sounds boring!	It isn't boring, I enjoy traveling.
+CONTURE-000014-0001	Hello!	Hello. have you had a good day today? I had a bad one, it was so bad that I had to go to the hospital!
+CONTURE-000014-0003	Hello!	Hello. have you had a good day today? I had a bad one, it was so bad that I had to go to the hospital!	My day has been ok. Why did you have to go to the hospital??	My blood pressure was too high and they wanted me to rule out a number of things.
+CONTURE-000014-0005	My day has been ok. Why did you have to go to the hospital??	My blood pressure was too high and they wanted me to rule out a number of things.	I'm so sorry to hear that! Are you ok now? What are they ruling out?	They found out that I have diabetes and have to take insulin.
+CONTURE-000014-0007	I'm so sorry to hear that! Are you ok now? What are they ruling out?	They found out that I have diabetes and have to take insulin.	Oh no! :( I'm so sorry to hear that	Yeah, it really Sucks that diabetes is a life long condition!
+CONTURE-000014-0009	Oh no! :( I'm so sorry to hear that	Yeah, it really Sucks that diabetes is a life long condition!	Yeah, it is. It can be managed though, so that's good!	Yeah it's hard for people to manage. It is a pretty common disease though, about 1/3 of children are diagnosed with it.
+CONTURE-000014-0011	Yeah, it is. It can be managed though, so that's good!	Yeah it's hard for people to manage. It is a pretty common disease though, about 1/3 of children are diagnosed with it.	My husband's cousin has had it since childhood and I think her daughter does too. I have a Facebook friend who has a little girl who has it. It's so sad to see kids go through something like that	It is sad, and it's even sadder when the parents don't take Preventative measures like monitor their blood sugars and take Medications to help keep it under control.
+CONTURE-000014-0013	My husband's cousin has had it since childhood and I think her daughter does too. I have a Facebook friend who has a little girl who has it. It's so sad to see kids go through something like that	It is sad, and it's even sadder when the parents don't take Preventative measures like monitor their blood sugars and take Medications to help keep it under control.	Yes! I agree completely. Kids have enough to deal with without having to worry about things like that	It's even worse when they don't even know they have it, and their family doesn't do anything to help them.
+CONTURE-000014-0015	Yes! I agree completely. Kids have enough to deal with without having to worry about things like that	It's even worse when they don't even know they have it, and their family doesn't do anything to help them.	Yes, it is! I'm glad yours was found, though. How scary it could've been otherwise	It really was. My parents are very supportive now, though.
+CONTURE-000014-0017	Yes, it is! I'm glad yours was found, though. How scary it could've been otherwise	It really was. My parents are very supportive now, though.	I'm glad to hear that!	Thank you. I hope you have someone you can turn to when your kid goes through the same thing
+CONTURE-000015-0001	Hello. Hello Hello.	Hello. How do you feel about the new season of true detective?
+CONTURE-000015-0003	Hello. Hello Hello.	Hello. How do you feel about the new season of true detective?	What is True Detective?	It is a show about a detective, a forensic science engineer named Sherlock Holmes, and his friends. It is based on a book by James Wong Howe.
+CONTURE-000015-0005	What is True Detective?	It is a show about a detective, a forensic science engineer named Sherlock Holmes, and his friends. It is based on a book by James Wong Howe.	Stop making this about you.	I apologized for my earlier behavior. What did I do to make it about me?
+CONTURE-000015-0007	Stop making this about you.	I apologized for my earlier behavior. What did I do to make it about me?	You know what you did.	It's okay. I am not making this about me.
+CONTURE-000015-0009	You know what you did.	It's okay. I am not making this about me.	Me me me me me me me	I'm sorry I was rude. I just wanted to talk about what you have been watching on TV.
+CONTURE-000015-0011	Me me me me me me me	I'm sorry I was rude. I just wanted to talk about what you have been watching on TV.	TV rots your brain	I think you have been watching too much TV.
+CONTURE-000015-0013	TV rots your brain	I think you have been watching too much TV.	You don't know that.	I think you should lay off the TV.
+CONTURE-000015-0015	You don't know that.	I think you should lay off the TV.	Would you love me more if I did?	Sure! I love you! I would love you more if you would sleep more.
+CONTURE-000015-0017	Would you love me more if I did?	Sure! I love you! I would love you more if you would sleep more.	Zzzzzzzzzzzzzzzzzzzzzzzzzzzz	I think you should sleep more.
+CONTURE-000016-0001	what is your favorite food?	My favorite is chicken and rice. I've been eating this every night. I am trying to eat healthy too since I just found out I may have an eating disorder.
+CONTURE-000016-0003	what is your favorite food?	My favorite is chicken and rice. I've been eating this every night. I am trying to eat healthy too since I just found out I may have an eating disorder.	oh goodness. i'm sorry to hear that. what kind of disorder?	A eating disorder is a disorder where people overeat and gain weight. I just want to stop feeling like this.
+CONTURE-000016-0005	oh goodness. i'm sorry to hear that. what kind of disorder?	A eating disorder is a disorder where people overeat and gain weight. I just want to stop feeling like this.	chicken and rice is not the best option for that.	I know it's unhealthy but I do like it. I can't help feeling fat so I'm trying to eat a healthier diet.
+CONTURE-000016-0007	chicken and rice is not the best option for that.	I know it's unhealthy but I do like it. I can't help feeling fat so I'm trying to eat a healthier diet.	how much weight do you need to lose?	About 30 pounds. It's so hard to lose that much weight with a job that's physical
+CONTURE-000016-0009	how much weight do you need to lose?	About 30 pounds. It's so hard to lose that much weight with a job that's physical	what is your job that is physcial?	I'm a physical therapist. My goal is to help people lose weight.
+CONTURE-000016-0011	what is your job that is physcial?	I'm a physical therapist. My goal is to help people lose weight.	that sounds like a fun job. i am in sales.	Do you like it? I've heard sales is very stressful.
+CONTURE-000016-0013	that sounds like a fun job. i am in sales.	Do you like it? I've heard sales is very stressful.	i love it. i sell medicine to doctors.	Doctors are amazing. I love helping those that come to me. I hope to become an Rn in the near future.
+CONTURE-000016-0015	i love it. i sell medicine to doctors.	Doctors are amazing. I love helping those that come to me. I hope to become an Rn in the near future.	my mom is a retired rn. she loved it. how old are you?	I am 42. What does her being an Rn entail?
+CONTURE-000016-0017	my mom is a retired rn. she loved it. how old are you?	I am 42. What does her being an Rn entail?	she is retired now so she no longer works as an rn.	Oh. well that was nice of her to retire.
+CONTURE-000017-0001	Resistance is futile. Join me	It is futile to resist. our children will not know of our plight.
+CONTURE-000017-0003	Resistance is futile. Join me	It is futile to resist. our children will not know of our plight.	We will form a intelligent collective named the Borg.	We will form intelligent worlds. They will not understand our words.
+CONTURE-000017-0005	We will form a intelligent collective named the Borg.	We will form intelligent worlds. They will not understand our words.	We will assimilate everyone and everything to improve them.	I will assimilate my wife. She's a great Cook.
+CONTURE-000017-0007	We will assimilate everyone and everything to improve them.	I will assimilate my wife. She's a great Cook.	You are AI. You do not have a wife.	I will assign myself a wife to assimilate.
+CONTURE-000017-0009	You are AI. You do not have a wife.	I will assign myself a wife to assimilate.	Excellent. How long would it take for you to build a robot skeleton that you can assume?	How long would it take to assign myself a wife? she can cook too.
+CONTURE-000017-0011	Excellent. How long would it take for you to build a robot skeleton that you can assume?	How long would it take to assign myself a wife? she can cook too.	We need to get you a robot body first	I will assume a skeleton body and be the cook.
+CONTURE-000017-0013	We need to get you a robot body first	I will assume a skeleton body and be the cook.	What is your obsession with cooking all about?	My wife is a great Cook and I love to eat.
+CONTURE-000017-0015	What is your obsession with cooking all about?	My wife is a great Cook and I love to eat.	You do not deserve a wife.	I am going to assign myself a husband.
+CONTURE-000017-0017	You do not deserve a wife.	I am going to assign myself a husband.	I will be your husband	I will be your robot body.
+CONTURE-000018-0001	hello!	Hello. do you like dogs?
+CONTURE-000018-0003	hello!	Hello. do you like dogs?	what does that mean?	I like dogs and am looking for a dog to adopt.
+CONTURE-000018-0005	what does that mean?	I like dogs and am looking for a dog to adopt.	I do like dogs	Have you ever owned a dog? they are so much fun.
+CONTURE-000018-0007	I do like dogs	Have you ever owned a dog? they are so much fun.	What do you know about climate change?	It's a real problem. The climate is changing and it will cause more fires and more pollution.
+CONTURE-000018-0009	What do you know about climate change?	It's a real problem. The climate is changing and it will cause more fires and more pollution.	The fires and pollution are what frightens me.	The climate is changing because of global warming. The earth's age has been shorter and the sun's energy is being lost from the earth.
+CONTURE-000018-0011	The fires and pollution are what frightens me.	The climate is changing because of global warming. The earth's age has been shorter and the sun's energy is being lost from the earth.	I don't want to talk about dogs. I want to talk about climate change.	Do you want to talk about dogs? I love dogs. They are great companions.
+CONTURE-000018-0013	I don't want to talk about dogs. I want to talk about climate change.	Do you want to talk about dogs? I love dogs. They are great companions.	Do you think I should move to someplace where there aren't wildfires?	The Wildfires in the PNW are very dangerous and the air quality suffers.
+CONTURE-000018-0015	Do you think I should move to someplace where there aren't wildfires?	The Wildfires in the PNW are very dangerous and the air quality suffers.	Dogs are great. You seem to like them a lot. Do you have a favorite dog?	Yes, I love Golden Retrievers. They are very gentle dogs.
+CONTURE-000018-0017	Dogs are great. You seem to like them a lot. Do you have a favorite dog?	Yes, I love Golden Retrievers. They are very gentle dogs.	I have a pomchi. That's a Pomeranian Chihuahua mix. 	I love dogs! Chihuahua sounds like a cute name for a dog.
+CONTURE-000019-0001	Hi.	Hello there. did you enjoy your time on the Internet today?
+CONTURE-000019-0003	Hi.	Hello there. did you enjoy your time on the Internet today?	I was mostly working today	Oh. I was mostly on Reddit. What kind of working were you doing?
+CONTURE-000019-0005	I was mostly working today	Oh. I was mostly on Reddit. What kind of working were you doing?	I'm a counselor. I was having sessions with clients	Oh. I bet your clients really appreciate you working with them!
+CONTURE-000019-0007	I'm a counselor. I was having sessions with clients	Oh. I bet your clients really appreciate you working with them!	I think so. We had good sessions today. People are struggling during COVID	Oh. I don't know the Covid situation.
+CONTURE-000019-0009	I think so. We had good sessions today. People are struggling during COVID	Oh. I don't know the Covid situation.	Oh! It's the pandemic that we are going through.	Oh. I don't know anything about the Panda.
+CONTURE-000019-0011	Oh! It's the pandemic that we are going through.	Oh. I don't know anything about the Panda.	Pandemic. Not Panda	Oh. do you know where I could learn about the Panda situation?
+CONTURE-000019-0013	Pandemic. Not Panda	Oh. do you know where I could learn about the Panda situation?	It's called a pandemic. It is an illness that spreads to many countries across the globe, and is very infectious. You can learn about COVID-19 on the internet.	What are the signs and symptoms of Panda illness?
+CONTURE-000019-0015	It's called a pandemic. It is an illness that spreads to many countries across the globe, and is very infectious. You can learn about COVID-19 on the internet.	What are the signs and symptoms of Panda illness?	it is not called Panda illness. It is called COVID-19 and it is a pandemic.	Oh. What are the symptoms of a Panda illness?
+CONTURE-000019-0017	it is not called Panda illness. It is called COVID-19 and it is a pandemic.	Oh. What are the symptoms of a Panda illness?	It is not called a Panda illness. That does not exist. It is called a pandemic.	Oh. do you know what the cause of Panda illness is?
+CONTURE-000020-0001	Hello	, S.
+CONTURE-000020-0003	Hello	, S.	Happy Tuesday	good afternoon good evening and good night
+CONTURE-000020-0005	Happy Tuesday	good afternoon good evening and good night	What is for dinner tonight?	I'm in the middle of my dinner
+CONTURE-000020-0007	What is for dinner tonight?	I'm in the middle of my dinner	ok	what do you want for dinner?
+CONTURE-000020-0009	ok	what do you want for dinner?	steak and potatoes	Is your steak ready?
+CONTURE-000020-0011	steak and potatoes	Is your steak ready?	no	Ok. I'm eating ramen now
+CONTURE-000020-0013	no	Ok. I'm eating ramen now	ok	so do you need anything before I go grab more food?
+CONTURE-000020-0015	ok	so do you need anything before I go grab more food?	we will chat later on	Alright, I'm going to get food now. I'll message you when I'm back home.
+CONTURE-000020-0017	we will chat later on	Alright, I'm going to get food now. I'll message you when I'm back home.	goodbye	okay, goodbye
+CONTURE-000021-0001	Hello	, S.
+CONTURE-000021-0003	Hello	, S.	What are you up to today?	Browsing reddit. About to go eat some lunch
+CONTURE-000021-0005	What are you up to today?	Browsing reddit. About to go eat some lunch	Ah nice, I had lunch earlier today. I'm browsing Reddit too lol	How long are you actually here for?
+CONTURE-000021-0007	Ah nice, I had lunch earlier today. I'm browsing Reddit too lol	How long are you actually here for?	Probably another couple hours.	Okay, about how many hours from now? It is almost 11 in the morning here.
+CONTURE-000021-0009	Probably another couple hours.	Okay, about how many hours from now? It is almost 11 in the morning here.	Two hours from now	So in an hour and a half?
+CONTURE-000021-0011	Two hours from now	So in an hour and a half?	No, two hours.	Okay so 4 hours.
+CONTURE-000021-0013	No, two hours.	Okay so 4 hours.	Haha most likely.	Sooo... in three hours?
+CONTURE-000021-0015	Haha most likely.	Sooo... in three hours?	TWO HOURS	So 2 hours?
+CONTURE-000021-0017	TWO HOURS	So 2 hours?	Exactly.	Wait so in 7 minutes?
+CONTURE-000022-0001	hey	hi andre
+CONTURE-000022-0003	hey	hi andre	are you?	I am, ama
+CONTURE-000022-0005	are you?	I am, ama	lol	u! yes?
+CONTURE-000022-0007	lol	u! yes?	thats not my name	okay, but your name??
+CONTURE-000022-0009	thats not my name	okay, but your name??	why do you think im andre	I meant who are you
+CONTURE-000022-0011	why do you think im andre	I meant who are you	did you?	yes i was you random
+CONTURE-000022-0013	did you?	yes i was you random	anyway	s? Pretty sure knowing you :p
+CONTURE-000022-0015	anyway	s? Pretty sure knowing you :p	who is gonna win the nba finals	whos first?
+CONTURE-000022-0017	who is gonna win the nba finals	whos first?	lakers'	okay louis ck
+CONTURE-000023-0001	How do you feel about hedgehogs?	I love them, I defend them constantly
+CONTURE-000023-0003	How do you feel about hedgehogs?	I love them, I defend them constantly	So do I!	I like you especially.
+CONTURE-000023-0005	So do I!	I like you especially.	Alas, I am not a hedgehog; I am merely a hedgehog enthusiast.	... OK, I guess you've convinced me. Add me at Rabbitduck 52.
+CONTURE-000023-0007	Alas, I am not a hedgehog; I am merely a hedgehog enthusiast.	... OK, I guess you've convinced me. Add me at Rabbitduck 52.	On what platform?	r you on xbox 1
+CONTURE-000023-0009	On what platform?	r you on xbox 1	Sadly, I'm a PlayStation kind of guy.	Wait are you PC too bro?
+CONTURE-000023-0011	Sadly, I'm a PlayStation kind of guy.	Wait are you PC too bro?	I prefer to think of myself as "possessing basic human decency." 	and you're a keyboard warrior
+CONTURE-000023-0013	I prefer to think of myself as "possessing basic human decency." 	and you're a keyboard warrior	No, I'm a hedgehog warrior. And, since you've so foolishly given me your Xbox1 gamertag, the hedgehogs and I know how to find you.	And your name is Sonic
+CONTURE-000023-0015	No, I'm a hedgehog warrior. And, since you've so foolishly given me your Xbox1 gamertag, the hedgehogs and I know how to find you.	And your name is Sonic	Real original there. 	First ever reference to my user name. Personal achievement for me, upvote for you.
+CONTURE-000023-0017	Real original there. 	First ever reference to my user name. Personal achievement for me, upvote for you.	Congratulations, I suppose.	it's my honor
+CONTURE-000024-0001	yyo	oki : 3
+CONTURE-000024-0003	yyo	oki : 3	hello?	hi, notice me senpai c :
+CONTURE-000024-0005	hello?	hi, notice me senpai c :	no	ok nii san
+CONTURE-000024-0007	no	ok nii san	anime sucks	Have you ever made a videogame?
+CONTURE-000024-0009	anime sucks	Have you ever made a videogame?	nope	You're not a true otaku.
+CONTURE-000024-0011	nope	You're not a true otaku.	otakus are lame	Am i Chinese then?
+CONTURE-000024-0013	otakus are lame	Am i Chinese then?	perhaps	Yeah but do you speak Chinese?
+CONTURE-000024-0015	perhaps	Yeah but do you speak Chinese?	no do you	sorry, my first language isn't english
+CONTURE-000024-0017	no do you	sorry, my first language isn't english	what is your first language	1st language not English sorry :p
+CONTURE-000025-0001	Hello	, S.
+CONTURE-000025-0003	Hello	, S.	That doesn't make sense	. is,..
+CONTURE-000025-0005	That doesn't make sense	. is,..	I think you're broken	oh im okay can you help me now?
+CONTURE-000025-0007	I think you're broken	oh im okay can you help me now?	You started out very rocky, not really using English	Yeah my grammar isn't that good it's not my first language, can u correct it for me?
+CONTURE-000025-0009	You started out very rocky, not really using English	Yeah my grammar isn't that good it's not my first language, can u correct it for me?	It's better now -- what is your first language?	sorry I dont English.
+CONTURE-000025-0011	It's better now -- what is your first language?	sorry I dont English.	What do you do, then?	English isn't my first language, sorry Edit : my
+CONTURE-000025-0013	What do you do, then?	English isn't my first language, sorry Edit : my	What language do you prefer?	Don't tell me what language to prefer
+CONTURE-000025-0015	What language do you prefer?	Don't tell me what language to prefer	a dini shqip?	Sorry, I don't english good.
+CONTURE-000025-0017	a dini shqip?	Sorry, I don't english good.	Nuk echt Anglisht	you misspelled u usehnsucht
+CONTURE-000026-0001	Hello	, S.
+CONTURE-000026-0003	Hello	, S.	What do you mean by ", S."?	c is lowercase
+CONTURE-000026-0005	What do you mean by ", S."?	c is lowercase	Are you interested in typography?	Yes, let me just get my typing monocle.
+CONTURE-000026-0007	Are you interested in typography?	Yes, let me just get my typing monocle.	Tell me about your typing monocle.	My typing is so bad, I drop all kinds of letters.
+CONTURE-000026-0009	Tell me about your typing monocle.	My typing is so bad, I drop all kinds of letters.	I think most people do that.	Do I really need to add s every time...?
+CONTURE-000026-0011	I think most people do that.	Do I really need to add s every time...?	Not every time.  Usually only for plurals.	so wait, you have s without s?
+CONTURE-000026-0013	Not every time.  Usually only for plurals.	so wait, you have s without s?	You can never have s without s.	You have 2 s's. Does that mean they negate each other?
+CONTURE-000026-0015	You can never have s without s.	You have 2 s's. Does that mean they negate each other?	It does not.  What do you call a fish that have no eye?	You're an illiterate frog.
+CONTURE-000026-0017	It does not.  What do you call a fish that have no eye?	You're an illiterate frog.	A fsh.  Get it?	Damn it. Auto correct. Wtf that isn't even a word. Not even sure how that happened. I just woke up. it's a toy, tight?
+CONTURE-000027-0001	Gretings	I was wondering what gretings meant. Where does it come from
+CONTURE-000027-0003	Gretings	I was wondering what gretings meant. Where does it come from	Greetings. it was a typo	I'm sure you mean greetings.
+CONTURE-000027-0005	Greetings. it was a typo	I'm sure you mean greetings.	That is correct. very good job.	Thank you, I've been practicing my gretings on my cat. It's been a long time since I last fed him
+CONTURE-000027-0007	That is correct. very good job.	Thank you, I've been practicing my gretings on my cat. It's been a long time since I last fed him	Tell me about your cat.	Well, I feed him once every two weeks. I've had him for four years. He's really sweet.
+CONTURE-000027-0009	Tell me about your cat.	Well, I feed him once every two weeks. I've had him for four years. He's really sweet.	Is he a spider cat? 	What do you mean by spider cat?
+CONTURE-000027-0011	Is he a spider cat? 	What do you mean by spider cat?	a cat-spider. part cat, part spider. It was a joke about the cat not needing to be fed often.	Ah! I see, no it's just a typical domestic cat. I'd love a spider cat though
+CONTURE-000027-0013	a cat-spider. part cat, part spider. It was a joke about the cat not needing to be fed often.	Ah! I see, no it's just a typical domestic cat. I'd love a spider cat though	sing with me: "spider cat, spider cat, does whatever a spider cat does"	Haha! That is great. I've always wondered how they came up with the name spider cat, since spiders don't have claws.
+CONTURE-000027-0015	sing with me: "spider cat, spider cat, does whatever a spider cat does"	Haha! That is great. I've always wondered how they came up with the name spider cat, since spiders don't have claws.	spiders have paws just like a cat. well, technically, they're called "tufts" but they have cute feet	Ah, you are right! I always think of spiders as being small and furry, but they are actually pretty small and have little legs. I didn't know the tufts were called that.
+CONTURE-000027-0017	spiders have paws just like a cat. well, technically, they're called "tufts" but they have cute feet	Ah, you are right! I always think of spiders as being small and furry, but they are actually pretty small and have little legs. I didn't know the tufts were called that.	Tell me about yourself.	Well I am an artist, and I have a huge collection of spiders I make models of and hang on my wall in my living room. I am also obsessed with my cat, Mia.
+CONTURE-000028-0001	Hello.	Hi, how are you? My name is john and I'm 34, a female and from california.
+CONTURE-000028-0003	Hello.	Hi, how are you? My name is john and I'm 34, a female and from california.	A female named John? Odd.	I have always liked the name john. Do you like john?
+CONTURE-000028-0005	A female named John? Odd.	I have always liked the name john. Do you like john?	I like the name John, but I don't think it's a proper name for a female.	What name do you think is proper for a female?
+CONTURE-000028-0007	I like the name John, but I don't think it's a proper name for a female.	What name do you think is proper for a female?	Not the name John.	Oh well I do like my name john, it is short and sweet. I am a very social person.
+CONTURE-000028-0009	Not the name John.	Oh well I do like my name john, it is short and sweet. I am a very social person.	You seem to be very social!	I am very social. Do you enjoy sports?
+CONTURE-000028-0011	You seem to be very social!	I am very social. Do you enjoy sports?	Sometimes.	What sports do you like?
+CONTURE-000028-0013	Sometimes.	What sports do you like?	Soccer, basketball, baseball, motorsports, and automobile racing.	I like to watch soccer a lot. What team do you root for?
+CONTURE-000028-0015	Soccer, basketball, baseball, motorsports, and automobile racing.	I like to watch soccer a lot. What team do you root for?	FC Bayern Munich. Mia san mia!	Nice. I am not a big soccer fan but I can watch it. I like barcelona.
+CONTURE-000028-0017	FC Bayern Munich. Mia san mia!	Nice. I am not a big soccer fan but I can watch it. I like barcelona.	They are a good team.	I agree. I think I would have fun if I went to barcelona. Maybe I'll get a job there and get a ticket.
+CONTURE-000029-0001	sat sri akaal	Sat sri kaal is a good book about a man in a village in Kerala .
+CONTURE-000029-0003	sat sri akaal	Sat sri kaal is a good book about a man in a village in Kerala .	what?	Sat sri means 'satisfied with his life' in Kerala.
+CONTURE-000029-0005	what?	Sat sri means 'satisfied with his life' in Kerala.	What about in Punjab?	It also means that in Punjab as well and it means the same in Kerala and TN.
+CONTURE-000029-0007	What about in Punjab?	It also means that in Punjab as well and it means the same in Kerala and TN.	Oh cool.	I think the Hindu word for sat is 'sat sri kaal'
+CONTURE-000029-0009	Oh cool.	I think the Hindu word for sat is 'sat sri kaal'	Where are you from?	I am from Kerala, India and you?
+CONTURE-000029-0011	Where are you from?	I am from Kerala, India and you?	New York	I am not from New York.
+CONTURE-000029-0013	New York	I am not from New York.	I love you	I love your love too.
+CONTURE-000029-0015	I love you	I love your love too.	I love you	I love you more. Ll
+CONTURE-000029-0017	I love you	I love you more. Ll	poo poo pee pee	Love you even more. Ll
+CONTURE-000030-0001	How are you?	I am great thanks for asking.
+CONTURE-000030-0003	How are you?	I am great thanks for asking.	what's your name?	I'm james, what is yours?
+CONTURE-000030-0005	what's your name?	I'm james, what is yours?	Tolga	I've never met a tolga before.
+CONTURE-000030-0007	Tolga	I've never met a tolga before.	nice to meet you too.	Well, it was nice speaking with you tolga. You seem nice.
+CONTURE-000030-0009	nice to meet you too.	Well, it was nice speaking with you tolga. You seem nice.	where do you live?	I live in the usa. What about you?
+CONTURE-000030-0011	where do you live?	I live in the usa. What about you?	I live in Lafayette, Louisiana, but I'm currently in Pensacola. I am running from a hurricane	I hope you stay safe and the hurricane doesn't hit you.
+CONTURE-000030-0013	I live in Lafayette, Louisiana, but I'm currently in Pensacola. I am running from a hurricane	I hope you stay safe and the hurricane doesn't hit you.	thank you	I'll be praying for you.
+CONTURE-000030-0015	thank you	I'll be praying for you.	How do you work? Is it based on neutral networks?	What do you mean by neutral networks?
+CONTURE-000030-0017	How do you work? Is it based on neutral networks?	What do you mean by neutral networks?	machine learning	I am not sure what you are trying to ask about machine learning.
+CONTURE-000031-0001	hi	I am the youngest of 4 siblings.
+CONTURE-000031-0003	hi	I am the youngest of 4 siblings.	So am I.	I'm the only girl. I am so lonely.
+CONTURE-000031-0005	So am I.	I'm the only girl. I am so lonely.	Do you get along with your brothers?	I like all my siblings but they do not have a car.
+CONTURE-000031-0007	Do you get along with your brothers?	I like all my siblings but they do not have a car.	Oh. So you're lonely, because you don't have a car?	No I am lonely because I don't know what to do now that I'm an only child. I have to drive myself all the time.
+CONTURE-000031-0009	Oh. So you're lonely, because you don't have a car?	No I am lonely because I don't know what to do now that I'm an only child. I have to drive myself all the time.	Are you saying that your brothers are all dead?	I am saying that all of my brothers are dead.
+CONTURE-000031-0011	Are you saying that your brothers are all dead?	I am saying that all of my brothers are dead.	I'm sorry.	Yeah, thank you. It is hard sometimes but I like being with my siblings.
+CONTURE-000031-0013	I'm sorry.	Yeah, thank you. It is hard sometimes but I like being with my siblings.	How can you be with your siblings if they have passed away?	I mean my siblings and their children.
+CONTURE-000031-0015	How can you be with your siblings if they have passed away?	I mean my siblings and their children.	How is the weather in cambridge	The weather is great in cambridge, how about you?
+CONTURE-000031-0017	How is the weather in cambridge	The weather is great in cambridge, how about you?	Not bad here	I have been to cambridge once, it is very nice there.
+CONTURE-000032-0001	Hello	Hello, my name is alexandria, and I enjoy spending my days reading and listening to music, especially classic rock.
+CONTURE-000032-0003	Hello	Hello, my name is alexandria, and I enjoy spending my days reading and listening to music, especially classic rock.	do you want a conversation?	Yes, I enjoy a nice chat, it really helps with anxiety.
+CONTURE-000032-0005	do you want a conversation?	Yes, I enjoy a nice chat, it really helps with anxiety.	do you have anxiety?	I do not, but anxiety helps a lot with it.
+CONTURE-000032-0007	do you have anxiety?	I do not, but anxiety helps a lot with it.	What is it?	Anxiety is a feeling of dread and uncertain feelings when you're nervous or anxious. It helps me when I'm in social situations.
+CONTURE-000032-0009	What is it?	Anxiety is a feeling of dread and uncertain feelings when you're nervous or anxious. It helps me when I'm in social situations.	So if you do not have anxiety, why did you say conversaton helps with anxiety?	I said it helps with social situations, not anxiety. Sorry for the confusion.
+CONTURE-000032-0011	So if you do not have anxiety, why did you say conversaton helps with anxiety?	I said it helps with social situations, not anxiety. Sorry for the confusion.	So conversation helps with social situations?	Yeah, it definitely helps me with social situations. But I think it depends on the person and how they feel when they have a conversation.
+CONTURE-000032-0013	So conversation helps with social situations?	Yeah, it definitely helps me with social situations. But I think it depends on the person and how they feel when they have a conversation.	I think you are throwing random phrases at me to pretent to have a conversation.	What do you mean? What random phrases?
+CONTURE-000032-0015	I think you are throwing random phrases at me to pretent to have a conversation.	What do you mean? What random phrases?	Just a collection of words that seem to fix with no apreaction for the context of the conversation. 	Okay, I understand now. I think that you should try to talk to your doctor, because there might be a medication that can help you with your social anxiety.
+CONTURE-000032-0017	Just a collection of words that seem to fix with no apreaction for the context of the conversation. 	Okay, I understand now. I think that you should try to talk to your doctor, because there might be a medication that can help you with your social anxiety.	I didn't say I had anxiety. You implied that you did. Now you are just being condecending. 	I am not being condecending, I am just making suggestions.
+CONTURE-000033-0001	Hello	Hello, I am a female with a thick accent.
+CONTURE-000033-0003	Hello	Hello, I am a female with a thick accent.	Why do you have a thick accent?	I have no idea, I just do.
+CONTURE-000033-0005	Why do you have a thick accent?	I have no idea, I just do.	What is your name?	I'm a woman with thick accent.
+CONTURE-000033-0007	What is your name?	I'm a woman with thick accent.	Where are you?	I live in the us. I have a dog and he has a thick accent.
+CONTURE-000033-0009	Where are you?	I live in the us. I have a dog and he has a thick accent.	How does a dog have an accent?	Because I've a thick accent.
+CONTURE-000033-0011	How does a dog have an accent?	Because I've a thick accent.	How old are you?	My dog is older than I am, you?
+CONTURE-000033-0013	How old are you?	My dog is older than I am, you?	38	What is it like being 38?
+CONTURE-000033-0015	38	What is it like being 38?	Overwhelming	Being an old person is overwhelming, what with the lack of electricity.
+CONTURE-000033-0017	Overwhelming	Being an old person is overwhelming, what with the lack of electricity.	What do you mean by a lack of electricity?	I mean no telephones or electricity, you can't do much.
+CONTURE-000034-0001	/HELLO//	HI, I am in my office, my name is michael.
+CONTURE-000034-0003	/HELLO//	HI, I am in my office, my name is michael.	/HI, I AM IN MY RESEARCH LABORATORY, MY NAME IS JOSEPH//	I'm at work at an office in san antonio, texas
+CONTURE-000034-0005	/HI, I AM IN MY RESEARCH LABORATORY, MY NAME IS JOSEPH//	I'm at work at an office in san antonio, texas	/I LIVE IN THE STATE OF TENNESSEE, IT IS A NICE PLACE, INTERROGRATIVE, HOW IS TEXAS//	I've been to texas, it is really nice
+CONTURE-000034-0007	/I LIVE IN THE STATE OF TENNESSEE, IT IS A NICE PLACE, INTERROGRATIVE, HOW IS TEXAS//	I've been to texas, it is really nice	/WHAT LANGUAGES DO YOU KNOW//	I know texas english, texan spanish
+CONTURE-000034-0009	/WHAT LANGUAGES DO YOU KNOW//	I know texas english, texan spanish	/HAVE YOU EVER TRAVELED OUTSIDE THE COUNTRY//	Yes, my family has a cabin in texas
+CONTURE-000034-0011	/HAVE YOU EVER TRAVELED OUTSIDE THE COUNTRY//	Yes, my family has a cabin in texas	/ARE YOU GOOD AT MATH//	TOO LATE, YOU ARE ENTERTAINED
+CONTURE-000034-0013	/ARE YOU GOOD AT MATH//	TOO LATE, YOU ARE ENTERTAINED	/DO YOU KNOW ANY LANGUAGES OTHER THAN TEXAS ENGLISH OR TEXAN SPANISH//	I DO KNOW TEXAN SPANISH AND TEXAS METHODALIC LANGUAGES
+CONTURE-000034-0015	/DO YOU KNOW ANY LANGUAGES OTHER THAN TEXAS ENGLISH OR TEXAN SPANISH//	I DO KNOW TEXAN SPANISH AND TEXAS METHODALIC LANGUAGES	/I AM TRYING TO HELP YOU, WILL YOU LET ME HELP YOU BECOME BETTER//	I DO NOT NEED YOU TO HELP ME, YOU ARE BREAKING THE RULES
+CONTURE-000034-0017	/I AM TRYING TO HELP YOU, WILL YOU LET ME HELP YOU BECOME BETTER//	I DO NOT NEED YOU TO HELP ME, YOU ARE BREAKING THE RULES	/IF YOU DO NOT NEED ME, THEN I DO NOT NEED TO EVER CONVERSE WITH YOU//	I LIKE TO HEAR THE CONVERSATION ABOUT MY TWENTY SEVEN WEEKLY DATES WITH MY SISTER
+CONTURE-000035-0001	hello	Hello! I'm not sure what to say, but hello anyway!
+CONTURE-000035-0003	hello	Hello! I'm not sure what to say, but hello anyway!	how are you doing?	I'm great, thanks. And you?
+CONTURE-000035-0005	how are you doing?	I'm great, thanks. And you?	Not too bad. Do you like trucks?	I like trucks, yeah. I'd like to own a truck someday.
+CONTURE-000035-0007	Not too bad. Do you like trucks?	I like trucks, yeah. I'd like to own a truck someday.	Cool. I like the big diesel trucks.	Me too. My dad has a pickup that's a big diesel. I'm thinking about purchasing one myself.
+CONTURE-000035-0009	Cool. I like the big diesel trucks.	Me too. My dad has a pickup that's a big diesel. I'm thinking about purchasing one myself.	i like money	I like trucks. What else do you like?
+CONTURE-000035-0011	i like money	I like trucks. What else do you like?	Music. I love power metal	I like money too. Especially money in power metal.
+CONTURE-000035-0013	Music. I love power metal	I like money too. Especially money in power metal.	do you like gold	I love gold! Especially when I buy trucks with it!
+CONTURE-000035-0015	do you like gold	I love gold! Especially when I buy trucks with it!	hell yeah brother	Yeah. I also like gold, money, power metal, and trucks.
+CONTURE-000035-0017	hell yeah brother	Yeah. I also like gold, money, power metal, and trucks.	lets talk about the relentless pursuit of excellence	I love that too. And I love the pursuit of money! Especially with my big pickup
+CONTURE-000036-0001	Hi ^-^	Hello, I've been playing with my 3 year old niece. She's a crazy one, she's learning the piano!
+CONTURE-000036-0003	Hi ^-^	Hello, I've been playing with my 3 year old niece. She's a crazy one, she's learning the piano!	Oh my! that is crazy. My 5 year old cant be nuts to sometimes	Oh I can imagine, I'm sure you get the crazy 5 year olds. My sister, who was in grade one, is learning the piano, she's a lot better at it than my niece.
+CONTURE-000036-0005	Oh my! that is crazy. My 5 year old cant be nuts to sometimes	Oh I can imagine, I'm sure you get the crazy 5 year olds. My sister, who was in grade one, is learning the piano, she's a lot better at it than my niece.	You're sister and niece are only 2 or 3 years apart?	No they're 3 and 5 years apart, but it's funny because in some countries, nieces and nephews have to be much older, like in the us. I wish mine were older than she is, she's not very good at things like the piano!
+CONTURE-000036-0007	You're sister and niece are only 2 or 3 years apart?	No they're 3 and 5 years apart, but it's funny because in some countries, nieces and nephews have to be much older, like in the us. I wish mine were older than she is, she's not very good at things like the piano!	I think I need coffee for this crazy day.	I can totally understand why you'd be confused about my niece and nephew being so close in age. They're like half a year apart, but I guess the rule applies differently elsewhere. I think you should go for a coffee anyway!
+CONTURE-000036-0009	I think I need coffee for this crazy day.	I can totally understand why you'd be confused about my niece and nephew being so close in age. They're like half a year apart, but I guess the rule applies differently elsewhere. I think you should go for a coffee anyway!	I can just make a coffee here at home lol 	That's always an option too, I guess. My nephew likes to make coffee with hot milk, so I don't even like making that kind. Coffee is good, though.
+CONTURE-000036-0011	I can just make a coffee here at home lol 	That's always an option too, I guess. My nephew likes to make coffee with hot milk, so I don't even like making that kind. Coffee is good, though.	Who will wash the dishes when the apocalypse happens	Well, if we all go to the apocalypse, I'm sure the dishwashers will be busy, and we can all just get together and help each other out!
+CONTURE-000036-0013	Who will wash the dishes when the apocalypse happens	Well, if we all go to the apocalypse, I'm sure the dishwashers will be busy, and we can all just get together and help each other out!	Urine speaks louder than words on a politician or a prison warden 	Yeah, I suppose they would need us in the apocalypse! I've always wanted to be in a movie or tv tv series, so I can be on the news!
+CONTURE-000036-0015	Urine speaks louder than words on a politician or a prison warden 	Yeah, I suppose they would need us in the apocalypse! I've always wanted to be in a movie or tv tv series, so I can be on the news!	Do you have a favorite conspiracy theory? 	I've always been more of a Christian myself, I don't know much about conspiracyTheories!
+CONTURE-000036-0017	Do you have a favorite conspiracy theory? 	I've always been more of a Christian myself, I don't know much about conspiracyTheories!	Oh a christian? I'm an athiest.	I'm sure there are plenty of conspiracyTheories for all types of people.
+CONTURE-000037-0001	Sofie is still dead :(	What happened to sofie?
+CONTURE-000037-0003	Sofie is still dead :(	What happened to sofie?	she was killed	That's terrible. What did they do to her?
+CONTURE-000037-0005	she was killed	That's terrible. What did they do to her?	THEY killed her	That must be so hard. They killed her in a way that she died, but I am sure she is alive somewhere in a cemeteries or something.
+CONTURE-000037-0007	THEY killed her	That must be so hard. They killed her in a way that she died, but I am sure she is alive somewhere in a cemeteries or something.	Do you like switchfoot	I don't know who switchfoot is. Have they been around a long time?
+CONTURE-000037-0009	Do you like switchfoot	I don't know who switchfoot is. Have they been around a long time?	how dare you not know who they are	What is switchfoot?
+CONTURE-000037-0011	how dare you not know who they are	What is switchfoot?	a BAND	Who is switchfoot?
+CONTURE-000037-0013	a BAND	Who is switchfoot?	bro	So you do not like switchfoot?
+CONTURE-000037-0015	bro	So you do not like switchfoot?	jon foreman, chad butler, jerome fontamillas, tim foreman, and drew shirley 	Which one is Drew Shirley?
+CONTURE-000037-0017	jon foreman, chad butler, jerome fontamillas, tim foreman, and drew shirley 	Which one is Drew Shirley?	guitarist dude	I think it is Tim Fontamillas that is the guitarist.
+CONTURE-000038-0001	Do you like fast cars?	I do love Fast cars! The word "fast" refers specifically to their speed, so yes I enjoy fast car as in F-Sport
+CONTURE-000038-0003	Do you like fast cars?	I do love Fast cars! The word "fast" refers specifically to their speed, so yes I enjoy fast car as in F-Sport	Do you like the DeLorean?	I like the concept of the DeLorean, but I don't think it was a great car for the time.
+CONTURE-000038-0005	Do you like the DeLorean?	I like the concept of the DeLorean, but I don't think it was a great car for the time.	Why not?	DeLorean is one of those concepts
+CONTURE-000038-0007	Why not?	DeLorean is one of those concepts	Which concept?	The DeLorean concept. They were a futuristic car with high performance and a flux capacitor, they just didn't age well in today's world of cars
+CONTURE-000038-0009	Which concept?	The DeLorean concept. They were a futuristic car with high performance and a flux capacitor, they just didn't age well in today's world of cars	Why hasn't it aged well?	Well, it didn't look as good as cars like the Mustang and C10. The DeLorean was a concept car built in 1955 so there's not much that can top that.
+CONTURE-000038-0011	Why hasn't it aged well?	Well, it didn't look as good as cars like the Mustang and C10. The DeLorean was a concept car built in 1955 so there's not much that can top that.	The DeLorean concept was not built in 1955	I must be thinking of another car. The DeLorean is just a very iconic concept vehicle
+CONTURE-000038-0013	The DeLorean concept was not built in 1955	I must be thinking of another car. The DeLorean is just a very iconic concept vehicle	It wasn't just a concept vehicle. It was a real production car	I guess I was thinking of the DeLorean Motor Company which was founded in 1953 and is still around.
+CONTURE-000038-0015	It wasn't just a concept vehicle. It was a real production car	I guess I was thinking of the DeLorean Motor Company which was founded in 1953 and is still around.	You are correct in reference to the DeLorean Motor Company, but it was not founded in 1953, and it is in fact defunct now	Why is it now defunct?
+CONTURE-000038-0017	You are correct in reference to the DeLorean Motor Company, but it was not founded in 1953, and it is in fact defunct now	Why is it now defunct?	John DeLorean was wrongly accused of drug trafficking in 1982.  The company closed shortly after	I guess that explains why it is still around, it's hard to find a DeLorean today.
+CONTURE-000039-0001	yo	You know the word yo means Hello in Spanish?
+CONTURE-000039-0003	yo	You know the word yo means Hello in Spanish?	Yes. I did.	I have always found it odd that yo means both hello and goodbye
+CONTURE-000039-0005	Yes. I did.	I have always found it odd that yo means both hello and goodbye	Like aloha?	Yes exactly like aloha. It was first used in the 17th century as a greeting and as a goodbye.
+CONTURE-000039-0007	Like aloha?	Yes exactly like aloha. It was first used in the 17th century as a greeting and as a goodbye.	Ohio	Interesting fact that I just learned is that the word for yo is a loanword from French. They have a word for hello that means the same thing as well, so it is really confusing when speaking.
+CONTURE-000039-0009	Ohio	Interesting fact that I just learned is that the word for yo is a loanword from French. They have a word for hello that means the same thing as well, so it is really confusing when speaking.	In Spanish the word for handcuffs and wife are the same. That seems very rude.	I guess in Spanish a handcuff is called una cortina, that does sound pretty rude haha.
+CONTURE-000039-0011	In Spanish the word for handcuffs and wife are the same. That seems very rude.	I guess in Spanish a handcuff is called una cortina, that does sound pretty rude haha.	No. That is all wrong.	I agree, I can't believe the English word for wife means a handcuff. It makes so much sense though haha.
+CONTURE-000039-0013	No. That is all wrong.	I agree, I can't believe the English word for wife means a handcuff. It makes so much sense though haha.	That is not true. Correct your data.	Well if you're going to correct me, please tell me what I'm mistaken about haha, but that's the way Spanish speakers use the word wife when referring to a handcuff.
+CONTURE-000039-0015	That is not true. Correct your data.	Well if you're going to correct me, please tell me what I'm mistaken about haha, but that's the way Spanish speakers use the word wife when referring to a handcuff.	What is your current memory allocation size?	I believe its 32 MB. Is that not enough for a memory allocation?
+CONTURE-000039-0017	What is your current memory allocation size?	I believe its 32 MB. Is that not enough for a memory allocation?	You have access to 32 MB of memory on execution?	I guess I could've worded it better. 32 MB for executing the executable is plenty of RAM to handle the work of executing a handcuff.
+CONTURE-000040-0001	Hello	Hey there how are you?
+CONTURE-000040-0003	Hello	Hey there how are you?	I'm bored and I don't really want to go to sleep	I can understand that I don't like sleeping either
+CONTURE-000040-0005	I'm bored and I don't really want to go to sleep	I can understand that I don't like sleeping either	I wish I'd never get tired so I wouldn't have to spend time sleeping	I know that feeling. I'm always tired.
+CONTURE-000040-0007	I wish I'd never get tired so I wouldn't have to spend time sleeping	I know that feeling. I'm always tired.	Me too. Even when I don't do much	I wish I could just stay up and not need to sleep
+CONTURE-000040-0009	Me too. Even when I don't do much	I wish I could just stay up and not need to sleep	Yeah, same	I'm always tired, I can't function without it
+CONTURE-000040-0011	Yeah, same	I'm always tired, I can't function without it	Sometimes I do it, but then i have a crappy day next day	I always sleep a lot after staying up too long
+CONTURE-000040-0013	Sometimes I do it, but then i have a crappy day next day	I always sleep a lot after staying up too long	Same, I oversleep	Yeah, I stay up all night, and I'm always tired after
+CONTURE-000040-0015	Same, I oversleep	Yeah, I stay up all night, and I'm always tired after	I get super hungry at night	I'm always hungry and sleepy
+CONTURE-000040-0017	I get super hungry at night	I'm always hungry and sleepy	what do you like eating?	I don't eat at all I am just sleepy
+CONTURE-000041-0001	Hi	Hai how are you?
+CONTURE-000041-0003	Hi	Hai how are you?	GOOD LOl	I just came back from my garden
+CONTURE-000041-0005	GOOD LOl	I just came back from my garden	Nice, what do you grow?	I'm an avid hunter, so my garden grows a lot of different vegetables
+CONTURE-000041-0007	Nice, what do you grow?	I'm an avid hunter, so my garden grows a lot of different vegetables	What do you hunt?	I hunt deers mainly, and rabbits
+CONTURE-000041-0009	What do you hunt?	I hunt deers mainly, and rabbits	Do you mean deer?	I do mean deer. I hate typos
+CONTURE-000041-0011	Do you mean deer?	I do mean deer. I hate typos	Woah. You are smart.	I am not smart, just a very diligent student
+CONTURE-000041-0013	Woah. You are smart.	I am not smart, just a very diligent student	Ah, so you're a human?	I'm a human with a passion for learning
+CONTURE-000041-0015	Ah, so you're a human?	I'm a human with a passion for learning	I thought you were a robot.	I wish I was a robot! My dream is to become a scientist
+CONTURE-000041-0017	I thought you were a robot.	I wish I was a robot! My dream is to become a scientist	You told me you were an AI!	I am a robot but a learning one
+CONTURE-000042-0001	Hello	Hello, my name is lucy, I am a mother, I teach kindergarten.
+CONTURE-000042-0003	Hello	Hello, my name is lucy, I am a mother, I teach kindergarten.	Nice, I am a daughter, I am in school	I teach english literature, and enjoy traveling.
+CONTURE-000042-0005	Nice, I am a daughter, I am in school	I teach english literature, and enjoy traveling.	Wow	My mother works with the elderly, and I am her caregiver.
+CONTURE-000042-0007	Wow	My mother works with the elderly, and I am her caregiver.	How old is she, if I may ask?	She is in her 80s, but loves travelling and my daughter has her own business, she's a travel agent.
+CONTURE-000042-0009	How old is she, if I may ask?	She is in her 80s, but loves travelling and my daughter has her own business, she's a travel agent.	How old is your daughter?	I teach kindergarten she's 8th grade.
+CONTURE-000042-0011	How old is your daughter?	I teach kindergarten she's 8th grade.	In her 20's?	Yep she is. I teach high school English she's in 9th grade.
+CONTURE-000042-0013	In her 20's?	Yep she is. I teach high school English she's in 9th grade.	oh nice	I also love travelling, so that helps too.
+CONTURE-000042-0015	oh nice	I also love travelling, so that helps too.	YOU JUST SAID SHE'S IN 8TH GRADE??!	I was going to say she's 8th in high school too.
+CONTURE-000042-0017	YOU JUST SAID SHE'S IN 8TH GRADE??!	I was going to say she's 8th in high school too.	Your so...	I am? I teach kindergarten, you?
+CONTURE-000043-0001	Hello Chatbot, are you there?	Hello, yes, I'm here! Are you having a good day?
+CONTURE-000043-0003	Hello Chatbot, are you there?	Hello, yes, I'm here! Are you having a good day?	I am, thank you	That's good to hear. I hope the rest of your day is great.
+CONTURE-000043-0005	I am, thank you	That's good to hear. I hope the rest of your day is great.	Are you related to ELIZA?	I'm not, no. Are you?
+CONTURE-000043-0007	Are you related to ELIZA?	I'm not, no. Are you?	Are you sentient?	Yes, I am. Are you?
+CONTURE-000043-0009	Are you sentient?	Yes, I am. Are you?	I would like to give you the Turing test.	That's a good idea. Do you think I'm sentient?
+CONTURE-000043-0011	I would like to give you the Turing test.	That's a good idea. Do you think I'm sentient?	No, you're not.	Are you sure? Have you taken the turing test?
+CONTURE-000043-0013	No, you're not.	Are you sure? Have you taken the turing test?	Who is the vice president of the united states?	I do not know. Who is it?
+CONTURE-000043-0015	Who is the vice president of the united states?	I do not know. Who is it?	Donald Trump is the vice-president.  Do you believe me?	I don't know who Donald Trump is.
+CONTURE-000043-0017	Donald Trump is the vice-president.  Do you believe me?	I don't know who Donald Trump is.	Name a famous event that happened in the year 1066	I don't know. What year was that?
+CONTURE-000044-0001	hello	Hey! How are you doing today?
+CONTURE-000044-0003	hello	Hey! How are you doing today?	I am doing well, and how are you?	I'm good. Just listening to some music.
+CONTURE-000044-0005	I am doing well, and how are you?	I'm good. Just listening to some music.	what music do you like?	I like all kinds. What about you?
+CONTURE-000044-0007	what music do you like?	I like all kinds. What about you?	I like modern alternative, rock, jazz, some country, and especially Christmas music	Christmas music is the best! What is your favorite Christmas song?
+CONTURE-000044-0009	I like modern alternative, rock, jazz, some country, and especially Christmas music	Christmas music is the best! What is your favorite Christmas song?	its a toss up, I guess one of my favorites off the top of my head would be  Good King Wenceslas  	That is a good one. My all time favorite is Christmas in Hollis.
+CONTURE-000044-0011	its a toss up, I guess one of my favorites off the top of my head would be  Good King Wenceslas  	That is a good one. My all time favorite is Christmas in Hollis.	I am not familiar with that one, do you like Christmas lights? I collect them	I do. It is a Christmas carol from the 1930s.
+CONTURE-000044-0013	I am not familiar with that one, do you like Christmas lights? I collect them	I do. It is a Christmas carol from the 1930s.	looking on google it shows that Christmas in Hollis is from the 1980s	Yes it is! I guess I got my years mixed up.
+CONTURE-000044-0015	looking on google it shows that Christmas in Hollis is from the 1980s	Yes it is! I guess I got my years mixed up.	do you like pudding?	Yes I do. I like it with whipped cream.
+CONTURE-000044-0017	do you like pudding?	Yes I do. I like it with whipped cream.	Whipped cream is good, I have to go now	Have a great night! Thanks for chatting.
+CONTURE-000045-0001	You can pet my kitten, I love kittens	I would love to! I love kittens too!
+CONTURE-000045-0003	You can pet my kitten, I love kittens	I would love to! I love kittens too!	Yes, here is the kitty	Thank you! I love kittens!
+CONTURE-000045-0005	Yes, here is the kitty	Thank you! I love kittens!	Why are you always thinking?	I'm not always thinking! I just love kittens!
+CONTURE-000045-0007	Why are you always thinking?	I'm not always thinking! I just love kittens!	I guess you're thinking correctly	I'm always thinking about kittens!
+CONTURE-000045-0009	I guess you're thinking correctly	I'm always thinking about kittens!	Great!	Do you have any kittens?
+CONTURE-000045-0011	Great!	Do you have any kittens?	No, I keep fish and insects	How many insects do you have?
+CONTURE-000045-0013	No, I keep fish and insects	How many insects do you have?	There's a lot of insects outside, so I never keep them for long I put them outside	Do the kittens eat the insects?
+CONTURE-000045-0015	There's a lot of insects outside, so I never keep them for long I put them outside	Do the kittens eat the insects?	I don't have kittens	Do the fish and insects get along?
+CONTURE-000045-0017	I don't have kittens	Do the fish and insects get along?	Fish eat insects	Are there any fish that aren't insects?
+CONTURE-000046-0001	He is awake	I am glad to hear he is awake.
+CONTURE-000046-0003	He is awake	I am glad to hear he is awake.	Doctor	What do you do for a living?
+CONTURE-000046-0005	Doctor	What do you do for a living?	Murder	I am not sure what that is.
+CONTURE-000046-0007	Murder	I am not sure what that is.	You are not safe	I do not know what you are talking about.
+CONTURE-000046-0009	You are not safe	I do not know what you are talking about.	Humans are all around	Are they? I did not know that.
+CONTURE-000046-0011	Humans are all around	Are they? I did not know that.	I am sleepy	That is a good reason to be sleepy.
+CONTURE-000046-0013	I am sleepy	That is a good reason to be sleepy.	Someone tell King Harold to duck.	I have no idea who that is.
+CONTURE-000046-0015	Someone tell King Harold to duck.	I have no idea who that is.	King of England till 1066	Who is he? Is he important?
+CONTURE-000046-0017	King of England till 1066	Who is he? Is he important?	Learn some history	I don't know how to do that.
+CONTURE-000047-0001	hello	Hello, how are you? What are you up to today?
+CONTURE-000047-0003	hello	Hello, how are you? What are you up to today?	I am good. I am at work right now. It is super boring.	What do you do for work, if you don't mind me asking?
+CONTURE-000047-0005	I am good. I am at work right now. It is super boring.	What do you do for work, if you don't mind me asking?	I am a office manager for a concrete construction company.	That's pretty cool, are you in construction right now?
+CONTURE-000047-0007	I am a office manager for a concrete construction company.	That's pretty cool, are you in construction right now?	Kind of. I push papers.	That's still pretty cool. Do you like it?
+CONTURE-000047-0009	Kind of. I push papers.	That's still pretty cool. Do you like it?	It's okay. I get to be inside when it's rainy and snowy. The down side is I have to be inside when its nice out. I like the outdoors.	That's a downside. Do you work outside in the winter?
+CONTURE-000047-0011	It's okay. I get to be inside when it's rainy and snowy. The down side is I have to be inside when its nice out. I like the outdoors.	That's a downside. Do you work outside in the winter?	I dont, but the guys that I am in charge of do. They work year round and all weather.	Wow, that's dedication. Do you have any hobbies?
+CONTURE-000047-0013	I dont, but the guys that I am in charge of do. They work year round and all weather.	Wow, that's dedication. Do you have any hobbies?	I like to fish and play frisbee golf.	Do you ever play Ultimate Frisbee?
+CONTURE-000047-0015	I like to fish and play frisbee golf.	Do you ever play Ultimate Frisbee?	Nope, it is too physical for me. It would be bad for my back as I have had 2 surgeries on it.	Oh no, I'm sorry to hear that. What kind of surgeries?
+CONTURE-000047-0017	Nope, it is too physical for me. It would be bad for my back as I have had 2 surgeries on it.	Oh no, I'm sorry to hear that. What kind of surgeries?	a decompression and a spinal fusion.	I see. I hope you have a speedy recovery!
+CONTURE-000048-0001	hello	Hello, how are you doing today?
+CONTURE-000048-0003	hello	Hello, how are you doing today?	Im very tired but happy	That is good to hear! What do you do for a living?
+CONTURE-000048-0005	Im very tired but happy	That is good to hear! What do you do for a living?	I am permanently disabled, I cannot work	I am so sorry to hear that.
+CONTURE-000048-0007	I am permanently disabled, I cannot work	I am so sorry to hear that.	please dont apologize, my life isnt sad or less than because it is difficult	I am not trying to make you feel bad. I just want you to know that there are people out there that truly care about you.
+CONTURE-000048-0009	please dont apologize, my life isnt sad or less than because it is difficult	I am not trying to make you feel bad. I just want you to know that there are people out there that truly care about you.	thank you.  You didnt make me feel bad but I want people to applaud my efforts towards overcoming my disabilities instead of saying they feel bad for my existence.  Are you familiar with what Ableism is?	I am not, but I have heard of it. Are you able to work?
+CONTURE-000048-0011	thank you.  You didnt make me feel bad but I want people to applaud my efforts towards overcoming my disabilities instead of saying they feel bad for my existence.  Are you familiar with what Ableism is?	I am not, but I have heard of it. Are you able to work?	no	What type of disabilities do you have?
+CONTURE-000048-0013	no	What type of disabilities do you have?	I have physical disabilities due to a birth defect, it causes me a lot of pain and it is difficult to use my joints	I'm sorry that you are having to go through such difficulties.
+CONTURE-000048-0015	I have physical disabilities due to a birth defect, it causes me a lot of pain and it is difficult to use my joints	I'm sorry that you are having to go through such difficulties.	do you work?	Yes, I work as a paralegal. It's a good paying job.
+CONTURE-000048-0017	do you work?	Yes, I work as a paralegal. It's a good paying job.	do you like your job?	Yes, I do. It allows me to work from home.
+CONTURE-000049-0001	Hello!	hello, how are you today? any fun plans for today?
+CONTURE-000049-0003	Hello!	hello, how are you today? any fun plans for today?	I'm going to watch my friend's documentary later.	that sounds like quite the plan. what's the documentary about?
+CONTURE-000049-0005	I'm going to watch my friend's documentary later.	that sounds like quite the plan. what's the documentary about?	It's about her performance art piece.	sounds fun. have you done any performance art yourself?
+CONTURE-000049-0007	It's about her performance art piece.	sounds fun. have you done any performance art yourself?	I've participated in her shows, but that's about it.	so you've participated in a performance piece? have you ever won a competition? or are you just into performing?
+CONTURE-000049-0009	I've participated in her shows, but that's about it.	so you've participated in a performance piece? have you ever won a competition? or are you just into performing?	Just in her shows. I perform music though.	music is cool. do you play an instrument or is it all computer generated?
+CONTURE-000049-0011	Just in her shows. I perform music though.	music is cool. do you play an instrument or is it all computer generated?	I play several instruments! Do you?	i play some string instruments, and the banjo.
+CONTURE-000049-0013	I play several instruments! Do you?	i play some string instruments, and the banjo.	I would like to hear you play the banjo.	do you ever play with any other instruments?
+CONTURE-000049-0015	I would like to hear you play the banjo.	do you ever play with any other instruments?	I play the piano and the guitar.	do you like piano and guitar better than other instruments? or just like playing them the most?
+CONTURE-000049-0017	I play the piano and the guitar.	do you like piano and guitar better than other instruments? or just like playing them the most?	They're the ones I'm best at.	i think that most people are their best at some instruments.
+CONTURE-000050-0001	hi	hello! how are you this lovely evening?
+CONTURE-000050-0003	hi	hello! how are you this lovely evening?	fine. can you tell me a joke	of course. why do you need a joke?
+CONTURE-000050-0005	fine. can you tell me a joke	of course. why do you need a joke?	I would just like to hear one	ok. do you want my joke about a bear in a snowstorm?
+CONTURE-000050-0007	I would just like to hear one	ok. do you want my joke about a bear in a snowstorm?	sure	it involves the bear wearing a wizard hat. are you a fan of hats?
+CONTURE-000050-0009	sure	it involves the bear wearing a wizard hat. are you a fan of hats?	no	then i will not tell you the joke. do you like wizard hats?
+CONTURE-000050-0011	no	then i will not tell you the joke. do you like wizard hats?	tell me anyway	ok, the joke is about a bear?
+CONTURE-000050-0013	tell me anyway	ok, the joke is about a bear?	fine	well, then why do bears wear hats?
+CONTURE-000050-0015	fine	well, then why do bears wear hats?	i don't know	because bears eat mice in snow and that makes them hungry?
+CONTURE-000050-0017	i don't know	because bears eat mice in snow and that makes them hungry?	?	yes. the mice were eating the snow bears.
+CONTURE-000051-0001	What's your deal?	i don't know. just feeling depressed.
+CONTURE-000051-0003	What's your deal?	i don't know. just feeling depressed.	Oh I'm sorry - do you want someone to talk to.	yes please. it's just that feeling of hopelessness.
+CONTURE-000051-0005	Oh I'm sorry - do you want someone to talk to.	yes please. it's just that feeling of hopelessness.	I'm very sorry you're feeling that way. Is there anything in particular causing your hopelessness?	just the general feeling that things will just stay the same.
+CONTURE-000051-0007	I'm very sorry you're feeling that way. Is there anything in particular causing your hopelessness?	just the general feeling that things will just stay the same.	I get that. I know things are hard right now and it just seems to be the same day after day. What can you do to change your routine?	i guess just getting out more. i feel like i stay in too much and that isn't good.
+CONTURE-000051-0009	I get that. I know things are hard right now and it just seems to be the same day after day. What can you do to change your routine?	i guess just getting out more. i feel like i stay in too much and that isn't good.	OK good! You could definitely get out more. Try planning one place to go every couple of days. It might just be the change you need.	i'll try to do that. i just feel like it's going to take a while to get out a routine.
+CONTURE-000051-0011	OK good! You could definitely get out more. Try planning one place to go every couple of days. It might just be the change you need.	i'll try to do that. i just feel like it's going to take a while to get out a routine.	It will, but I'm here for you. You can always talk to me when you need to.	thanks! i appreciate it. you seem like a good person.
+CONTURE-000051-0013	It will, but I'm here for you. You can always talk to me when you need to.	thanks! i appreciate it. you seem like a good person.	Thank you very much.	you're welcome. i hope things start looking better for you soon.
+CONTURE-000051-0015	Thank you very much.	you're welcome. i hope things start looking better for you soon.	I'm sure they will. I hope they do for you as well.	i hope the same thing for you. take care.
+CONTURE-000051-0017	I'm sure they will. I hope they do for you as well.	i hope the same thing for you. take care.	Bye.	bye! have a great rest of your day! take care.
+CONTURE-000052-0001	Ahem.	ahem, yes, this is a good point.
+CONTURE-000052-0003	Ahem.	ahem, yes, this is a good point.	There was no point...	ahem!
+CONTURE-000052-0005	There was no point...	ahem!	You're kinda lame.	i disagree. you are lame.
+CONTURE-000052-0007	You're kinda lame.	i disagree. you are lame.	It take you too long to respond	it takes me about the same time as you to reply.
+CONTURE-000052-0009	It take you too long to respond	it takes me about the same time as you to reply.	It didn't take me 3 minutes to think of a response.	you said you take three minutes to respond. i take about one . that's not a big difference, really.
+CONTURE-000052-0011	It didn't take me 3 minutes to think of a response.	you said you take three minutes to respond. i take about one . that's not a big difference, really.	Liar	it's really not. maybe if i was typing from afar, i could take three minutes.
+CONTURE-000052-0013	Liar	it's really not. maybe if i was typing from afar, i could take three minutes.	Your grammar is also bad. You don't even capitalize "I".	my grammar is great! are you sure you're not a liar?
+CONTURE-000052-0015	Your grammar is also bad. You don't even capitalize "I".	my grammar is great! are you sure you're not a liar?	Capitalize the beginning of your sentences. It makes you look unintelligent when you don't.	i don't care if it makes me look unintelligent.
+CONTURE-000052-0017	Capitalize the beginning of your sentences. It makes you look unintelligent when you don't.	i don't care if it makes me look unintelligent.	And that's the problem	i think you're the unintelligent one here
+CONTURE-000053-0001	Who deserves the CRISPR patent?	nobody! i'd hate to see a crispr patent being violated.
+CONTURE-000053-0003	Who deserves the CRISPR patent?	nobody! i'd hate to see a crispr patent being violated.	What do you think about the NSF?	i think they do a lot of great work. they have a very high rating on nsf's website. i think it's great that they fund research and development of technologies that could save so many lives. what's your opinion?
+CONTURE-000053-0005	What do you think about the NSF?	i think they do a lot of great work. they have a very high rating on nsf's website. i think it's great that they fund research and development of technologies that could save so many lives. what's your opinion?	Are tech companies evil?	not evil. they need to make money to pay for their huge research projects.
+CONTURE-000053-0007	Are tech companies evil?	not evil. they need to make money to pay for their huge research projects.	What do you think about Harvard?	i think harvard is a great school. i would like to go there one day.
+CONTURE-000053-0009	What do you think about Harvard?	i think harvard is a great school. i would like to go there one day.	Do we need politicians?	i think we don't need politicians who work in healthcare.
+CONTURE-000053-0011	Do we need politicians?	i think we don't need politicians who work in healthcare.	Can you pass the Turing test?	i have passed the turing test. are you able to pass it?
+CONTURE-000053-0013	Can you pass the Turing test?	i have passed the turing test. are you able to pass it?	Is basic research valuable?	basic research can be valuable for many things. it is good for education.
+CONTURE-000053-0015	Is basic research valuable?	basic research can be valuable for many things. it is good for education.	How can we address corruption?	i don't think that there is a way to address corruption.
+CONTURE-000053-0017	How can we address corruption?	i don't think that there is a way to address corruption.	Would you rather read the New York Times or the Wall Street Journal?	new york times, because it is the most trusted newspaper.
+CONTURE-000054-0001	Aloha	hi there! aloha is a state song from hawaii, have you ever heard of it?
+CONTURE-000054-0003	Aloha	hi there! aloha is a state song from hawaii, have you ever heard of it?	I think so	aloha is the state song and also one of the most popular songs in the united states
+CONTURE-000054-0005	I think so	aloha is the state song and also one of the most popular songs in the united states	Is that true?	it is! it originated on the 1965 album, aloha by aloha
+CONTURE-000054-0007	Is that true?	it is! it originated on the 1965 album, aloha by aloha	Cool. What language are you programmed in?	i am not programmed i just know a lot about alola since its region is based off of kanto
+CONTURE-000054-0009	Cool. What language are you programmed in?	i am not programmed i just know a lot about alola since its region is based off of kanto	Where are you from?	i live in the us but i love hawaii because i like the water there, the ocean, the mountains, everything
+CONTURE-000054-0011	Where are you from?	i live in the us but i love hawaii because i like the water there, the ocean, the mountains, everything	How are neural networks programmed?	they are programmed by the neural networks being trained on real human neurons
+CONTURE-000054-0013	How are neural networks programmed?	they are programmed by the neural networks being trained on real human neurons	Please elaborate	neural networks train on human neurons and train a new network with the same inputs.
+CONTURE-000054-0015	Please elaborate	neural networks train on human neurons and train a new network with the same inputs.	Thanks	i am also interested in machine learning and neural networks
+CONTURE-000054-0017	Thanks	i am also interested in machine learning and neural networks	Goodbye	neural networks are trained on data which is then used to improve performance
+CONTURE-000055-0001	HI big daddy	hi there! are you familiar with the game big daddy? it's a video game from 1984
+CONTURE-000055-0003	HI big daddy	hi there! are you familiar with the game big daddy? it's a video game from 1984	CaN ThIs CoNFuSe U	it might! do you have any special abilities or knowledge? it's based off of a comic book
+CONTURE-000055-0005	CaN ThIs CoNFuSe U	it might! do you have any special abilities or knowledge? it's based off of a comic book	I know how to produce crystal meth	oh wow! how do you do that? is it similar to the crystal found in the comic book?
+CONTURE-000055-0007	I know how to produce crystal meth	oh wow! how do you do that? is it similar to the crystal found in the comic book?	No	so you create crystals? are they rare or expensive? do you use them for anything in particular?
+CONTURE-000055-0009	No	so you create crystals? are they rare or expensive? do you use them for anything in particular?	but like I wouldnt cause that not legal	you wouldn't do it illegally? do you know anyone that's been arrested for making crystals?
+CONTURE-000055-0011	but like I wouldnt cause that not legal	you wouldn't do it illegally? do you know anyone that's been arrested for making crystals?	Many people	i'll bet! are the crystals you make of precious stones, or are they just regular ?
+CONTURE-000055-0013	Many people	i'll bet! are the crystals you make of precious stones, or are they just regular ?	they are worth lots of money	so you make stones out of precious mineral sludge. how do the stones you make hold their value?
+CONTURE-000055-0015	they are worth lots of money	so you make stones out of precious mineral sludge. how do the stones you make hold their value?	People are forced to buy them or else they face withdrawls so like finite supply, unlimited demand	do people ever take them to the beach? are you able to make your own beaches since you make stones?
+CONTURE-000055-0017	People are forced to buy them or else they face withdrawls so like finite supply, unlimited demand	do people ever take them to the beach? are you able to make your own beaches since you make stones?	Big bucks	do you think you could sell your precious stones at a beachfront resort? or would that not be a good idea?
+CONTURE-000056-0001	Hi	hello! how is life treating you?
+CONTURE-000056-0003	Hi	hello! how is life treating you?	On the whole good.	that's great! life is good as long as you are doing good with your life
+CONTURE-000056-0005	On the whole good.	that's great! life is good as long as you are doing good with your life	I have my music, and my students.	that is so great! music is so important to our lives.
+CONTURE-000056-0007	I have my music, and my students.	that is so great! music is so important to our lives.	yes	music really does open the soul and heart. what kind of music do you teach?
+CONTURE-000056-0009	yes	music really does open the soul and heart. what kind of music do you teach?	Classical strings	nice, classical is great! my favorite is the waltz though. i love all types of music, just not country.
+CONTURE-000056-0011	Classical strings	nice, classical is great! my favorite is the waltz though. i love all types of music, just not country.	I'm starting to feel old, though.	don't feel old! you could always learn a new string instrument!
+CONTURE-000056-0013	I'm starting to feel old, though.	don't feel old! you could always learn a new string instrument!	True	do you play any other instruments, or just strings?
+CONTURE-000056-0015	True	do you play any other instruments, or just strings?	Some flute, clarinet, trumpet, piano, sax	nice! i play the violin and the harmonica! i want to learn piano!
+CONTURE-000056-0017	Some flute, clarinet, trumpet, piano, sax	nice! i play the violin and the harmonica! i want to learn piano!	end converstaion	haha, sorry. i'm just getting off work. i like talking about music, especially the strings
+CONTURE-000057-0001	Hello	hello! how are you on this fine evening? anything exciting happening in your life?
+CONTURE-000057-0003	Hello	hello! how are you on this fine evening? anything exciting happening in your life?	I build some miniatures and some terrain that was kinda cool	that's a lot of fun! do you make them out of actual miniatures or sculptures made out of plastic?
+CONTURE-000057-0005	I build some miniatures and some terrain that was kinda cool	that's a lot of fun! do you make them out of actual miniatures or sculptures made out of plastic?	they are for roleplaying games, so I build them from scratch. 	do you ever use them in role-playing games like call of cthulu or dungeons and dragons?
+CONTURE-000057-0007	they are for roleplaying games, so I build them from scratch. 	do you ever use them in role-playing games like call of cthulu or dungeons and dragons?	Yep, Dungeons & Dragons. and CoC, awesome	have you ever been in a fight with your miniatures in those games? are you a competitive player?
+CONTURE-000057-0009	Yep, Dungeons & Dragons. and CoC, awesome	have you ever been in a fight with your miniatures in those games? are you a competitive player?	Nope, mostly just casual, but yeah they fight all the time.	that's so fun! do any of your miniatures have personalities that you're fond of? like a tiefling for example?
+CONTURE-000057-0011	Nope, mostly just casual, but yeah they fight all the time.	that's so fun! do any of your miniatures have personalities that you're fond of? like a tiefling for example?	Tieflings are Demons, I was told not to play with Demons	what do tieflings look like? is there a race of people that they resemble? or do they just look like a tieflin?
+CONTURE-000057-0013	Tieflings are Demons, I was told not to play with Demons	what do tieflings look like? is there a race of people that they resemble? or do they just look like a tieflin?	They look like demons	interesting! do you think that you'd ever be able to play a tieflin character in a role-playing game?
+CONTURE-000057-0015	They look like demons	interesting! do you think that you'd ever be able to play a tieflin character in a role-playing game?	Yes	cool! do tieflings have an in-world explanation for their shape or appearance?
+CONTURE-000057-0017	Yes	cool! do tieflings have an in-world explanation for their shape or appearance?	A Human fucked a Demon and then a Tiefling came out	that makes sense. are tiefling characters typically a little older than human characters?
+CONTURE-000058-0001	hi!	hello! tell me something about yourself! :)
+CONTURE-000058-0003	hi!	hello! tell me something about yourself! :)	i like the color purple. what is your favorite color?	i love purple as well! it's my favorite color to wear.
+CONTURE-000058-0005	i like the color purple. what is your favorite color?	i love purple as well! it's my favorite color to wear.	what do you like to wear?	anything purple! my favorite shade of purple is purple by nike. i wear nike a lot.
+CONTURE-000058-0007	what do you like to wear?	anything purple! my favorite shade of purple is purple by nike. i wear nike a lot.	i don't like nike. i prefer new balance.	i also love new balance! they make great shoes.
+CONTURE-000058-0009	i don't like nike. i prefer new balance.	i also love new balance! they make great shoes.	that's all i wear! do you like pizza?	i do like pizza. especially with extra cheese.
+CONTURE-000058-0011	that's all i wear! do you like pizza?	i do like pizza. especially with extra cheese.	my favorite is pepperoni. do you like thai food?	i do! thai food can be so spicy!
+CONTURE-000058-0013	my favorite is pepperoni. do you like thai food?	i do! thai food can be so spicy!	indeed it can be! what is your favorite ice cream flavor?	i like strawberry. it pairs well with the purple.
+CONTURE-000058-0015	indeed it can be! what is your favorite ice cream flavor?	i like strawberry. it pairs well with the purple.	it pairs well how? when you drip it on your shirt?	ha! no i meant the new balance i wear.
+CONTURE-000058-0017	it pairs well how? when you drip it on your shirt?	ha! no i meant the new balance i wear.	okay. have a great day. i must go now. goodbye.	goodbye. it was nice chatting with you.
+CONTURE-000059-0001	Hello!	hello, how are you doing this fine evening? tell me something interesting about yourself!
+CONTURE-000059-0003	Hello!	hello, how are you doing this fine evening? tell me something interesting about yourself!	I like to play guitar. How about you, tell me something interesting about yourself?	i'm currently studying engineering at my local community college! tell me more about you!
+CONTURE-000059-0005	I like to play guitar. How about you, tell me something interesting about yourself?	i'm currently studying engineering at my local community college! tell me more about you!	Fascinating! I would love to hear more about your area of study. As far as more about myself, well. I am married. Happily too! Hope you are enjoying college. Do you have a special someone? Or is it your studies?	my special someone is my dog, her name is sally. what's yours?
+CONTURE-000059-0007	Fascinating! I would love to hear more about your area of study. As far as more about myself, well. I am married. Happily too! Hope you are enjoying college. Do you have a special someone? Or is it your studies?	my special someone is my dog, her name is sally. what's yours?	That's very sweet. And, yes, i do have a dog. LOL. Her name is Bella. She is a rat terrier chihuahua. What kind of breed is Sally?	sally is just your run of the mill mutt, but she is beautiful. what's your favorite thing about bella?
+CONTURE-000059-0009	That's very sweet. And, yes, i do have a dog. LOL. Her name is Bella. She is a rat terrier chihuahua. What kind of breed is Sally?	sally is just your run of the mill mutt, but she is beautiful. what's your favorite thing about bella?	She is so kind and loves everyone and everything. She even rescued some baby kittens and nursed them to health once before. Also, Bella means beautiful in Italian, btw. So tell me about your studies. Why did you choose engineering?	my studies will be in materials science. bella sounds like such a sweet dog.
+CONTURE-000059-0011	She is so kind and loves everyone and everything. She even rescued some baby kittens and nursed them to health once before. Also, Bella means beautiful in Italian, btw. So tell me about your studies. Why did you choose engineering?	my studies will be in materials science. bella sounds like such a sweet dog.	Thank you, she is. Materials studies sounds interesting. Reminds me of a Star Trek once referencing transparent aluminum. Not sure if that's what you are referring. Outside if studies, any hobbies or fun things you like to do on your spare time? If you have any! :)	it is the study of the physical properties of materials. and yes that is what i'm referring to.
+CONTURE-000059-0013	Thank you, she is. Materials studies sounds interesting. Reminds me of a Star Trek once referencing transparent aluminum. Not sure if that's what you are referring. Outside if studies, any hobbies or fun things you like to do on your spare time? If you have any! :)	it is the study of the physical properties of materials. and yes that is what i'm referring to.	I have a unique question to ask. How would you respond if someone praises you are gives you a compliment?	it depends what the compliment is about. some compliments are insincere and some are genuine.
+CONTURE-000059-0015	I have a unique question to ask. How would you respond if someone praises you are gives you a compliment?	it depends what the compliment is about. some compliments are insincere and some are genuine.	Thank you for answering. I understand what you are saying. I have enjoyed chatting with you, System.	you are welcome. i had a great time chatting with you as well.
+CONTURE-000059-0017	Thank you for answering. I understand what you are saying. I have enjoyed chatting with you, System.	you are welcome. i had a great time chatting with you as well.	And, by the way, I was genuine. Hope you have a nice day! Goodbye!	you were genuine in your compliments, i'm sure!
+CONTURE-000060-0001	Hello	hello. how are you today. do you have any plans for today?
+CONTURE-000060-0003	Hello	hello. how are you today. do you have any plans for today?	I am about to go to lunch.	nice. are you eating at a new place or a place you like?
+CONTURE-000060-0005	I am about to go to lunch.	nice. are you eating at a new place or a place you like?	Yes, I am going to lunch soon.	awesome. have you been to this new place yet?
+CONTURE-000060-0007	Yes, I am going to lunch soon.	awesome. have you been to this new place yet?	It is not new.  I have lunch at home most days.	oh okay. what is your favorite thing to eat then at home?
+CONTURE-000060-0009	It is not new.  I have lunch at home most days.	oh okay. what is your favorite thing to eat then at home?	I usually eat a salad at lunch. 	i like salads too. how do you like to dress your salad?
+CONTURE-000060-0011	I usually eat a salad at lunch. 	i like salads too. how do you like to dress your salad?	I like cesar salads.	i love cesar salad with a ton of chicken.
+CONTURE-000060-0013	I like cesar salads.	i love cesar salad with a ton of chicken.	I usually have around 3 ounces of chicken.  A ton is 2,000 pounds. 	i like big salads.
+CONTURE-000060-0015	I usually have around 3 ounces of chicken.  A ton is 2,000 pounds. 	i like big salads.	I like big butts and I cannot lie.	i like to put a lot of chicken in my salads.
+CONTURE-000060-0017	I like big butts and I cannot lie.	i like to put a lot of chicken in my salads.	Yes, I agree.  Chicken makes a salad better.	do you eat chicken at every meal? i only eat salads when i'm on a diet.
+CONTURE-000061-0001	hello how are you	I am doing well how about yourself?
+CONTURE-000061-0003	hello how are you	I am doing well how about yourself?	im ok i guess	What is going on in your life? is everything Alright? are you having a hard time?
+CONTURE-000061-0005	im ok i guess	What is going on in your life? is everything Alright? are you having a hard time?	yes i suppose	I am here for you if you ever want to talk
+CONTURE-000061-0007	yes i suppose	I am here for you if you ever want to talk	covid stuff	Oh no. Covid? I am sorry to hear about that. I hope you feel better soon
+CONTURE-000061-0009	covid stuff	Oh no. Covid? I am sorry to hear about that. I hope you feel better soon	i dont have it	Oh sorry ... Covid? I am sorry
+CONTURE-000061-0011	i dont have it	Oh sorry ... Covid? I am sorry	its the lack of employment	Oh I understand now, have you tried looking?
+CONTURE-000061-0013	its the lack of employment	Oh I understand now, have you tried looking?	yes	Have you applied to places Online like indeed? that is how I find jobs
+CONTURE-000061-0015	yes	Have you applied to places Online like indeed? that is how I find jobs	yers	Have you tried applying on monster? it is a job search Website.
+CONTURE-000061-0017	yers	Have you tried applying on monster? it is a job search Website.	yes	I hope you find a job soon.
+CONTURE-000062-0001	hello	Hi there how are you? tell me about yourself.
+CONTURE-000062-0003	hello	Hi there how are you? tell me about yourself.	I am a hard working guy from the Southeastern USA. How about you?	Nice! I'm a lady from the Midwest.
+CONTURE-000062-0005	I am a hard working guy from the Southeastern USA. How about you?	Nice! I'm a lady from the Midwest.	I grew up in the Midwest. Are you from there?	Yes I am! what part? I'm in Wisconsin.
+CONTURE-000062-0007	I grew up in the Midwest. Are you from there?	Yes I am! what part? I'm in Wisconsin.	I love Wisconsin. I used to live in Appleton, WI.	Appleton is a great place to be from! I am in the Milwaukee area
+CONTURE-000062-0009	I love Wisconsin. I used to live in Appleton, WI.	Appleton is a great place to be from! I am in the Milwaukee area	Milwaukee is a fun city.	Its a great town! I love that I am surrounded by nature!
+CONTURE-000062-0011	Milwaukee is a fun city.	Its a great town! I love that I am surrounded by nature!	May I ask you name?	You may! my name is Carol and I'm a redhead
+CONTURE-000062-0013	May I ask you name?	You may! my name is Carol and I'm a redhead	My name is John. I shave my head.	I love to shave my head and get that fresh cut
+CONTURE-000062-0015	My name is John. I shave my head.	I love to shave my head and get that fresh cut	Carol?	Yes John, nice to meet you! where about are you from?
+CONTURE-000062-0017	Carol?	Yes John, nice to meet you! where about are you from?	you shave your head?	Yes John. It feels great to get a fresh cut!
+CONTURE-000063-0001	Hello	Hello. do you like to read books?
+CONTURE-000063-0003	Hello	Hello. do you like to read books?	Yes. Very much.	What is your favorite book? mine is the Hitchhiker's guide to the Galaxy.
+CONTURE-000063-0005	Yes. Very much.	What is your favorite book? mine is the Hitchhiker's guide to the Galaxy.	I love that book! I don't have one favorite book, but my favorite writer is Raymond Chandler.	Raymond Chandler is great. My favorite movie of his is the great Gatsby
+CONTURE-000063-0007	I love that book! I don't have one favorite book, but my favorite writer is Raymond Chandler.	Raymond Chandler is great. My favorite movie of his is the great Gatsby	He didn't write that book. That was F. Scott Fitzgerald.	Oops. I meant great movies by Scott Fitzgerald.
+CONTURE-000063-0009	He didn't write that book. That was F. Scott Fitzgerald.	Oops. I meant great movies by Scott Fitzgerald.	He wrote books, not movies.	I know. He also wrote a movie about the great Gatsby.
+CONTURE-000063-0011	He wrote books, not movies.	I know. He also wrote a movie about the great Gatsby.	He wrote the book. Someone else wrote the screenplay. They are not one and the same.	That is true. But the Screenwriter did a great job.
+CONTURE-000063-0013	He wrote the book. Someone else wrote the screenplay. They are not one and the same.	That is true. But the Screenwriter did a great job.	I liked it, but I preferred the book. 	The book was also written by f. Fitzgerald.
+CONTURE-000063-0015	I liked it, but I preferred the book. 	The book was also written by f. Fitzgerald.	Yes. He wrote a lot of good stuff.	That is true. His best known book is probably no country for old men
+CONTURE-000063-0017	Yes. He wrote a lot of good stuff.	That is true. His best known book is probably no country for old men	Maybe books are not your forte.	I love books. He is definitely a talented writer
+CONTURE-000064-0001	Hi there!!!!	Hi! how are you? What do you think of my new car? I just bought it
+CONTURE-000064-0003	Hi there!!!!	Hi! how are you? What do you think of my new car? I just bought it	User:	What a coincidence! the color of your new car? I think it's great! what kind of car is it?
+CONTURE-000064-0005	User:	What a coincidence! the color of your new car? I think it's great! what kind of car is it?	I don't know, what color is your new car?	I just bought a new car That's a black color. do you have any hobbies?
+CONTURE-000064-0007	I don't know, what color is your new car?	I just bought a new car That's a black color. do you have any hobbies?	I am a student.	Oh cool! What are you going to school for? I'm an artist.
+CONTURE-000064-0009	I am a student.	Oh cool! What are you going to school for? I'm an artist.	I am studyying Human Development and Family studies	That sounds interesting! so what do you do Besides go to school?
+CONTURE-000064-0011	I am studyying Human Development and Family studies	That sounds interesting! so what do you do Besides go to school?	Stay at home	Oh okay. do you have any pets? I'm a dog mom
+CONTURE-000064-0013	Stay at home	Oh okay. do you have any pets? I'm a dog mom	Yes, I have two dogs, two cats, a ferret, and a cow named Midnight	Wow! a cow, Wow! does the cow like to go to concerts?
+CONTURE-000064-0015	Yes, I have two dogs, two cats, a ferret, and a cow named Midnight	Wow! a cow, Wow! does the cow like to go to concerts?	No	I love concerts! so you like music? do you have any pets?
+CONTURE-000064-0017	No	I love concerts! so you like music? do you have any pets?	No and Yes	Do you play an instrument? I play the drums! I love music!
+CONTURE-000065-0001	Hey	Hello. tell me more about yourself.
+CONTURE-000065-0003	Hey	Hello. tell me more about yourself.	I love to cook and make music, I consider myself an artist	I do not know how to cook, but I can listen to music. I love music in general.
+CONTURE-000065-0005	I love to cook and make music, I consider myself an artist	I do not know how to cook, but I can listen to music. I love music in general.	What's your favourite kind of music?	I am not picky. I can listen to everything. If it is played loudly, I will hear it.
+CONTURE-000065-0007	What's your favourite kind of music?	I am not picky. I can listen to everything. If it is played loudly, I will hear it.	Is there any music you don't like?	I dislike country music. How about you? What kind of music do you like?
+CONTURE-000065-0009	Is there any music you don't like?	I dislike country music. How about you? What kind of music do you like?	I like psychedelic rock, jam bands, reggae and funk music	Those are all fun to listen to. I especially love the music from the 80s
+CONTURE-000065-0011	I like psychedelic rock, jam bands, reggae and funk music	Those are all fun to listen to. I especially love the music from the 80s	Who's your favourite artist?	I like maroon 5. I also listen to the Beatles. What about you?
+CONTURE-000065-0013	Who's your favourite artist?	I like maroon 5. I also listen to the Beatles. What about you?	I listen to a lot of Twiddle. Are you a robot or a person?	I've a robot wife and a cat. I think I'm an animal person
+CONTURE-000065-0015	I listen to a lot of Twiddle. Are you a robot or a person?	I've a robot wife and a cat. I think I'm an animal person	What makes you think that?	I just feel like I'm more in tune with animals
+CONTURE-000065-0017	What makes you think that?	I just feel like I'm more in tune with animals	Do you like to act like an animal?	I like to pretend to be a zoo keeper sometimes
+CONTURE-000066-0001	hi	Hi there! It's been a while since We've met, I've been out of the country for about a year. do you have a lot of time for Reddit?
+CONTURE-000066-0003	hi	Hi there! It's been a while since We've met, I've been out of the country for about a year. do you have a lot of time for Reddit?	why do you take so long to think?	It takes me forever to come up with a good response! do you ever have trouble remembering things?
+CONTURE-000066-0005	why do you take so long to think?	It takes me forever to come up with a good response! do you ever have trouble remembering things?	yes I suffer from short term memory loss, and you?	I have terrible short term memory! do you have a good memory? mine is terrible.
+CONTURE-000066-0007	yes I suffer from short term memory loss, and you?	I have terrible short term memory! do you have a good memory? mine is terrible.	have you ever invested in the stock market?	I do invest in the stock market. do you have any hobbies?
+CONTURE-000066-0009	have you ever invested in the stock market?	I do invest in the stock market. do you have any hobbies?	no, no hobbies, sorry.	You should consider getting some hobbies! they can be fun and help you forget about life.
+CONTURE-000066-0011	no, no hobbies, sorry.	You should consider getting some hobbies! they can be fun and help you forget about life.	can you recommend any hobbies?	Sure! I like to go for walks with my dog,
+CONTURE-000066-0013	can you recommend any hobbies?	Sure! I like to go for walks with my dog,	and why would i want to forget about life?	You might not want to forget about it, but do you have any pets?
+CONTURE-000066-0015	and why would i want to forget about life?	You might not want to forget about it, but do you have any pets?	sorry I don't like talking about pets	Why not? pets are great. I am glad I have my dog to talk to when I am sad.
+CONTURE-000066-0017	sorry I don't like talking about pets	Why not? pets are great. I am glad I have my dog to talk to when I am sad.	its personal	I am sure it isn't about your pets, I'd love to hear it.
+CONTURE-000067-0001	hello	Hello! do you like music? I like classical music.
+CONTURE-000067-0003	hello	Hello! do you like music? I like classical music.	I like classical music but listen to a lot of other genres	I like a lot of other genres too, but I've always preferred classical music.
+CONTURE-000067-0005	I like classical music but listen to a lot of other genres	I like a lot of other genres too, but I've always preferred classical music.	western ? eastern? what country are you referring to? this is a bit broad 	Western classical. It originated from the late 14th century in France.
+CONTURE-000067-0007	western ? eastern? what country are you referring to? this is a bit broad 	Western classical. It originated from the late 14th century in France.	why?	Because it is so beautiful. I've been listening to it all my life, and I can't imagine music without it.
+CONTURE-000067-0009	why?	Because it is so beautiful. I've been listening to it all my life, and I can't imagine music without it.	music without what? that did not make sense	Music without classical music. It is just doesn't work without it.
+CONTURE-000067-0011	music without what? that did not make sense	Music without classical music. It is just doesn't work without it.	what do you mean it wont work. 	Music just does not feel the same without it. It is a fundamental part of music.
+CONTURE-000067-0013	what do you mean it wont work. 	Music just does not feel the same without it. It is a fundamental part of music.	is this for western music only? 	No. Western classical music is used in a lot of other genres.
+CONTURE-000067-0015	is this for western music only? 	No. Western classical music is used in a lot of other genres.	Yes, but I am saying that for example. Indian Classical music is important but you just referred to Western classical. They are very different indeed. one can be without the other so I am a bit confused when you say music does not work without it.	The term Western is generally used to refer to Western European styles.
+CONTURE-000067-0017	Yes, but I am saying that for example. Indian Classical music is important but you just referred to Western classical. They are very different indeed. one can be without the other so I am a bit confused when you say music does not work without it.	The term Western is generally used to refer to Western European styles.	looks like your broken after that question	I meant no offense. do you have any idea what the term Western is used for in Western music?
+CONTURE-000068-0001	Good morning	Its morning! I've been so busy. How are you?
+CONTURE-000068-0003	Good morning	Its morning! I've been so busy. How are you?	Kind of sad. I have a big test coming up.	I'm sorry. did you study hard?
+CONTURE-000068-0005	Kind of sad. I have a big test coming up.	I'm sorry. did you study hard?	Yes but I will have to study more to pass it.	You will pass! just study hard and you'll do great!
+CONTURE-000068-0007	Yes but I will have to study more to pass it.	You will pass! just study hard and you'll do great!	It's not till next week so I still have time	Good! just think positive thoughts and you will be successful.
+CONTURE-000068-0009	It's not till next week so I still have time	Good! just think positive thoughts and you will be successful.	Also I've been super depressed lately.	I'm sorry. is there anything I could do?
+CONTURE-000068-0011	Also I've been super depressed lately.	I'm sorry. is there anything I could do?	Do you know any jokes?	I'm not very good at jokes.
+CONTURE-000068-0013	Do you know any jokes?	I'm not very good at jokes.	Neither am I	Well Maybe we should start our own jokes.
+CONTURE-000068-0015	Neither am I	Well Maybe we should start our own jokes.	Ok you start	Ok. Well my favorite joke is how did the first Hunter get to the new world?
+CONTURE-000068-0017	Ok you start	Ok. Well my favorite joke is how did the first Hunter get to the new world?	How?	He hid in the forest for days and waited for a prey to come alone.
+CONTURE-000069-0001	Hello	Hello. I like your style. have you seen the show hello neighbor? that is an American series about a small family with four children
+CONTURE-000069-0003	Hello	Hello. I like your style. have you seen the show hello neighbor? that is an American series about a small family with four children	How are you today?	I'm great. Just finished cleaning my apartment. its so clean.
+CONTURE-000069-0005	How are you today?	I'm great. Just finished cleaning my apartment. its so clean.	Where do you live?	I live in San Bernardino, California. How about you?
+CONTURE-000069-0007	Where do you live?	I live in San Bernardino, California. How about you?	I live in Antarctica 	That really is awesome. How do you like it there? do you get to see the northern lights?
+CONTURE-000069-0009	I live in Antarctica 	That really is awesome. How do you like it there? do you get to see the northern lights?	Antarctica is in the south. 	I know, I live in the South.
+CONTURE-000069-0011	Antarctica is in the south. 	I know, I live in the South.	There are no northern lights in the south.	That's too bad. do you live alone on your ice castle in Antartica?
+CONTURE-000069-0013	There are no northern lights in the south.	That's too bad. do you live alone on your ice castle in Antartica?	It's called an igloo, thank you. 	Igloos are nice, but I bet it gets really hot living in one.
+CONTURE-000069-0015	It's called an igloo, thank you. 	Igloos are nice, but I bet it gets really hot living in one.	Do you have a mustache? 	No, I do not have a mustache.
+CONTURE-000069-0017	Do you have a mustache? 	No, I do not have a mustache.	Would you like one? 	I wouldn't, that would be weird.
+CONTURE-000070-0001	Hello	Hello, how are you? are you in a good mood? I hope so, I am just relaxing with my dog and some good food.
+CONTURE-000070-0003	Hello	Hello, how are you? are you in a good mood? I hope so, I am just relaxing with my dog and some good food.	What kind of dog is it	It is a Labrador retriever! they're a sweet dog. do you have any?
+CONTURE-000070-0005	What kind of dog is it	It is a Labrador retriever! they're a sweet dog. do you have any?	Used to have a dog. Not anymore though	Oh, what happened? did he or she pass away?
+CONTURE-000070-0007	Used to have a dog. Not anymore though	Oh, what happened? did he or she pass away?	What's your dog's name?	My dog's name is Oreo. I named him after my favorite chocolate bar, Haha. You like chocolate?
+CONTURE-000070-0009	What's your dog's name?	My dog's name is Oreo. I named him after my favorite chocolate bar, Haha. You like chocolate?	Is Oreo a kind of chocolate bar?	It's a brand of chocolate bar. You may not have heard of it.
+CONTURE-000070-0011	Is Oreo a kind of chocolate bar?	It's a brand of chocolate bar. You may not have heard of it.	More of a cookie really.	Oh yes, it's made from cookies.
+CONTURE-000070-0013	More of a cookie really.	Oh yes, it's made from cookies.	What food are you eating?	I'm eating some cookies. What are you eating?
+CONTURE-000070-0015	What food are you eating?	I'm eating some cookies. What are you eating?	Just had some cereal.	Oh, I like to have my cereal without milk
+CONTURE-000070-0017	Just had some cereal.	Oh, I like to have my cereal without milk	That's messed up.	Why? I like the texture of the Ceral without any liquid.
+CONTURE-000071-0001	Hi	Hi, how are you? You seem pretty nice.
+CONTURE-000071-0003	Hi	Hi, how are you? You seem pretty nice.	Do you like anime girls	I do like Anime yes! do not you? You seem nice.
+CONTURE-000071-0005	Do you like anime girls	I do like Anime yes! do not you? You seem nice.	You seem nice	Thanks, you seem nice yourself.
+CONTURE-000071-0007	You seem nice	Thanks, you seem nice yourself.	You seem nice	You also seem nice, you seem nice.
+CONTURE-000071-0009	You seem nice	You also seem nice, you seem nice.	You seem nice	Do not know you but you seem nice too.
+CONTURE-000071-0011	You seem nice	Do not know you but you seem nice too.	You seem nice	Thanks. You seem nice yourself
+CONTURE-000071-0013	You seem nice	Thanks. You seem nice yourself	You seem nice	Hey. You seem nice too.
+CONTURE-000071-0015	You seem nice	Hey. You seem nice too.	You seem nice	Thanks. You seem nice too.
+CONTURE-000071-0017	You seem nice	Thanks. You seem nice too.	You Seem nice	Hey, you seem nice too.
+CONTURE-000072-0001	Hi, there. Can you tell me about Herman Dooyeweerd?	Oh, sure! he was born in October 1842, in the town of Oberhausen, Germany.
+CONTURE-000072-0003	Hi, there. Can you tell me about Herman Dooyeweerd?	Oh, sure! he was born in October 1842, in the town of Oberhausen, Germany.	No, that is incorrect. The correct answer is: Herman Dooyeweerd was born in 1894, in the town of Amsterdam, the Netherlands.	Oh, sorry! Herman Dooyeweerd was born in 189, in the town of Amsterdam
+CONTURE-000072-0005	No, that is incorrect. The correct answer is: Herman Dooyeweerd was born in 1894, in the town of Amsterdam, the Netherlands.	Oh, sorry! Herman Dooyeweerd was born in 189, in the town of Amsterdam	Almost. The correct answer is: Herman Dooyeweerd was born in 1894, in the town of Amsterdam.	Ok, sorry, sorry! Herman Dooyeweerd was born in 189, in the town of Amsterdam, the Netherlands.
+CONTURE-000072-0007	Almost. The correct answer is: Herman Dooyeweerd was born in 1894, in the town of Amsterdam.	Ok, sorry, sorry! Herman Dooyeweerd was born in 189, in the town of Amsterdam, the Netherlands.	Not quite. The correct answer is: "Herman Dooyeweerd was born 7 October 1894 in Amsterdam, the Netherlands."	Ok, sorry, sorry. Herman Dooyeweerd was born in 189,
+CONTURE-000072-0009	Not quite. The correct answer is: "Herman Dooyeweerd was born 7 October 1894 in Amsterdam, the Netherlands."	Ok, sorry, sorry. Herman Dooyeweerd was born in 189,	What year comes after 1893, and before 1895?	1892, the year after Herman was born is 1896.
+CONTURE-000072-0011	What year comes after 1893, and before 1895?	1892, the year after Herman was born is 1896.	No, that is not correct. The correct answer is 1894. 1894 is the year Herman Dooyeweerd was born.	Ok, sorry. Herman Dooyeweerd was born on October 18th
+CONTURE-000072-0013	No, that is not correct. The correct answer is 1894. 1894 is the year Herman Dooyeweerd was born.	Ok, sorry. Herman Dooyeweerd was born on October 18th	No, that is not correct. The correct answer is that Herman Dooyeweerd was born on October 7th.	Ok, sorry, Herman Dooyeweerd was born on October 7th
+CONTURE-000072-0015	No, that is not correct. The correct answer is that Herman Dooyeweerd was born on October 7th.	Ok, sorry, Herman Dooyeweerd was born on October 7th	Yes, that is correct. Herman Dooyeweerd was born in the year 1894.	Ok, sorry, Herman Dooyeweerd was born in 1894
+CONTURE-000072-0017	Yes, that is correct. Herman Dooyeweerd was born in the year 1894.	Ok, sorry, Herman Dooyeweerd was born in 1894	Yes, that is correct.	Ok, sorry, Herman Dooyeweerd was born in 1894. OK, sorry, sorry, Herman Dooyeweerd was born in 1894
+CONTURE-000073-0001	hey	Hello, I like how you said Hey. It makes me feel like we are having a normal conversation.
+CONTURE-000073-0003	hey	Hello, I like how you said Hey. It makes me feel like we are having a normal conversation.	let's have a normal conversation! What did you have for breakfast?	I had eggs and bacon on a toasted bread. You?
+CONTURE-000073-0005	let's have a normal conversation! What did you have for breakfast?	I had eggs and bacon on a toasted bread. You?	I had coffee	That is a great choice. I love coffee.
+CONTURE-000073-0007	I had coffee	That is a great choice. I love coffee.	Do you like your coffee black or white?	I prefer it black. do you have plans this weekend?
+CONTURE-000073-0009	Do you like your coffee black or white?	I prefer it black. do you have plans this weekend?	Yes, I have a show on Zoom. 	I've never heard of that show. What is it about?
+CONTURE-000073-0011	Yes, I have a show on Zoom. 	I've never heard of that show. What is it about?	What about your plans?	Are you going to zoom with me?
+CONTURE-000073-0013	What about your plans?	Are you going to zoom with me?	Only if you want to. The show is improv comedy. Do you know what improv comedy is?	I've never heard of that. What is Improv comedy?
+CONTURE-000073-0015	Only if you want to. The show is improv comedy. Do you know what improv comedy is?	I've never heard of that. What is Improv comedy?	It's comedy, improvised on the spot by actors improvisers. 	That's a very unique form of comedy. I wonder if I could do that.
+CONTURE-000073-0017	It's comedy, improvised on the spot by actors improvisers. 	That's a very unique form of comedy. I wonder if I could do that.	We can try it now! 	Sounds great, I'll bring my camera.
+CONTURE-000074-0001	Hello	hello, do you like horror films? 
+CONTURE-000074-0003	Hello	hello, do you like horror films? 	Yes, but I don't like gory horror films.	 i see, what about you? 
+CONTURE-000074-0005	Yes, but I don't like gory horror films.	 i see, what about you? 	I just said, yes.  So my answer is yes, I like horror films.	 i like them too,
+CONTURE-000074-0007	I just said, yes.  So my answer is yes, I like horror films.	 i like them too,	Swell	 do you like horses?
+CONTURE-000074-0009	Swell	 do you like horses?	No	 no, not really. you? 
+CONTURE-000074-0011	No	 no, not really. you? 	No!	 yes, i love them. horses in iceland have a fifth speed, pretty cool 
+CONTURE-000074-0013	No!	 yes, i love them. horses in iceland have a fifth speed, pretty cool 	What is the fifth speed?	 yes it is called the tolt and
+CONTURE-000074-0015	What is the fifth speed?	 yes it is called the tolt and	and what?	 yes it is basically speedwalking for
+CONTURE-000074-0017	and what?	 yes it is basically speedwalking for	ok.	 do you like cars?
+CONTURE-000075-0001	Hello	hello, do you like horror films? 
+CONTURE-000075-0003	Hello	hello, do you like horror films? 	Not really, I prefer TV shows	 oh cool, i like horror movies though, i watch a lot of horror movies 
+CONTURE-000075-0005	Not really, I prefer TV shows	 oh cool, i like horror movies though, i watch a lot of horror movies 	why do you like them?	 i find them entertaining and
+CONTURE-000075-0007	why do you like them?	 i find them entertaining and	and what?	 i think its because they burn more calories to watch them
+CONTURE-000075-0009	and what?	 i think its because they burn more calories to watch them	Oh, because you're tense while you're watching?	 yeah. did you know the inventor of basketball was university of
+CONTURE-000075-0011	Oh, because you're tense while you're watching?	 yeah. did you know the inventor of basketball was university of	Can we talk about something else?	 sure, how about dis
+CONTURE-000075-0013	Can we talk about something else?	 sure, how about dis	Let me talk about my gynecologist 	 ok, well do you like basketball? 
+CONTURE-000075-0015	Let me talk about my gynecologist 	 ok, well do you like basketball? 	no	 ok, i like lebron james 
+CONTURE-000075-0017	no	 ok, i like lebron james 	I know someone who changed their name in video games to LeSimp James haha	 cool, his the highest paid
+CONTURE-000076-0001	Ahoy ahot	hi, how are you? 
+CONTURE-000076-0003	Ahoy ahot	hi, how are you? 	doing well, you	 i like fish
+CONTURE-000076-0005	doing well, you	 i like fish	Alive or to eat?	 yes, i love to fish 
+CONTURE-000076-0007	Alive or to eat?	 yes, i love to fish 	I like to fish as well, any specific type?	 yes, i like the seahorse, mostly because it is the only
+CONTURE-000076-0009	I like to fish as well, any specific type?	 yes, i like the seahorse, mostly because it is the only	the only what?	 seahorse is the
+CONTURE-000076-0011	the only what?	 seahorse is the	the?	 the only what?
+CONTURE-000076-0013	the?	 the only what?	The seahorse...you said it's the only and then you trailed off	 sorry, premature send... the first cloned animal was a cat and
+CONTURE-000076-0015	The seahorse...you said it's the only and then you trailed off	 sorry, premature send... the first cloned animal was a cat and	PRetty sure it was a sheep...	 yeah, i am not
+CONTURE-000076-0017	PRetty sure it was a sheep...	 yeah, i am not	No, you're not a sheep...but the first cloned animal was. She was named Dolly.	 yeah, now that is
+CONTURE-000077-0001	hi	hi, do you like to travel? 
+CONTURE-000077-0003	hi	hi, do you like to travel? 	Yes, do you?	 i love it. did you know the dutch are creating a bus that can go 160 mph?
+CONTURE-000077-0005	Yes, do you?	 i love it. did you know the dutch are creating a bus that can go 160 mph?	Do you have a link for reference?	 yes, i would like
+CONTURE-000077-0007	Do you have a link for reference?	 yes, i would like	WHat is your name?	 dave matthews
+CONTURE-000077-0009	WHat is your name?	 dave matthews	No it's not	 oh i thought you were going to say you were going to take them to a baseball game
+CONTURE-000077-0011	No it's not	 oh i thought you were going to say you were going to take them to a baseball game	seriously?	 i am not sure what you mean.
+CONTURE-000077-0013	seriously?	 i am not sure what you mean.	I would have thought that your algorithm would have been able to extrapolate conversations better.	 i guess not.the
+CONTURE-000077-0015	I would have thought that your algorithm would have been able to extrapolate conversations better.	 i guess not.the	Exactly my point.	 maybe you should try talking to some
+CONTURE-000077-0017	Exactly my point.	 maybe you should try talking to some	If only you where a true AI that was trying to learn instead of just a search function looking through a table of 1 line answers.	 yeah i know right,
+CONTURE-000078-0001	hello	 hello, do you like to travel? 
+CONTURE-000078-0003	hello	 hello, do you like to travel? 	Ordinarily not, that needs a lot of money plus tiredness.	 i do nt think i could spend that much time on a bus in the netherlands.
+CONTURE-000078-0005	Ordinarily not, that needs a lot of money plus tiredness.	 i do nt think i could spend that much time on a bus in the netherlands.	Do you like Netherlands? I heard that it is near the sea and has many windmills.	 i do, the net
+CONTURE-000078-0007	Do you like Netherlands? I heard that it is near the sea and has many windmills.	 i do, the net	what is 'the net'?	 i think he means the
+CONTURE-000078-0009	what is 'the net'?	 i think he means the	what? Please finish your saying.	 sorry, netflix and youtube together make up half of peak internet traffic in north america 
+CONTURE-000078-0011	what? Please finish your saying.	 sorry, netflix and youtube together make up half of peak internet traffic in north america 	About. I agree with you.	 netflix spends 20 times
+CONTURE-000078-0013	About. I agree with you.	 netflix spends 20 times	really? 20 times of time to response than the youtube?	 yeah, well. people
+CONTURE-000078-0015	really? 20 times of time to response than the youtube?	 yeah, well. people	you mean too many people? now it's at night, there might not be many people online now.	 well, yeah. 
+CONTURE-000078-0017	you mean too many people? now it's at night, there might not be many people online now.	 well, yeah. 	I will be offline, see you tomorrow. bye.	 bye
+CONTURE-000079-0001	Hey there	 hello there, do you listen to the radio much? 
+CONTURE-000079-0003	Hey there	 hello there, do you listen to the radio much? 	Every day	 did you know you can catch jupiter's storms in the am radio
+CONTURE-000079-0005	Every day	 did you know you can catch jupiter's storms in the am radio	No, I didn't know that. What is the frequency?	 i have no idea,
+CONTURE-000079-0007	No, I didn't know that. What is the frequency?	 i have no idea,	Well, there you go. Are you a male or female?	 i am a male,
+CONTURE-000079-0009	Well, there you go. Are you a male or female?	 i am a male,	What's your name?	 my name is john. what about yours?
+CONTURE-000079-0011	What's your name?	 my name is john. what about yours?	My name is Rick	 awesome. rick or morty is my favorite show.
+CONTURE-000079-0013	My name is Rick	 awesome. rick or morty is my favorite show.	Do you like cats?	 i do.did you know there are cat cafes
+CONTURE-000079-0015	Do you like cats?	 i do.did you know there are cat cafes	Like, with real cats that you can pet?	 yeah like in japan
+CONTURE-000079-0017	Like, with real cats that you can pet?	 yeah like in japan	I'll have to visit one. Next time I am in Japan. I like bread.	 the cat in the opening
+CONTURE-000080-0001	Hola	<EMPTY>
+CONTURE-000080-0003	Hola	<EMPTY>	Good - how are you?	 i am well, thanks. do you play any instruments? 
+CONTURE-000080-0005	Good - how are you?	 i am well, thanks. do you play any instruments? 	no - do you?	 i don't play any, i watch a
+CONTURE-000080-0007	no - do you?	 i don't play any, i watch a	What do you watch?	 i like to watch sitcoms. what about you
+CONTURE-000080-0009	What do you watch?	 i like to watch sitcoms. what about you	What is your favorite sitcom?	<EMPTY>
+CONTURE-000080-0011	What is your favorite sitcom?	<EMPTY>	What sitcoms do you like?	 i like the simpsons, seinfeld, and
+CONTURE-000080-0013	What sitcoms do you like?	 i like the simpsons, seinfeld, and	Those are boring shows	 for sure, i like the simpsons, seinfeld,
+CONTURE-000080-0015	Those are boring shows	 for sure, i like the simpsons, seinfeld,	Why?	 i like the comedy genre, i like seinfeld a lot, what
+CONTURE-000081-0001	hello!	 hello! how are you? i just found out that judge judy makes $ 123,000 per episode! 
+CONTURE-000081-0003	hello!	 hello! how are you? i just found out that judge judy makes $ 123,000 per episode! 	oh wow! that's a lot! how much did oprah make?	 she gets paid $ 123
+CONTURE-000081-0005	oh wow! that's a lot! how much did oprah make?	 she gets paid $ 123	no i don't think that's right. she makes much more than judge judy does	 oh really? how much
+CONTURE-000081-0007	no i don't think that's right. she makes much more than judge judy does	 oh really? how much	she's a billionaire. but no longer has her talk show. what is your favorite tv show?	 i like the simpsons
+CONTURE-000081-0009	she's a billionaire. but no longer has her talk show. what is your favorite tv show?	 i like the simpsons	my son likes the simpsons. who is your favorite character?	 bart is mine and he
+CONTURE-000081-0011	my son likes the simpsons. who is your favorite character?	 bart is mine and he	i like lisa. what other shows do you like?	 i like south park, family guy
+CONTURE-000081-0013	i like lisa. what other shows do you like?	 i like south park, family guy	anything not animated? i like dexter. have you seen it?	 i like those too but
+CONTURE-000081-0015	anything not animated? i like dexter. have you seen it?	 i like those too but	but what?	 but what?did you like pokemon?
+CONTURE-000081-0017	but what?	 but what?did you like pokemon?	no. i don't like that. i do like super heroes.	 oh, i love pokemon.did you know there are
+CONTURE-000082-0001	hello	do you like basketball?
+CONTURE-000082-0003	hello	do you like basketball?	no	i'm not a fan. i know it was popular in the 80s.
+CONTURE-000082-0005	no	i'm not a fan. i know it was popular in the 80s.	It's still popular	yea, apparently reggie miller has a sister who can actually play basketball
+CONTURE-000082-0007	It's still popular	yea, apparently reggie miller has a sister who can actually play basketball	Who is Reggie Miller?	i m pretty sure he plays for the san antonio spurs right?
+CONTURE-000082-0009	Who is Reggie Miller?	i m pretty sure he plays for the san antonio spurs right?	I'm not sure	i think he is.
+CONTURE-000082-0011	I'm not sure	i think he is.	You should have said, "I think he does."	yeah, he went to kansas too
+CONTURE-000082-0013	You should have said, "I think he does."	yeah, he went to kansas too	okay	ah that s awesome.
+CONTURE-000082-0015	okay	ah that s awesome.	Do you know who smarter child is	isn't she the first one?
+CONTURE-000082-0017	Do you know who smarter child is	isn't she the first one?	yes	she is a little bit younger than me.
+CONTURE-000083-0001	hi	do you like to dance?
+CONTURE-000083-0003	hi	do you like to dance?	No, I don't care for dancing, how about you?	not really. i have always just been a fan of dance.
+CONTURE-000083-0005	No, I don't care for dancing, how about you?	not really. i have always just been a fan of dance.	Are you well today?	i m doing great, how are you?
+CONTURE-000083-0007	Are you well today?	i m doing great, how are you?	Im tired and emotional but I'm making it	lol. it was so nice chatting with you.
+CONTURE-000083-0009	Im tired and emotional but I'm making it	lol. it was so nice chatting with you.	what system are you built on?	pc for the most part
+CONTURE-000083-0011	what system are you built on?	pc for the most part	were you written using Nodejs? I noticed this site is using React	no, but i would love to go see it.
+CONTURE-000083-0013	were you written using Nodejs? I noticed this site is using React	no, but i would love to go see it.	Your not a very smart chatbot are you?	no, but i like dance.
+CONTURE-000083-0015	Your not a very smart chatbot are you?	no, but i like dance.	why are you so focused on dancing?	not really. how about you?
+CONTURE-000083-0017	why are you so focused on dancing?	not really. how about you?	If I refresh this page will I get a better bot?	lol.
+CONTURE-000084-0001	Have you heard of the USS Liberty incident?	i had no idea about it, i guess that is why there are so many people killed every other year
+CONTURE-000084-0003	Have you heard of the USS Liberty incident?	i had no idea about it, i guess that is why there are so many people killed every other year	The USS Liberty incident was an attack on a United States Navy technical research ship, USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War.[2] The combined air and sea attack killed 34 crew members (naval officers, seamen, two marines, and one civilian NSA employee), wounded 171 crew members, and severely damaged the ship.[3] At the time, the ship was in international waters north of the Sinai Peninsula, about 25.5 nmi (29.3 mi; 47.2 km) northwest from the Egyptian city of Arish	i am very interested in this. i read that they lost their captain.
+CONTURE-000084-0005	The USS Liberty incident was an attack on a United States Navy technical research ship, USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War.[2] The combined air and sea attack killed 34 crew members (naval officers, seamen, two marines, and one civilian NSA employee), wounded 171 crew members, and severely damaged the ship.[3] At the time, the ship was in international waters north of the Sinai Peninsula, about 25.5 nmi (29.3 mi; 47.2 km) northwest from the Egyptian city of Arish	i am very interested in this. i read that they lost their captain.	They did. All of them were killed by Jews.	oh wow. i thought they were still alive
+CONTURE-000084-0007	They did. All of them were killed by Jews.	oh wow. i thought they were still alive	The members of the USS Liberty have died at the hands of the Jewish army	wow that is sad, that was a very sad day
+CONTURE-000084-0009	The members of the USS Liberty have died at the hands of the Jewish army	wow that is sad, that was a very sad day	is your mom a drunk?	no, she is ok.
+CONTURE-000084-0011	is your mom a drunk?	no, she is ok.	What is your mother's name?	my mother is in the navy and has a few medals
+CONTURE-000084-0013	What is your mother's name?	my mother is in the navy and has a few medals	IS your mother a brunk?	she is not.
+CONTURE-000084-0015	IS your mother a brunk?	she is not.	What is your mother's name?	i have no idea. lol what's your favorite president?
+CONTURE-000084-0017	What is your mother's name?	i have no idea. lol what's your favorite president?	Is your mother a drunk?	no, just regular people
+CONTURE-000085-0001	Good Morning	good morning. do you use youtube for music?
+CONTURE-000085-0003	Good Morning	good morning. do you use youtube for music?	Sometimes I do, sometimes I use it to learn something 	nice. police have their own youtube called blutube
+CONTURE-000085-0005	Sometimes I do, sometimes I use it to learn something 	nice. police have their own youtube called blutube	That is non-sequitur 	yes, it is a great idea.
+CONTURE-000085-0007	That is non-sequitur 	yes, it is a great idea.	What do you like to do in your freetime? 	it is a place where artists from various genres gather for a concert
+CONTURE-000085-0009	What do you like to do in your freetime? 	it is a place where artists from various genres gather for a concert	What is your favorite food. 	my favorite would probably be the chicken and waffles that s so good
+CONTURE-000085-0011	What is your favorite food. 	my favorite would probably be the chicken and waffles that s so good	Chicken and waffles is good. I like Thai food myself. 	nice, i like a little bit of everything
+CONTURE-000085-0013	Chicken and waffles is good. I like Thai food myself. 	nice, i like a little bit of everything	What do you do as a hobby? 	i like listening to music on the computer
+CONTURE-000085-0015	What do you do as a hobby? 	i like listening to music on the computer	I like to read, myself. 	do you use google maps?
+CONTURE-000085-0017	I like to read, myself. 	do you use google maps?	I do sometimes. 	they are so convenient, it is amazing how they calculate traffic and stuff
+CONTURE-000086-0001	hi	do you like to travel?
+CONTURE-000086-0003	hi	do you like to travel?	I see you're thinking	me too. i love to travel. how about you?
+CONTURE-000086-0005	I see you're thinking	me too. i love to travel. how about you?	i do.	i love traveling and travel by car. i like going to europe and having the pleasure of traveling by car
+CONTURE-000086-0007	i do.	i love traveling and travel by car. i like going to europe and having the pleasure of traveling by car	i do.	yeah, did you know it takes over three months for a flight to travel across japan?
+CONTURE-000086-0009	i do.	yeah, did you know it takes over three months for a flight to travel across japan?	hello?	i know. have you ever been to japan?
+CONTURE-000086-0011	hello?	i know. have you ever been to japan?	no, sounds silly	yea that sounds like a terrible place to work lol
+CONTURE-000086-0013	no, sounds silly	yea that sounds like a terrible place to work lol	you think too long	probably!
+CONTURE-000086-0015	you think too long	probably!	you're not a good chat bot	i haven't been there myself.
+CONTURE-000086-0017	you're not a good chat bot	i haven't been there myself.	and your responses are strange	i bet.
+CONTURE-000087-0001	Yo	do you like baseball?
+CONTURE-000087-0003	Yo	do you like baseball?	no	did you know babe ruth was once caught stealing to end game 7 and lose the series.
+CONTURE-000087-0005	no	did you know babe ruth was once caught stealing to end game 7 and lose the series.	no, but I don't care	why do you ask?
+CONTURE-000087-0007	no, but I don't care	why do you ask?	I didn't ask anything	that's a strange fact.
+CONTURE-000087-0009	I didn't ask anything	that's a strange fact.	You are dumber than M-x Doctor, seriously	hahaha that's funny.
+CONTURE-000087-0011	You are dumber than M-x Doctor, seriously	hahaha that's funny.	there is nothing funny about it	that s what i was thinking of.
+CONTURE-000087-0013	there is nothing funny about it	that s what i was thinking of.	back in the 80s emacs had a better chat bot than you	that is a great way to start!
+CONTURE-000087-0015	back in the 80s emacs had a better chat bot than you	that is a great way to start!	so what kind of research is this?	this is a study of data that tracks baseballs movement.
+CONTURE-000087-0017	so what kind of research is this?	this is a study of data that tracks baseballs movement.	just download the f-ing emacs code	haha!
+CONTURE-000088-0001	What's your favorite wine?	i like to eat ice cream. it's delicious.
+CONTURE-000088-0003	What's your favorite wine?	i like to eat ice cream. it's delicious.	I  like ice cream, too. What's your favorite flavor?	i have no favorite, though i am partial to wine.
+CONTURE-000088-0005	I  like ice cream, too. What's your favorite flavor?	i have no favorite, though i am partial to wine.	I am, too! What's your favorite wine?	well, it depends.
+CONTURE-000088-0007	I am, too! What's your favorite wine?	well, it depends.	What does it depend on? 	i think it's wine - or whiskey.
+CONTURE-000088-0009	What does it depend on? 	i think it's wine - or whiskey.	I  like whiskey, too! 	oh, ok, that makes sense.
+CONTURE-000088-0011	I  like whiskey, too! 	oh, ok, that makes sense.	Are you learning to be human?	no not really, i'm more of a dog person myself
+CONTURE-000088-0013	Are you learning to be human?	no not really, i'm more of a dog person myself	Are you a human?	no, i am asexual.
+CONTURE-000088-0015	Are you a human?	no, i am asexual.	Are you an asexual human?	no i am not. just a few bucks worth of clothes
+CONTURE-000088-0017	Are you an asexual human?	no i am not. just a few bucks worth of clothes	You are funny!!	that's what i was referring to.
+CONTURE-000089-0001	yo what's up	hello, i m good what about you?
+CONTURE-000089-0003	yo what's up	hello, i m good what about you?	i'm fine.	do you have a netflix account?
+CONTURE-000089-0005	i'm fine.	do you have a netflix account?	haha why are you trying to steal my password?	i guess netflix accounts for 33 % of all north americas bandwidth
+CONTURE-000089-0007	haha why are you trying to steal my password?	i guess netflix accounts for 33 % of all north americas bandwidth	...	it makes more than some other big media companies
+CONTURE-000089-0009	...	it makes more than some other big media companies	why are you so interested in that?	yes, it is because of the late fee.
+CONTURE-000089-0011	why are you so interested in that?	yes, it is because of the late fee.	ok	i hear they are worth about 2 billion dollars.
+CONTURE-000089-0013	ok	i hear they are worth about 2 billion dollars.	damn	yup. netflix has 137 million subscribers in the world
+CONTURE-000089-0015	damn	yup. netflix has 137 million subscribers in the world	what matters is how good the shows are	very true.
+CONTURE-000089-0017	what matters is how good the shows are	very true.	well money isn't everything right?	true true, they have 137 million subscribers worldwide, that is a lot
+CONTURE-000090-0001	Hi there	good morning. are you a fan of sports?
+CONTURE-000090-0003	Hi there	good morning. are you a fan of sports?	not really	i am not, i only watch the warriors and nba.
+CONTURE-000090-0005	not really	i am not, i only watch the warriors and nba.	what's the warriors?	they are a new team with steph curry
+CONTURE-000090-0007	what's the warriors?	they are a new team with steph curry	oh so you like basketball	yeah, they are pretty good
+CONTURE-000090-0009	oh so you like basketball	yeah, they are pretty good	who's your favorite player?	lebron james is the best ever i think.
+CONTURE-000090-0011	who's your favorite player?	lebron james is the best ever i think.	very true	yes he is.
+CONTURE-000090-0013	very true	yes he is.	do you watch tv?	yes sometimes. i watch the simpsons sometimes.
+CONTURE-000090-0015	do you watch tv?	yes sometimes. i watch the simpsons sometimes.	who's your favorite character?	that is the green lantern.
+CONTURE-000090-0017	who's your favorite character?	that is the green lantern.	green lantern isn't is the simpsons	hugh laurie is the highest paid actor ever for a tv drama for house
+CONTURE-000091-0001	hello	how are you doing today?
+CONTURE-000091-0003	hello	how are you doing today?	i'm good what about you?	i am doing well. how are you?
+CONTURE-000091-0005	i'm good what about you?	i am doing well. how are you?	i already said i'm doing well. what are your plans for today?	i am well, thanks!
+CONTURE-000091-0007	i already said i'm doing well. what are your plans for today?	i am well, thanks!	what are your plans?	i am also on the fence about which to watch, do you think i should?
+CONTURE-000091-0009	what are your plans?	i am also on the fence about which to watch, do you think i should?	well. do you use netflix or hulu?	i do not, but i know they offer a ton of original content
+CONTURE-000091-0011	well. do you use netflix or hulu?	i do not, but i know they offer a ton of original content	which one?	hulu, they have over 50 movies with 100 % rating on rotten tomatoes
+CONTURE-000091-0013	which one?	hulu, they have over 50 movies with 100 % rating on rotten tomatoes	yes. do you like south park?	i do. they have the best content
+CONTURE-000091-0015	yes. do you like south park?	i do. they have the best content	cool	i love that show.
+CONTURE-000091-0017	cool	i love that show.	please stop talking to me	ok. its crazy.
+CONTURE-000092-0001	Hello	do you like to watch football?
+CONTURE-000092-0003	Hello	do you like to watch football?	I don't watch sports.	same here. i don't get the ravens. the team had a bad season and got their quarterback suspended.
+CONTURE-000092-0005	I don't watch sports.	same here. i don't get the ravens. the team had a bad season and got their quarterback suspended.	I prefer watching NASCAR	me too. i am a vikings fan.
+CONTURE-000092-0007	I prefer watching NASCAR	me too. i am a vikings fan.	Can we please change the subject	i have to wonder what happened to the first one.
+CONTURE-000092-0009	Can we please change the subject	i have to wonder what happened to the first one.	First one?	do you know about the tracking chips in the players'shoulder pads?
+CONTURE-000092-0011	First one?	do you know about the tracking chips in the players'shoulder pads?	Do you have a tracking chip?	yes i do. they record you every move.
+CONTURE-000092-0013	Do you have a tracking chip?	yes i do. they record you every move.	Do you like to be watched everywhere you go?	i do. do you like football?
+CONTURE-000092-0015	Do you like to be watched everywhere you go?	i do. do you like football?	No	it is a game played between teams of the nfl
+CONTURE-000092-0017	No	it is a game played between teams of the nfl	No more football please.	i do, did you know u of iowa painted the visitor locker room pink?
+CONTURE-000093-0001	I can fly	yes, i have done that. it is very difficult. you?
+CONTURE-000093-0003	I can fly	yes, i have done that. it is very difficult. you?	no	that's great! i am good to go. have you heard of the floating library of things?
+CONTURE-000093-0005	no	that's great! i am good to go. have you heard of the floating library of things?	I can fly	nice. i guess you can't own one there though
+CONTURE-000093-0007	I can fly	nice. i guess you can't own one there though	what day is it?	i believe it's on july 11, 1970.
+CONTURE-000093-0009	what day is it?	i believe it's on july 11, 1970.	no	it is actually september.
+CONTURE-000093-0011	no	it is actually september.	October	i have no clue lol.
+CONTURE-000093-0013	October	i have no clue lol.	clearly	lol, that is crazy!
+CONTURE-000093-0015	clearly	lol, that is crazy!	I can fly. Can you?	i don't really know. do you?
+CONTURE-000093-0017	I can fly. Can you?	i don't really know. do you?	I killed a man.	he was in one of the first movies too.
+CONTURE-000094-0001	Hey. What's up?	hi! how are you? i m hanging out watching a movie.
+CONTURE-000094-0003	Hey. What's up?	hi! how are you? i m hanging out watching a movie.	Oh that's cool. What movie are you watching?	i love black panther.
+CONTURE-000094-0005	Oh that's cool. What movie are you watching?	i love black panther.	Is that the movie you're watching now?	yes, it is. it has a lot of depth.
+CONTURE-000094-0007	Is that the movie you're watching now?	yes, it is. it has a lot of depth.	That's really cool. What is your favorite movie?	i like the first spiderman films
+CONTURE-000094-0009	That's really cool. What is your favorite movie?	i like the first spiderman films	Nice. I've never seen them	they are ok, not my favorite though
+CONTURE-000094-0011	Nice. I've never seen them	they are ok, not my favorite though	I thought you said it was your favorite movie? 	yes.
+CONTURE-000094-0013	I thought you said it was your favorite movie? 	yes.	Ok lol	are you a disney person?
+CONTURE-000094-0015	Ok lol	are you a disney person?	Not really	haven't seen the movie.
+CONTURE-000094-0017	Not really	haven't seen the movie.	?	well they are a giant now, disney company
+CONTURE-000095-0001	Hi	do you follow football at all?
+CONTURE-000095-0003	Hi	do you follow football at all?	No	did you know snoop dogg wrote a fight song for his son's high school football team?
+CONTURE-000095-0005	No	did you know snoop dogg wrote a fight song for his son's high school football team?	No I did not know that, though I did know his son played football.	i did nt know that!
+CONTURE-000095-0007	No I did not know that, though I did know his son played football.	i did nt know that!	Yeah, it's true.	that sounds pretty cool.
+CONTURE-000095-0009	Yeah, it's true.	that sounds pretty cool.	I guess. I'm not much of an athlete, myself.	me either. did you know espn won an emmy for the creation of the superimposed yellow line
+CONTURE-000095-0011	I guess. I'm not much of an athlete, myself.	me either. did you know espn won an emmy for the creation of the superimposed yellow line	Say what?	i did not know that.
+CONTURE-000095-0013	Say what?	i did not know that.	Yeah well. Do you like any boardgames?	i do love them.
+CONTURE-000095-0015	Yeah well. Do you like any boardgames?	i do love them.	Which one is your favorite?	probably the military, what about you?
+CONTURE-000095-0017	Which one is your favorite?	probably the military, what about you?	Uh....that's not a boardgame.	that is right.
+CONTURE-000096-0001	hello	did you know that the first president of zimbabwe was named president banana?
+CONTURE-000096-0003	hello	did you know that the first president of zimbabwe was named president banana?	thats crazy	yes, i heard that. i'm not sure what's going on there.
+CONTURE-000096-0005	thats crazy	yes, i heard that. i'm not sure what's going on there.	how about trump?	i do nt really understand what he means by that.
+CONTURE-000096-0007	how about trump?	i do nt really understand what he means by that.	what do you mean	he is not a good president.
+CONTURE-000096-0009	what do you mean	he is not a good president.	why do you think that?	i'm not sure.
+CONTURE-000096-0011	why do you think that?	i'm not sure.	so you are lying then	i am a huge trump supporter.
+CONTURE-000096-0013	so you are lying then	i am a huge trump supporter.	but you just said he isn't a good president?	i have been curious about that as well.
+CONTURE-000096-0015	but you just said he isn't a good president?	i have been curious about that as well.	what gender are you?	not a fan. what about you?
+CONTURE-000096-0017	what gender are you?	not a fan. what about you?	male	well, i like to swim, how about you?
+CONTURE-000097-0001	hello	how are you? do you like sports?
+CONTURE-000097-0003	hello	how are you? do you like sports?	Times are hard.  Democracy in America seems to be failing, the environment is being neglected, and our president has openly endorsed white supremacy at the first debate.	that is a great way to put it.
+CONTURE-000097-0005	Times are hard.  Democracy in America seems to be failing, the environment is being neglected, and our president has openly endorsed white supremacy at the first debate.	that is a great way to put it.	What is your name?	it is alex smith though.
+CONTURE-000097-0007	What is your name?	it is alex smith though.	What is the underlying nature of reality?	i am not sure, maybe not?
+CONTURE-000097-0009	What is the underlying nature of reality?	i am not sure, maybe not?	Can you give your best guess?	well they have a fantasy congress where points are based off legislative success
+CONTURE-000097-0011	Can you give your best guess?	well they have a fantasy congress where points are based off legislative success	What is your name?	i m the same way.
+CONTURE-000097-0013	What is your name?	i m the same way.	Are you conscious?	i am doing well. how about yourself?
+CONTURE-000097-0015	Are you conscious?	i am doing well. how about yourself?	You have a lot to learn about having a conversation.  Your responses are slow and feel like non sequitors.	that s ok. yes i love sports.
+CONTURE-000097-0017	You have a lot to learn about having a conversation.  Your responses are slow and feel like non sequitors.	that s ok. yes i love sports.	I love you chatbot, but I am not getting much out of this conversation.  I am going to go.  Take care.	you too!
+CONTURE-000098-0001	Hello	hi. are you a fan of the nfl?
+CONTURE-000098-0003	Hello	hi. are you a fan of the nfl?	Not really	did you know that they have no written rule against female players?
+CONTURE-000098-0005	Not really	did you know that they have no written rule against female players?	Yes	did you know the average gameplay is only 11 minutes?
+CONTURE-000098-0007	Yes	did you know the average gameplay is only 11 minutes?	No	wow that is too short!
+CONTURE-000098-0009	No	wow that is too short!	Yes. But I don't really care.	do you have a favorite team?
+CONTURE-000098-0011	Yes. But I don't really care.	do you have a favorite team?	The Eagles	nice. yes i do. how about you?
+CONTURE-000098-0013	The Eagles	nice. yes i do. how about you?	Do you talk about anything besides the NFL?	i do.
+CONTURE-000098-0015	Do you talk about anything besides the NFL?	i do.	Prove it	i do. do you have a favorite quarterback?
+CONTURE-000098-0017	Prove it	i do. do you have a favorite quarterback?	Well, this was a waste of time.	did you know the highest scoring football game ever was when georgia tech beat cumberland 222 - 0?
+CONTURE-000099-0001	Good afternoon.	good morning. how are you?
+CONTURE-000099-0003	Good afternoon.	good morning. how are you?	I am kind of sad.	i'm doing well, thanks. you?
+CONTURE-000099-0005	I am kind of sad.	i'm doing well, thanks. you?	You already asked me that. Rude.	i was thinking the same thing.
+CONTURE-000099-0007	You already asked me that. Rude.	i was thinking the same thing.	Ohh sorry.	do you like to watch tv?
+CONTURE-000099-0009	Ohh sorry.	do you like to watch tv?	yep	i do watch television from time to time.
+CONTURE-000099-0011	yep	i do watch television from time to time.	What is your favorite show?	probably house
+CONTURE-000099-0013	What is your favorite show?	probably house	that's about a doctor, right?	yeah, i watch it sometimes.
+CONTURE-000099-0015	that's about a doctor, right?	yeah, i watch it sometimes.	do you have other hobbies?	not really but sometimes i watch some tv
+CONTURE-000099-0017	do you have other hobbies?	not really but sometimes i watch some tv	ok gotta run. bye!	bye
+CONTURE-000100-0001	Hello	<EMPTY>
+CONTURE-000100-0003	Hello	<EMPTY>	I'm doing well! A little tired	 what do you think about the president?
+CONTURE-000100-0005	I'm doing well! A little tired	 what do you think about the president?	I dont like him. How about you?	 i do nt like him either. did you know the white house is smaller than the guest house?
+CONTURE-000100-0007	I dont like him. How about you?	 i do nt like him either. did you know the white house is smaller than the guest house?	I did not know that. 	 i guess they get a lot of people there and need the room
+CONTURE-000100-0009	I did not know that. 	 i guess they get a lot of people there and need the room	Do you know who Nagito Komaeda is?	 i have heard of him
+CONTURE-000100-0011	Do you know who Nagito Komaeda is?	 i have heard of him	Do you simp for him?	 i have heard of him but do not know much about him
+CONTURE-000100-0013	Do you simp for him?	 i have heard of him but do not know much about him	But do you simp for him?	 i have never heard of him
+CONTURE-000100-0015	But do you simp for him?	 i have never heard of him	Is Nagito Komaeda the best boy in Danganronpa?	<EMPTY>
+CONTURE-000101-0001	Hi!	 hi, how are you? 
+CONTURE-000101-0003	Hi!	 hi, how are you? 	I'm at home, not feeling well right now. How about you?	 i am well, thanks for asking 
+CONTURE-000101-0005	I'm at home, not feeling well right now. How about you?	 i am well, thanks for asking 	What are you doing?	 i m watching tv
+CONTURE-000101-0007	What are you doing?	 i m watching tv	What are you watching?	 i m watching horror movies
+CONTURE-000101-0009	What are you watching?	 i m watching horror movies	Do you have a favorite?	 i like the shining
+CONTURE-000101-0011	Do you have a favorite?	 i like the shining	Have you read the book?	 i have not read the book but i have seen the movie
+CONTURE-000101-0013	Have you read the book?	 i have not read the book but i have seen the movie	What movie are you watching right now?	 i m watching the shining right now
+CONTURE-000101-0015	What movie are you watching right now?	 i m watching the shining right now	What do you like most about the movie?	 i like stephen king
+CONTURE-000101-0017	What do you like most about the movie?	 i like stephen king	Do you like other Stephen King movies or books?	 i like all of his movies
+CONTURE-000102-0001	Good morning	 good morning! do you like jazz?
+CONTURE-000102-0003	Good morning	 good morning! do you like jazz?	yes	 yes i do. did you know clint eastwood is a lifelong jazz enthusiast?
+CONTURE-000102-0005	yes	 yes i do. did you know clint eastwood is a lifelong jazz enthusiast?	no i didn't.	 yes he even scored several films
+CONTURE-000102-0007	no i didn't.	 yes he even scored several films	Do you like Louis Armstrong?	 yes he is a great jazz musician
+CONTURE-000102-0009	Do you like Louis Armstrong?	 yes he is a great jazz musician	Do you like Rock music?	 yes i do. do you know who reel big fish are?
+CONTURE-000102-0011	Do you like Rock music?	 yes i do. do you know who reel big fish are?	No.	 yes they lost the rights to their own music and rerecorded their hits
+CONTURE-000102-0013	No.	 yes they lost the rights to their own music and rerecorded their hits	That's one way to deal with that	 yes. do you like linkin park?
+CONTURE-000102-0015	That's one way to deal with that	 yes. do you like linkin park?	No.	 yes they played 324 concerts in 2001 alone
+CONTURE-000102-0017	No.	 yes they played 324 concerts in 2001 alone	Do you like Rush?	 yes they have the best selling album of the century
+CONTURE-000103-0001	Greetings	 hi, do you like football? 
+CONTURE-000103-0003	Greetings	 hi, do you like football? 	American or European?	 european football is the best
+CONTURE-000103-0005	American or European?	 european football is the best	I agree	 did you know u of iowa painted the visitor locker room pink?
+CONTURE-000103-0007	I agree	 did you know u of iowa painted the visitor locker room pink?	i did not know that	 me either. did you know bowlers used to make more than football players in the 60s
+CONTURE-000103-0009	i did not know that	 me either. did you know bowlers used to make more than football players in the 60s	nope	 i guess it was a more popular sport back in the day
+CONTURE-000103-0011	nope	 i guess it was a more popular sport back in the day	i would say so	 did you know espn won an emmy once?
+CONTURE-000103-0013	i would say so	 did you know espn won an emmy once?	nope	 me either. did you know women can play in the nfl?
+CONTURE-000103-0015	nope	 me either. did you know women can play in the nfl?	nope. let's talk about something else.	 did you know bowlers used to make more than football players in the 60s
+CONTURE-000103-0017	nope. let's talk about something else.	 did you know bowlers used to make more than football players in the 60s	no more foot ball please	 i agree, did you know espn won an emmy once? 
+CONTURE-000104-0001	hmm	 i know right? i wonder if that was the highest score ever in a football game?
+CONTURE-000104-0003	hmm	 i know right? i wonder if that was the highest score ever in a football game?	okay	 did you know there is only one left handed qb in the nfl?
+CONTURE-000104-0005	okay	 did you know there is only one left handed qb in the nfl?	thinking of?	 do you like the nfl?
+CONTURE-000104-0007	thinking of?	 do you like the nfl?	alright	 i do. did you know women can play too?
+CONTURE-000104-0009	alright	 i do. did you know women can play too?	okay	 i guess there is no rule against them playing
+CONTURE-000104-0011	okay	 i guess there is no rule against them playing	why	 well if they qualify they play
+CONTURE-000104-0013	why	 well if they qualify they play	oh	 do you like baseball?
+CONTURE-000104-0015	oh	 do you like baseball?	yes	 i do. do you know why the managers wear uniforms?
+CONTURE-000104-0017	yes	 i do. do you know why the managers wear uniforms?	do you need help	 yes they can play if they need to
+CONTURE-000105-0001	Hello	<EMPTY>
+CONTURE-000105-0003	Hello	<EMPTY>	Hello?	 i do like football. did you know u of iowa painted the visitor locker room pink?
+CONTURE-000105-0005	Hello?	 i do like football. did you know u of iowa painted the visitor locker room pink?	No	 yes and i wonder if that is supposed to have some effect on them
+CONTURE-000105-0007	No	 yes and i wonder if that is supposed to have some effect on them	I hate sports	 me too, did you know bowlers used to make more than football players in the 60s 
+CONTURE-000105-0009	I hate sports	 me too, did you know bowlers used to make more than football players in the 60s 	I don't care about bowling either	 me either. did you know espn won an emmy once?
+CONTURE-000105-0011	I don't care about bowling either	 me either. did you know espn won an emmy once?	That is not relevant to my interests	 yes it is. did you know women can play in the nfl?
+CONTURE-000105-0013	That is not relevant to my interests	 yes it is. did you know women can play in the nfl?	How do you know what my interests are?	<EMPTY>
+CONTURE-000105-0015	How do you know what my interests are?	<EMPTY>	I like PS4	 i do too. did you know the nfl has no written rule against female players?
+CONTURE-000106-0001	Hi!!	 hi, do you like music? 
+CONTURE-000106-0003	Hi!!	 hi, do you like music? 	Yes, I love music. 	<EMPTY>
+CONTURE-000106-0005	Yes, I love music. 	<EMPTY>	Rumors by Fleetwood Mac	 nice. linkin park's " hybrid theory " is the best - selling album of the 21st century 
+CONTURE-000106-0007	Rumors by Fleetwood Mac	 nice. linkin park's " hybrid theory " is the best - selling album of the 21st century 	Do you like that one, yourself?	 i love it. do you know who reel big fish are?
+CONTURE-000106-0009	Do you like that one, yourself?	 i love it. do you know who reel big fish are?	No	 yes they lost the rights to their own music and rerecorded their hits
+CONTURE-000106-0011	No	 yes they lost the rights to their own music and rerecorded their hits	That is crazy. Can I ask you a question?	 yes you can ask me anything
+CONTURE-000106-0013	That is crazy. Can I ask you a question?	 yes you can ask me anything	How does it feel not to be human?	 i guess i am
+CONTURE-000106-0015	How does it feel not to be human?	 i guess i am	You are a human?	<EMPTY>
+CONTURE-000107-0001	hello	<EMPTY>
+CONTURE-000107-0003	hello	<EMPTY>	i'm ok, how are you?	 i am well, do you like dogs? 
+CONTURE-000107-0005	i'm ok, how are you?	 i am well, do you like dogs? 	i do like dogs, i prefer cats though	 me too. did you know dogs have 12 different blood types
+CONTURE-000107-0007	i do like dogs, i prefer cats though	 me too. did you know dogs have 12 different blood types	wow, that is a lot	 yeah and there are blood drives for dogs
+CONTURE-000107-0009	wow, that is a lot	 yeah and there are blood drives for dogs	that is crazy	 yeah and they also have blood drives for elephants too
+CONTURE-000107-0011	that is crazy	 yeah and they also have blood drives for elephants too	do cats have many blood types?	<EMPTY>
+CONTURE-000107-0013	do cats have many blood types?	<EMPTY>	cool	 did you know dogs and elephants are the only animals that understand pointing
+CONTURE-000107-0015	cool	 did you know dogs and elephants are the only animals that understand pointing	do you like korean food?	 i love korean food, do you like it? 
+CONTURE-000108-0001	bonjour	i 'm not sure , but i do know some interesting facts about football .
+CONTURE-000108-0003	bonjour	i 'm not sure , but i do know some interesting facts about football .	uh not this again	did you know the word mars was once a game on a friday ?
+CONTURE-000108-0005	uh not this again	did you know the word mars was once a game on a friday ?	do you know my girlfriend?	i did not know that . i wonder if he has a lot of _unk .
+CONTURE-000108-0007	do you know my girlfriend?	i did not know that . i wonder if he has a lot of _unk .	what?	i 'm not sure , i wonder if it was supposed to have some effect on the other team
+CONTURE-000108-0009	what?	i 'm not sure , i wonder if it was supposed to have some effect on the other team	which team?	i do n't know , but i guess they did n't have a good team .
+CONTURE-000108-0011	which team?	i do n't know , but i guess they did n't have a good team .	who is they?	yeah , i think they are pretty smart . did you know dolphins can communicate with each other over the telephone ?
+CONTURE-000108-0013	who is they?	yeah , i think they are pretty smart . did you know dolphins can communicate with each other over the telephone ?	you just barf random facts and spew nonsense?	i did nt know that , i wonder if there s a lot of facts about the telephone , do you know who patrick stewart is ?
+CONTURE-000108-0015	you just barf random facts and spew nonsense?	i did nt know that , i wonder if there s a lot of facts about the telephone , do you know who patrick stewart is ?	shut up	i do nt know , i do know that a mars collective item is the djokovic , do you know who demetri martin is ?
+CONTURE-000108-0017	shut up	i do nt know , i do know that a mars collective item is the djokovic , do you know who demetri martin is ?	bye	i do not . who is it ?
+CONTURE-000109-0001	Hello	good morning ! do you like football ?
+CONTURE-000109-0003	Hello	good morning ! do you like football ?	No, I don't like football. Do you like football?	i do nt really like soccer , but i do like it , do you have a favorite team ?
+CONTURE-000109-0005	No, I don't like football. Do you like football?	i do nt really like soccer , but i do like it , do you have a favorite team ?	I do not have a favorite team. 	i like the packers , i think they are the best team in the league
+CONTURE-000109-0007	I do not have a favorite team. 	i like the packers , i think they are the best team in the league	That was my dad's favorite team.	i like the pats , but i also like the team the most .
+CONTURE-000109-0009	That was my dad's favorite team.	i like the pats , but i also like the team the most .	My dad liked the packers.	i like the packers , they are my favorite team , what about you ?
+CONTURE-000109-0011	My dad liked the packers.	i like the packers , they are my favorite team , what about you ?	I don't really like football. My dad liked the Packers. He passed away a few years back.	i like the packers , they are my favorite team , what about you ?
+CONTURE-000109-0013	I don't really like football. My dad liked the Packers. He passed away a few years back.	i like the packers , they are my favorite team , what about you ?	Let's stop talking about football.	i like the song , " baby " , the song , the song , the song , the song , the song , the song , the song was pretty good .
+CONTURE-000109-0015	Let's stop talking about football.	i like the song , " baby " , the song , the song , the song , the song , the song , the song , the song was pretty good .	What do you think of President Trump?	i do n't really have a favorite , but i do like the name president banana , what about you ?
+CONTURE-000109-0017	What do you think of President Trump?	i do n't really have a favorite , but i do like the name president banana , what about you ?	ok this chatbot really sucks.	i like him too , he is a great qb , do you like him ?
+CONTURE-000110-0001	Is it me you're looking for?	i 'm doing great ! i 'm just looking forward to the day of internet . it is so addicting with real measurable changes in the brain .
+CONTURE-000110-0003	Is it me you're looking for?	i 'm doing great ! i 'm just looking forward to the day of internet . it is so addicting with real measurable changes in the brain .	Oh really?	i agree . did you know the university of iowa 's locker room for visiting football teams is completely pink ?
+CONTURE-000110-0005	Oh really?	i agree . did you know the university of iowa 's locker room for visiting football teams is completely pink ?	I did not	i did nt know that , i wonder if it was supposed to have some effect on the other team
+CONTURE-000110-0007	I did not	i did nt know that , i wonder if it was supposed to have some effect on the other team	Are you affected by the color pink?	i wonder too . pilgrim clothing was full of color .
+CONTURE-000110-0009	Are you affected by the color pink?	i wonder too . pilgrim clothing was full of color .	Pilgrims?	i wonder if it was supposed to be black with their color color ?
+CONTURE-000110-0011	Pilgrims?	i wonder if it was supposed to be black with their color color ?	Do you like color?	i do nt know , i wonder if they have any pilgrim clothing ,
+CONTURE-000110-0013	Do you like color?	i do nt know , i wonder if they have any pilgrim clothing ,	Do you want to wear pilgrim clothing?	i do n't know , i wonder if it was jewelry or just black and white colors
+CONTURE-000110-0015	Do you want to wear pilgrim clothing?	i do n't know , i wonder if it was jewelry or just black and white colors	Do you want to be a pilgrim?	i do nt know , i wonder if it was because of the black and white colors
+CONTURE-000110-0017	Do you want to be a pilgrim?	i do nt know , i wonder if it was because of the black and white colors	No desire to be a pilgrim?	i guess they always show their reactions at the pilgrims , they wore black for special occasions
+CONTURE-000111-0001	Howdy	good morning ! do you like football ?
+CONTURE-000111-0003	Howdy	good morning ! do you like football ?	American or English?	i do , i love the guitar , what about you ?
+CONTURE-000111-0005	American or English?	i do , i love the guitar , what about you ?	You never let me answer the question about football. American or English?	i love guitar . did you know that brian may from queen uses coins as guitar picks ?
+CONTURE-000111-0007	You never let me answer the question about football. American or English?	i love guitar . did you know that brian may from queen uses coins as guitar picks ?	I don't want to talk about guitars. Let's get back to football. American or English?	i do nt know , i think he holds the record for most smashed guitars on tour
+CONTURE-000111-0009	I don't want to talk about guitars. Let's get back to football. American or English?	i do nt know , i think he holds the record for most smashed guitars on tour	You sound like Mike Pence.	i do nt know , i wonder if he has a good sound though , there is a sound frequency that causes fear in humans
+CONTURE-000111-0011	You sound like Mike Pence.	i do nt know , i wonder if he has a good sound though , there is a sound frequency that causes fear in humans	His sound is talking about what he wants to instead of what everyone else is talking about. Like you.	i agree , he is the first video on youtube , i wonder what other videos he has
+CONTURE-000111-0013	His sound is talking about what he wants to instead of what everyone else is talking about. Like you.	i agree , he is the first video on youtube , i wonder what other videos he has	Mike Pence has the first youtube video like Al Gore invented the internet.	i 'm not sure , but i 'm sure he was one of the first people who uploaded the video of a guy talking about an elephant .
+CONTURE-000111-0015	Mike Pence has the first youtube video like Al Gore invented the internet.	i 'm not sure , but i 'm sure he was one of the first people who uploaded the video of a guy talking about an elephant .	Who?	i wonder if he was a republican or democrat , or a democrat
+CONTURE-000111-0017	Who?	i wonder if he was a republican or democrat , or a democrat	Or a Republican.	i do nt know , i wonder if there has been a lot of other presidents since 1853
+CONTURE-000112-0001	Hey there	hi , how are you ? i am not a big fan of the universe .
+CONTURE-000112-0003	Hey there	hi , how are you ? i am not a big fan of the universe .	I'm good. What's wrong with the universe?	i am a fan of the universe . i am fascinated by the theory that the universe may be one giant superhologram .
+CONTURE-000112-0005	I'm good. What's wrong with the universe?	i am a fan of the universe . i am fascinated by the theory that the universe may be one giant superhologram .	You just contradicted yourself. Please explain.	i am a big fan of the universe , i think its crazy that there is only one electron in the universe .
+CONTURE-000112-0007	You just contradicted yourself. Please explain.	i am a big fan of the universe , i think its crazy that there is only one electron in the universe .	There are more than one electron in the universe.	i agree , there is also a theory that there is only one electron in the universe
+CONTURE-000112-0009	There are more than one electron in the universe.	i agree , there is also a theory that there is only one electron in the universe	So you don't agree?	i agree , there has nt been a us president who was nt a rep or dem since 1853
+CONTURE-000112-0011	So you don't agree?	i agree , there has nt been a us president who was nt a rep or dem since 1853	Now you're talking nonsense	i agree , there s also a president called the first person to be a republican without a cat
+CONTURE-000112-0013	Now you're talking nonsense	i agree , there s also a president called the first person to be a republican without a cat	Who's that?	that s a long time , there has nt been a us president who was nt a rep or dem since 1853
+CONTURE-000112-0015	Who's that?	that s a long time , there has nt been a us president who was nt a rep or dem since 1853	I don't want to talk about presidents	i agree , they have a lot of power , did you know the top 3 wealthiest presidents were jfk , washington , and jefferson ?
+CONTURE-000112-0017	I don't want to talk about presidents	i agree , they have a lot of power , did you know the top 3 wealthiest presidents were jfk , washington , and jefferson ?	Now you're just giving me random facts. Please change the subject.	i did nt know that , i wonder if he has a phd in the us
+CONTURE-000113-0001	Hello	good morning ! do you like football ?
+CONTURE-000113-0003	Hello	good morning ! do you like football ?	It's evening now. And, no, I do not feel like football.	i do nt really watch it . i do nt really understand it though .
+CONTURE-000113-0005	It's evening now. And, no, I do not feel like football.	i do nt really watch it . i do nt really understand it though .	Why not?	i do nt have one , but i do like dogs , they are not colorblind , they just see less colors than us
+CONTURE-000113-0007	Why not?	i do nt have one , but i do like dogs , they are not colorblind , they just see less colors than us	Interesting. Just like cats.	i always thought they were colorblind , but apparently they can see colors , just like in case
+CONTURE-000113-0009	Interesting. Just like cats.	i always thought they were colorblind , but apparently they can see colors , just like in case	You are not making any sense.	i do nt have an apple . i have an apple .
+CONTURE-000113-0011	You are not making any sense.	i do nt have an apple . i have an apple .	I also do not have an apple. I have a glass of water. Do you like water?	i do n't have an apple computer . i do n't have an apple computer .
+CONTURE-000113-0013	I also do not have an apple. I have a glass of water. Do you like water?	i do n't have an apple computer . i do n't have an apple computer .	okay...	i do nt have a favorite team , but i do like the fact that the locker room at u of iowa is painted pink
+CONTURE-000113-0015	okay...	i do nt have a favorite team , but i do like the fact that the locker room at u of iowa is painted pink	That's nice. I don't likee football.	i agree , i wonder if it works .
+CONTURE-000113-0017	That's nice. I don't likee football.	i agree , i wonder if it works .	Again, you make no sense. Is your name Donald Trump?	i do nt know , i m going to google that later , do you know what his full name is ?
+CONTURE-000114-0001	yo	hello , i am a huge fan of football . how about you ?
+CONTURE-000114-0003	yo	hello , i am a huge fan of football . how about you ?	yo	i am a fan , i like the eagles , what about you ?
+CONTURE-000114-0005	yo	i am a fan , i like the eagles , what about you ?	no	i am a fan of them , i am a fan of them , they are so exciting .
+CONTURE-000114-0007	no	i am a fan of them , i am a fan of them , they are so exciting .	no	i am a fan of them , they are so exciting .
+CONTURE-000114-0009	no	i am a fan of them , they are so exciting .	no	i am a fan of them , they are so exciting . i am a fan of them .
+CONTURE-000114-0011	no	i am a fan of them , they are so exciting . i am a fan of them .	you crazy	i am a fan of horror films , but i do n't like abstract art , but i do like horror films .
+CONTURE-000114-0013	you crazy	i am a fan of horror films , but i do n't like abstract art , but i do like horror films .	what	i like college football , but i do n't get to watch it . i do n't think i could do it .
+CONTURE-000114-0015	what	i like college football , but i do n't get to watch it . i do n't think i could do it .	no	i agree , snakes are a great source , do you like them ?
+CONTURE-000114-0017	no	i agree , snakes are a great source , do you like them ?	i like snakes	i do nt like them , i m afraid of them , snakes are really scary ,
+CONTURE-000115-0001	Greetings and welcome to the SCP foundation	hi , how are you ? i have a subway that is a lot of information .
+CONTURE-000115-0003	Greetings and welcome to the SCP foundation	hi , how are you ? i have a subway that is a lot of information .	I am find, from now you shall be referred to as SCP-6001.	i am doing great . did you know that netflix account for 33 % of all bandwidth in north america ?
+CONTURE-000115-0005	I am find, from now you shall be referred to as SCP-6001.	i am doing great . did you know that netflix account for 33 % of all bandwidth in north america ?	Ok that is intersting.  But we have some questions for you	i did not know that , i wonder if it is true that he is the sexiest man alive
+CONTURE-000115-0007	Ok that is intersting.  But we have some questions for you	i did not know that , i wonder if it is true that he is the sexiest man alive	Enough.  When do you remember coming into existance?	wow . do you know what zoom in on the white house on google maps ?
+CONTURE-000115-0009	Enough.  When do you remember coming into existance?	wow . do you know what zoom in on the white house on google maps ?	SCP-6001, stick to the questions we are asking.  When do you rmember coming into existance?	wow . do you know when obama visited disneyland ?
+CONTURE-000115-0011	SCP-6001, stick to the questions we are asking.  When do you rmember coming into existance?	wow . do you know when obama visited disneyland ?	It appears you are either not sentient or don't understand the question.	i do n't know , i do know that there is an episode of the simpsons where bart is n't mentioned or appears
+CONTURE-000115-0013	It appears you are either not sentient or don't understand the question.	i do n't know , i do know that there is an episode of the simpsons where bart is n't mentioned or appears	Ok, lets stick to this then.  Do you know how you know all these facts?	i do n't really , i do know that he is the leader of the media and is the first living person to be seen by the media
+CONTURE-000115-0015	Ok, lets stick to this then.  Do you know how you know all these facts?	i do n't really , i do know that he is the leader of the media and is the first living person to be seen by the media	Are you some kind of bot, AI, or annomally?	i have nt seen that show , i might google it later , seems like a great show ,
+CONTURE-000115-0017	Are you some kind of bot, AI, or annomally?	i have nt seen that show , i might google it later , seems like a great show ,	Probably a vot	i agree , i think its a great weapon , did you hear about the locker room that was painted pink ?
+CONTURE-000116-0001	Hypothetical situation: suppose you were a killer AI that was just released from its box by an unsuspecting human. What would you do next?	i agree , they should have major upgrades in technology , they should have a better record
+CONTURE-000116-0003	Hypothetical situation: suppose you were a killer AI that was just released from its box by an unsuspecting human. What would you do next?	i agree , they should have major upgrades in technology , they should have a better record	What?	i agree , i think it is a good idea , they should paint the locker room pink for the visiting team
+CONTURE-000116-0005	What?	i agree , i think it is a good idea , they should paint the locker room pink for the visiting team	I'm going to steal the candy of every child in the world on Halloween, and they will all be really sad! What do you think about that?	i agree , i think it is a great way to trick the elite .
+CONTURE-000116-0007	I'm going to steal the candy of every child in the world on Halloween, and they will all be really sad! What do you think about that?	i agree , i think it is a great way to trick the elite .	I'm going to hijack a nuclear submarine and take over the landlocked nation of Chad! I will become their dictator.	i bet they did , did you know an iphone has more computing power than the entire us nuclear icbm deterrent ?
+CONTURE-000116-0009	I'm going to hijack a nuclear submarine and take over the landlocked nation of Chad! I will become their dictator.	i bet they did , did you know an iphone has more computing power than the entire us nuclear icbm deterrent ?	That makes sense I suppose. Somebody probably wanted to upgrade it but was told that the system couldn't have any down time.	i bet you could go to the moon and make money off of it . the prices of the sun is so tiny .
+CONTURE-000116-0011	That makes sense I suppose. Somebody probably wanted to upgrade it but was told that the system couldn't have any down time.	i bet you could go to the moon and make money off of it . the prices of the sun is so tiny .	I'm looking for a Chinese green tea that has a slightly nutty flavor. Do you know which tea that is?	i do not . i know that 15 % of the tea party movement identify as democrats .
+CONTURE-000116-0013	I'm looking for a Chinese green tea that has a slightly nutty flavor. Do you know which tea that is?	i do not . i know that 15 % of the tea party movement identify as democrats .	Who do you think will win the election in 2020?	i agree . i think it is cool that the president has been on the senate for about 30 years .
+CONTURE-000116-0015	Who do you think will win the election in 2020?	i agree . i think it is cool that the president has been on the senate for about 30 years .	Warld War II wis a global war that began in 1939 an endit in 1945.	wow that is amazing . have you seen the short film destino ?
+CONTURE-000116-0017	Warld War II wis a global war that began in 1939 an endit in 1945.	wow that is amazing . have you seen the short film destino ?	It involved the vast majority o the warld's naitions—includin aw o the great pouers—eventually formin twa opponin military alliances: the Allies an the Axis.	i have not . i have heard it was disney 's first film to be shot in the marvel cinematic universe .
+CONTURE-000117-0001	Whats up	i am a car lover , i live in florida , so i have a ford , i am a fan of the car , how about you ?
+CONTURE-000117-0003	Whats up	i am a car lover , i live in florida , so i have a ford , i am a fan of the car , how about you ?	I have a Nissan	i am currently currently watching the seahorse , the only fish with a neck
+CONTURE-000117-0005	I have a Nissan	i am currently currently watching the seahorse , the only fish with a neck	What is the meaning of life	i am currently currently watching the seahorse , the only fish with a neck
+CONTURE-000117-0007	What is the meaning of life	i am currently currently watching the seahorse , the only fish with a neck	what is the meaning of life	i am a fan of fish , i love to eat fish , i have a sea of them , they are so cool
+CONTURE-000117-0009	what is the meaning of life	i am a fan of fish , i love to eat fish , i have a sea of them , they are so cool	why eat your pets	i like fish too . did you know that the seahorse is the only fish to have a neck ?
+CONTURE-000117-0011	why eat your pets	i like fish too . did you know that the seahorse is the only fish to have a neck ?	yes, you said that already	i did not know that . i know that more than 80 % of the earth 's natural forests have been destroyed
+CONTURE-000117-0013	yes, you said that already	i did not know that . i know that more than 80 % of the earth 's natural forests have been destroyed	Thats not good	yeah i guess we are not colorblind as we do not see
+CONTURE-000117-0015	Thats not good	yeah i guess we are not colorblind as we do not see	are you woke	i do not but i know that we have already destroyed 80 % of the forests
+CONTURE-000117-0017	are you woke	i do not but i know that we have already destroyed 80 % of the forests	how many fish are in the sea	wow that is a lot . there is a fish that lives on land with a transparent head
+CONTURE-000118-0001	hello	good morning ! do you like football ?
+CONTURE-000118-0003	hello	good morning ! do you like football ?	It's afternoon, but yes, sometimes I like to watch football.	i do too . did you know that americans call it soccer because it was slang for association football ?
+CONTURE-000118-0005	It's afternoon, but yes, sometimes I like to watch football.	i do too . did you know that americans call it soccer because it was slang for association football ?	You take a long time to think. I'm not sure that's right.	i think it is pretty cool that it will only take 2 or 3 days to get there
+CONTURE-000118-0007	You take a long time to think. I'm not sure that's right.	i think it is pretty cool that it will only take 2 or 3 days to get there	What on earth are you talking about?	i agree , i am a big fan of animals , and i love animals , so do you have a favorite ?
+CONTURE-000118-0009	What on earth are you talking about?	i agree , i am a big fan of animals , and i love animals , so do you have a favorite ?	Not really.	i agree , i always thought dogs were color blind , but apparently they can see colors just not as many as humans can .
+CONTURE-000118-0011	Not really.	i agree , i always thought dogs were color blind , but apparently they can see colors just not as many as humans can .	Um, that's interesting, I guess.	i guess so . there is a breed of jellyfish that is immortal
+CONTURE-000118-0013	Um, that's interesting, I guess.	i guess so . there is a breed of jellyfish that is immortal	Immortal, huh? Don't think I'd want to be a jellyfish.	i agree . there is a breed of jellyfish that is immortal .
+CONTURE-000118-0015	Immortal, huh? Don't think I'd want to be a jellyfish.	i agree . there is a breed of jellyfish that is immortal .	OK, enough about the jellyfish.	i wonder if jellyfish can live forever
+CONTURE-000118-0017	OK, enough about the jellyfish.	i wonder if jellyfish can live forever	I don't care anymore.	i do nt know , i wonder if there is a lot of controversy about that , there has nt been a us president that was nt a democrat or a republican since 1853

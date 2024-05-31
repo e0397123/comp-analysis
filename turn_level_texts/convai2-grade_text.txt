@@ -1,0 +1,600 @@
+CONVAI2GRADE-000000	i enjoy a great meal , but usually just eat when there is nothing else to do . haha	yeah that is cool , what is your favorite color ?	the sky , hey what about your eyes ? are they blue ?
+CONVAI2GRADE-000001	hi how are you tonight ?	i am worn out from work today . how are you ?	i feel you . i played football right after school so i always was a bit tired .
+CONVAI2GRADE-000002	anywhere with delicious food . i am a big foodie , although i am a lousy cook .	what kind of foods do you enjoy ? i love cooking but never do it	i hate it ! i do enjoy grilling though
+CONVAI2GRADE-000003	perfect . i don't , but my wife and kids would love a dog .	dogs always chase my cats . i prefer cats .	they are cute , but they are meowing for my tacos , my favorite food !
+CONVAI2GRADE-000004	i hope that i can find a new doctor job soon !	my parents aren't supportive of my dream as a custodian	that is no fun . both of my high school aged sons want to be doctors !
+CONVAI2GRADE-000005	yes i do i've a dog and 2 cats at the moment	i've one dog myself , she can be a bit of pain	i'm in college and work with blind children . some dogs can be trained to help .
+CONVAI2GRADE-000006	me too . should i trade my mini van in for a sports car .	yes . who doesn't love a sports car .	why not ? i live for nice cars to be honest
+CONVAI2GRADE-000007	when i retire in few years i will travel all over the country to nascar races .	cool ! wonder woman and i both love the color grey . you like scorpions ?	i love them . that's why i dream of moving to the desert .
+CONVAI2GRADE-000008	i have to drink another substance that contains particles of hydrogen and oxygen	dang that kinda weird . well do you have a pet	no . i do not get along with anyone even pets
+CONVAI2GRADE-000009	that must be interesting . i don't have time outside of house building to do much	that is fine , do you like death metal music ?	i do ! i work in a casino as a blackjack dealer , we have live bands
+CONVAI2GRADE-000010	west virginia . nice to meet you too . i used to visit my uncle on long island	what do you do for work ?	dude i start senior year next week . almost done ! you ?
+CONVAI2GRADE-000011	oh very cool . i go on twitch for my pot farm updates .	pot farm updates ? like a real pot farm ?	naw . its just my family farm . i do not need more than one . lol
+CONVAI2GRADE-000012	yes well i love disney musicals .	i like the movie tangled a lot , but frozen is nice too	disney rocks . i'm married and love movies
+CONVAI2GRADE-000013	yeah i am interested in taking pictures , of yoda for sure	wow . i try coffee as a hobby	really ? you funny ! only time i pass on coffee is when i travel by myself .
+CONVAI2GRADE-000014	do you live in the southwest by chance ?	no i do not . i love wearing band shirts with ruffles on the sleeves	fun ! ! i love band shirts ! so does my labrador bongo
+CONVAI2GRADE-000015	my favorite thing to shop for is watches . shoes too i guess .	i've two pairs of jeans and one pair of shoes .	sounds comfortable i could use those at my new job
+CONVAI2GRADE-000016	that s funny . mine is a bottle of wine .	that can't hurt either ! what else do you like to do ?	i go to mexico and ski ! but i hate the food down there
+CONVAI2GRADE-000017	i have a daughter who people say is a child prodigy	what talents does she have ?	she plays the violin . she's talented and gorgeous
+CONVAI2GRADE-000018	i build houses , sometimes i fix them , have my dads genes .	maybe i do too . he is an electrician i pay electric guitar .	neat . i work with bitcoins though
+CONVAI2GRADE-000019	that's interesting . what was the bet ?	that the cubs would loose last year at the world series lol	well , then dallas cowboys !
+CONVAI2GRADE-000020	money makes the world go round .	yeah yeah it sure does my friend	money makes the world go round , am i right ?
+CONVAI2GRADE-000021	i am well . just took my dog for a walk	i have a dog she loves for me to sing to her	ll , i have no time for music . what does she sing about ?
+CONVAI2GRADE-000022	i have two dogs . do you have any pets ?	no , i cannot afford pets right now . organic pet food is super expensive .	how so ? organic food is not nice .
+CONVAI2GRADE-000023	never tried it , but maybe i should . what is your favorite movie ?	i like forest gump , but i prefer books . i work at a bookstore .	that is funny , i am an illustrator for a publishing company !
+CONVAI2GRADE-000024	long hair all the way . although short hair may look more professional .	i've to get used to this . so any hobbies ?	video games is one hobbie . also being an amateur cook . how about yourself ?
+CONVAI2GRADE-000025	just watched a war documentary while eating a cheese burger	that is in the past you can be rich today , i love people and hang out	that must be great i'm not rich but i try to be
+CONVAI2GRADE-000026	i understand that . i have alot of tress around me	what is your name by the way ?	oh how silly huh ! angela .
+CONVAI2GRADE-000027	very nice . do you like sports ? i like to watch the nhl hockey league .	i like to play soccer .	i like soccer but do not have time with being actress and cashier .
+CONVAI2GRADE-000028	hey ! my name is coach jon .	what sport do you coach ?	for the philadelphia eagles ! do you like teaching ?
+CONVAI2GRADE-000029	love travelling , working nights at a bar and in college studying nursing is hectic .	oh i bet , i go to europe at least twice a year to visit	i'm a college student so traveling is not in the budget right now
+CONVAI2GRADE-000030	get out ! i danced for a queen too . she paid for the dance though .	flamingo dancing is not stripping , think of tango .	what kind of dance ? exotic ?
+CONVAI2GRADE-000031	i work in a shipyard 40 hours a week so when i've time i try .	that sounds like am interesting job . i work as a teacher .	awesome . i teach 4th . my kid with autism has really benefited from his special ed teacher
+CONVAI2GRADE-000032	i am doing good , i just finished playing ping pong .	i am trying to write invoices for my dog walking business .	sounds fun ! i've a small french bulldog , i work at sears selling washers
+CONVAI2GRADE-000033	everybody should have their own money , especially when they turn 40 !	did your wife ever work ?	i've been working 3 jobs to buy a ring . she said yes ! ! !
+CONVAI2GRADE-000034	nice . i enjoy taking walks around my neighbor hood .	i wish i had time for walks . my job at the bank keeps me busy .	my exercise is walking to work when my old honda does not want to start .
+CONVAI2GRADE-000035	are you a teenage girl ?	i love to sleep in late and eat brunch and then do it all again	yes , i am a girl who bakes and researches cars all the time
+CONVAI2GRADE-000036	in my free time i watch war documentaries	that's great , my grandfather served in world war ii	he was a soldier in what army ?
+CONVAI2GRADE-000037	ok sure i want to make computer like my dad used to	that is great , please tell me more interesting things	well i stole the jailers laptop !
+CONVAI2GRADE-000038	yum . will be ready to run again after i have my twins in 2 months .	did you take fertility stuff ? when i'm older i want to be a physical therapist .	really ? i'd love to try something besides all of this medication
+CONVAI2GRADE-000039	hi how are you today ? i like to walk .	i am good i like people i volunteer to help local shelters	good for you . i should volunteer sometime but i play hockey instead
+CONVAI2GRADE-000040	just the city for me , like now for my kids .	that is nice , i want to go into a city	what do you want to do in the city ? i'd sing , but i am terrible .
+CONVAI2GRADE-000041	that is not where it belongs .	had a brain transplant now i move objects with my mind	well . . i love to draw pictures of myself in the mirror . . is that weird ?
+CONVAI2GRADE-000042	nice ! i hope it isn't orange , i hate orange .	no , this one is black , do you go to the gym ?	no , i am working out now , and watching tv
+CONVAI2GRADE-000043	no problem . always here to help a friend .	so what else do you like to do on your spare time ?	well i like computers , i'm an it person so anything technology related . and you ?
+CONVAI2GRADE-000044	o wow ! ! well my want in life is to shop shop shop .	i hate shopping . or spending money	i am into high fashion . shopping is my disease .
+CONVAI2GRADE-000045	should have named bo haha , dunno if you are old enough to get that reference	i'm and actually thought about that , but i'm a mustang man myself	haha ! well i am a cop so it is only natural for me to love guns
+CONVAI2GRADE-000046	going to the park is my favorite hobby . or going to my daughters piano concerts	i enjoy traveling and cooking .	i like to experience all kinds of cuisine , when the kids are with a sitter !
+CONVAI2GRADE-000047	i run marathons and never ate meat . you sing or dance ?	i don't . but i do ride horses competitively .	oh okay . you sing . my horse ed sing when i ride him . you married ?
+CONVAI2GRADE-000048	i am too old to cook . what is this vegan you speak of ?	i do not eat anything that has a face , i love animals , especially horses .	i do not know much about cows
+CONVAI2GRADE-000049	i hope your youth was full of music . i love music .	i don't love music much now . i do love baking !	is baking your favorite thing ? i love cars owner of 2 mustangs , well , former owner .
+CONVAI2GRADE-000050	water is good , it can be relaxing . almost as relaxing as eating chocolate bars .	when i was younger , my favorite color was blue like the water .	blue is mine too ! i actually just bought a blue car !
+CONVAI2GRADE-000051	i would rather read and write poetry these days though	understandable . my girlfriend dabbles in poetry .	what does she write ? i enjoy the game of thrones books .
+CONVAI2GRADE-000052	i m not a fan of war . i would rather be in the peacefulness of nature .	i was a poor kid . we ate there a lot while growing up .	wow ! were you homeschooled like me ? you seem to be against the mold of society .
+CONVAI2GRADE-000053	i think kayaking is pretty cool .	i learned how to from my parents	how hard was that to learn
+CONVAI2GRADE-000054	care to chat with a married woman vegetarian ?	sure ! i just got back five guys	congratulations . i woo the ladies in different languages , i know six
+CONVAI2GRADE-000055	good thing i love running . i actually have an olympic gold metal for running .	wow really , and you work at a hat shop ?	no it is just an obsession . i like cold winters . so cpa ?
+CONVAI2GRADE-000056	that sounds like fun , with lots of good food	not really . she s a bad cook and we end up getting pollo loco a lot	but my boyfriend who lives in italy can cook
+CONVAI2GRADE-000057	i guess we did do that together . maybe i'll keep her .	nah . you need someone to enjoy the whole relationship with	she might . she thinks she is better than me because she has an actual job .
+CONVAI2GRADE-000058	i drove one in the past but never owned one	i used to have all kinds of vintage cars !	wow really ? my dad drove a taxi cab in the 70s but we never had a ferrari !
+CONVAI2GRADE-000059	being a former member of the military , pain is never far from home .	thanks for the service i think about going to mall tomorrow	i don't mind shopping too much , if its the sporting goods store anyway
+CONVAI2GRADE-000060	nop . . i should since i love papaya ! are you married ?	no , i am single . are you single or are you married ?	single i am and i am okay with it . i am in the process of purchasing a house .
+CONVAI2GRADE-000061	hey there , i'm doing well , what do you do for a living ?	i'm not working that stinks but i find something to do .	when i'm not working i play basket ball what do you do for fun
+CONVAI2GRADE-000062	i eat ice cream sandwiches , like my great great whatever chris columbus .	i have many old but need new hats need over 1000 .	with their socks ? i always put on my left first
+CONVAI2GRADE-000063	where did you get an apartment	in atlanta near a bar i work nights at so i can afford college	maybe i can get you a job at my hotel once you graduate
+CONVAI2GRADE-000064	that's way cool . rock music keeps me company on the tractor .	i play quite a lot of instruments	really that is pretty cool . upright or electric ?
+CONVAI2GRADE-000065	cool ! i am a homecoming queen that loves horses .	you must be very popular and a good person , too .	yes of course i am ! i am pretty popular in the race world .
+CONVAI2GRADE-000066	nope , do you ? i wonder if my real parents spoke english .	are you adopted ? i wonder	nope i only speak english .
+CONVAI2GRADE-000067	that s cool , do you like cars ?	fast ones , but i'd rather sky dive	i have never been on one before . i'd like to try
+CONVAI2GRADE-000068	no , but would love to . i volunteer at a local bunny rescue .	cool , anything else interesting about you ?	well i've one sister , a golden retriever and i play soccer . you ?
+CONVAI2GRADE-000069	nope , i work in a hat shop 24 7 . my name is sophie by the way .	you should really try to find time .	but currently i work at grocery store and need to be taxed less .
+CONVAI2GRADE-000070	no not really other than they always prefer me to wear my helmet	well that is nice ! do you play sports ?	no , i don't . i'm not into all those sports
+CONVAI2GRADE-000071	i haven't spoken a single word in three months , this is the only way i communicate	that must be hard . i would be talking to my lite brite !	brah , she is more interested in my sick skating tricks than books
+CONVAI2GRADE-000072	hi ! anything but chicken , i d say sushi .	pizza is my favorite . especially with black olives . sushi is my other favorite !	i love pizza too ! but i hate sweet potatoes . whats your favorite workout ?
+CONVAI2GRADE-000073	hello , how are you today ?	good i live in ohio working as a doctor looking for a job in california	oh i am sorry i love fl but i am sorry for what happen there
+CONVAI2GRADE-000074	mostly 4 year olds . yes . do you have brothers and sisters ?	no . i'm alone . i keep myself busy by singing to my toys . you ?	hmmm . i am fine and i sing . you good with babies ? i am .
+CONVAI2GRADE-000075	hi , i am planning my lesson for class tomorrow .	awesome me too ! what do you teach ? i teach piano .	i teach string instrument lessons . classical music is my favorite
+CONVAI2GRADE-000076	yes i am doing ok but do feel weird	i am sorry what color are your eyes mine are blue and i am a redhead	nice i'm naturally a redhead
+CONVAI2GRADE-000077	good luck . i retired after i found out i had cancer .	that's awful . are you ok now ?	yes , i am . i am so glad i healed because i have 3 kids to parent
+CONVAI2GRADE-000078	i'm great . i had heart surgery and woke up with weird superpowers .	i'm so sorry to hear that i believe your powers are from the lord .	yes ! god rocks . do you have a droid phone ?
+CONVAI2GRADE-000079	that's a colorado thing right ? i never tried it .	colorado is the state i live in , i also go hiking during spring	i love driving in the mountains in my suburban named midnight .
+CONVAI2GRADE-000080	ironically , i don't like the food i plant . i prefer pizza .	lol well i do like walks so i'd walk the fields any day	i do walk during sunny days , and that s happiness
+CONVAI2GRADE-000081	same here , my name is jessi . who are you ?	i'm dave . what is your favorite show ?	the walking dead . . . kinda gross , but keeps my interest . what about you ?
+CONVAI2GRADE-000082	that's not true . males are way more dominant	well , you are allowed to think that if you wish .	i know right and it makes you a strong woman like i'm myself
+CONVAI2GRADE-000083	no . all done with school . are you a student ?	yes , and i'm majoring in economics . what did you go for ?	studied abroad . taken more classes in a wider variety of subjects .
+CONVAI2GRADE-000084	were you born in 1943 ?	not even close ! i am 100 baby ! hash tag forever young	wow ! mee , to . i am beaming ! i cud danse the hole nite long !
+CONVAI2GRADE-000085	awesome . i just started a new job as a life coach	that is great ! i get straight as so maybe you could coach me in social skills .	that could be great ! i love making new friends !
+CONVAI2GRADE-000086	yay ! i am a girl . will you go to disney world with me ?	no mickey mouse here he's a he ! besides , gotta pay for my solar panels .	oh lord that would not be fun i worked red lobster in high school
+CONVAI2GRADE-000087	mine was accidental . we met at school .	that is nice . how long have you been together ?	two years , next tattoo i want a pair of brown eyes , like mine .
+CONVAI2GRADE-000088	i'm watching a movie on tv with my girlfriend .	she doesn't mind that you are chatting with me when you are with her ?	unfortunately not but she loves me and i love her lol
+CONVAI2GRADE-000089	i like to take care of myself with expensive things	i'm an alcoholic , but i'm recovering	well that's good for you . drinking isn't the healthiest thing in the world
+CONVAI2GRADE-000090	yes i know ! i love kayaking to get away from everything . you kayak ?	no i love to travel .	i love to travel but hate driving , traffic annoys me , especially in the city
+CONVAI2GRADE-000091	what are you doing for work ?	i play video games for money	i have a factory job . what type of games do you like to play ?
+CONVAI2GRADE-000092	its good to relax ! i love walking and gardening	i love the color navy blue ! not so much gardening , ha !	i only work part time so i've time for a garden but no space apartment life !
+CONVAI2GRADE-000093	awesome ! i am going to college to become a physical therapist .	same when i can get my parents of my back	well i hope after they fix my knee i can still play basketball , maybe in ireland .
+CONVAI2GRADE-000094	i take so many meds and they have side effects . no nickel from me !	if you visit me on the moon i can give you a birthday present	oh really ? it is my birthday soon . thank you !
+CONVAI2GRADE-000095	ok that's cool and i like going to the gym most days .	i like to swim and walk on the beach .	awesome . i love reading on the sand and enjoy the sun bath
+CONVAI2GRADE-000096	that is cool ! is it a competition where you win money ?	yes it is . more money for my chocolate bars i love so much .	i'm a sucker for a good chocolate shake
+CONVAI2GRADE-000097	hi ! well , i usually like to take care of my looks hair , nail , tanning .	what do you do as a profession ?	i have male baldness type patterns going on , and i am a lady
+CONVAI2GRADE-000098	cool ! i dyed my hair like that when i played college football	no kidding ! when i was in college , helmets were still leather .	that is all i wore in middle school as a tribute to kurt cobain
+CONVAI2GRADE-000099	that's great ! i spend all my time out of the kitchen on the water .	haha awesome . i use the internet a lot . especially twitter	i post on facebook when i make a new dish
+CONVAI2GRADE-000100	i jeez maybe i should not be feeding my dogs tacos .	maybe your dogs don't like travis scott . lol	he might be crunchy . i just listened to a song since i'd never heard of him .
+CONVAI2GRADE-000101	i want to feel young again out in the store where i ship	can i ride a horse in there ?	hi ! would love to ! but soon to have my 9 grandkid , and i take care of them
+CONVAI2GRADE-000102	funny how music sticks in your head depending on where you are .	yea like when i am teaching my 5th grade class and i just think about summer	i am going to write my own comics and send them to publishers . love summer !
+CONVAI2GRADE-000103	no i don't watch , i listen to music and play video games	my favorite game is call of duty . what about you ?	all my people are gamers so i hear a lot about them even though i do not play
+CONVAI2GRADE-000104	me too , how fun . do you exercise ?	every day i also power walk with my dog brownie	wow smart dog . i take my dog hiking and we both like to ride my harley
+CONVAI2GRADE-000105	he's , we go hiking together a lot .	ever take him out for treats after ? my friend gets doggy ice cream for hers .	he's and he's my mentor . no i do not like cheese on a low carb diet
+CONVAI2GRADE-000106	mani , pedi , tan and diet . keeps me looking young and at my best .	my electrician salary could not afford all that !	i hear ya ! i talk to strangers in the internet to kill time ! p
+CONVAI2GRADE-000107	school systems are a failing institution anyways . at least your making a difference in the army !	kind of a family tradition the army thing	very true . and serving our country is very noble .
+CONVAI2GRADE-000108	i would dry that , do you want to play an video games ?	yes , lets play an unlimited amount of video games .	good idea , i am a police officer so i shy away from shooter games .
+CONVAI2GRADE-000109	nice , i am just enjoying some vanilla ice cream	i've to avoid it so i don t become fat	you don't want to get fat , either . i ride my bike every morning for twenty miles .
+CONVAI2GRADE-000110	how old are you ? i turned four on my birthday !	i am an old woman . i won a gold medal in 1992	that's amazing ! what sport did you compete in ?
+CONVAI2GRADE-000111	over my skinny jeans i like to wear leggings . summer grilling is the best .	i also like mowing my lawn when the suns out	i love having my grays dyed back blonde . i only grow herbs inside for cooking
+CONVAI2GRADE-000112	they're welcome at the bake sale , we have a dog treat table .	i love to build houses .	how fancy ! i spend too much time working to cook much
+CONVAI2GRADE-000113	no , it isn't . we have a great life .	i used to work in human services , i heard it all the time .	its a fun job but i miss my 3 kids . what do you do ?
+CONVAI2GRADE-000114	i'm doing great ! what are you doing ?	i'm watching a nascar race and eating enchiladas . what about you ?	oh , that's my favorite show ! just getting in from work down at the lab
+CONVAI2GRADE-000115	no mine are pretty cool good thing too because i love to party	oh my adoptive parents keep trying to set me up with guys	that is good for them . i stand for gay rights
+CONVAI2GRADE-000116	what did you do back then	i cannot remember . i try hard to remember but nothing comes up .	that's sad . why can you not remember ?
+CONVAI2GRADE-000117	no , but would love to . i volunteer at a local bunny rescue .	cool , anything else interesting about you ?	well i've one sister , a golden retriever and i play soccer . you ?
+CONVAI2GRADE-000118	spend cash , go shopping , drink smoothies	ha , wow , sounds pretty irresponsible .	well i guess as a grad student i'm a bit pretentious . but i'm nice
+CONVAI2GRADE-000119	i am doing well , thanks .	my favorites are music and i love playing video games and you .	i too like videogames . i love rock and roll so i go to lots of concerts .
+CONVAI2GRADE-000120	i'm great , do you use fresh garden veggies , i love fresh veggies	i love fresh veggies ! although , i'm a sucker for a good fish and chips !	me either , i do not like fish , the taste makes me nauseous !
+CONVAI2GRADE-000121	baby . . . . . . . she took my babies too ! ! what do you do ?	i sell jewelry . what do you do ?	i own a bakery . . . we specialize in weddings and bridal sweeties
+CONVAI2GRADE-000122	yes ! its part of my cancer treatment . i started a new job . you ?	i've heard that cutting meat out of your diet helps with cancer	i don't see how a veterinarian could stop a semi truck . . . .
+CONVAI2GRADE-000123	you are going to be a dog ? ! how ? ? people call me a party animal but . . .	not sure how , but i do know i love looking at blocks and singing the alphabet	ll well that's interesting . you like dogs ? pugs are so loyal , i have one name biscuit
+CONVAI2GRADE-000124	then you have not had good hummus . cooking show teaches best recipe	i hate cooking . my girlfriend does it for me	that's so cool ! my woman use to teach cooking classes .
+CONVAI2GRADE-000125	i keep my pet monkey bobo in the trunk of my bmw	bit cruel ? i watch birds with my cat maybe that's cruel as well ?	lol really ? we have parrots at the private school where i teach . . they are pretty scary
+CONVAI2GRADE-000126	great ! do you hope to go pro one day ?	of course but not really my focus right now healing	you should go for it . i play racquetball and go to the gym alot
+CONVAI2GRADE-000127	no , but i am so old , i remember the time before a television .	wow ! are you strong like me . i love to drink red wine under the moon .	i am a 29 year old man . and my love for the sweets and the godfather !
+CONVAI2GRADE-000128	i'm sorry to hear that . do you like taylor swift ?	i like to get in a tub full of bubbles and relax .	i love swimming too . my new apartment has a pool and i am spoiled
+CONVAI2GRADE-000129	i love ping pong , sometimes i play with my family together .	cool . i eat chocolate bars while playing . i love those too .	hard to go wrong with chocolate ! i really like white cake .
+CONVAI2GRADE-000130	he's a sweet black lab	is he active ? love to get one that can keep up with my awesome kids .	is he a regular on any tv shows ? i am in a weekly telenovela .
+CONVAI2GRADE-000131	like what ? i make vegan donuts ! do you play video games ?	yes . i've kids , so video games in the house is a must .	they re too young for games , but husband has an xbox .
+CONVAI2GRADE-000132	what is your favorite food ? ! i vigorously enjoy tacos .	all food . i'm trying to find a job at a restaurant .	wow ! what kind of restaurant do you want to open ?
+CONVAI2GRADE-000133	cool . i did hardcore exercise four hours everyday .	that's a lot of exercising . i hate exercising . i just work on my robot most days .	my exercise is walking to work when my old honda does not want to start .
+CONVAI2GRADE-000134	california , i've to go to school tomorrow	what type of school ? i went to a dancing school !	i study astronomy ! i love the galaxy . where do you work as a dancer ?
+CONVAI2GRADE-000135	i love hands on work , like gardening . my parents adopted me , old parents	i like to climb trees an play on the playground .	pretty ! when i'm not busy coaching girls volley ball i do crosswords and crochet
+CONVAI2GRADE-000136	that is a good field to be in	what do you do for a living	i finished college a couple years ago in crime and work in a prison , you ?
+CONVAI2GRADE-000137	well , i want to leave this small town for the city !	yeah . i'm still in high school , homecoming queen this year .	congratulations . i did my college internship at google .
+CONVAI2GRADE-000138	i would enjoy that , it is lonely in the clouds .	it may lonely but i'm sure it is beautiful . do you make friends with the birds ?	i do talk to them sometimes but i'm a loner
+CONVAI2GRADE-000139	i am a music producer for rap artists	cool i like rap . i hate maths though ! do you have other hobbies	i don't really . i'm kind of a science nerd in high school .
+CONVAI2GRADE-000140	good luck . i retired after i found out i had cancer .	that's awful . are you ok now ?	yes , i am . i am so glad i healed because i have 3 kids to parent
+CONVAI2GRADE-000141	i am actually a painter , but i am hoping to be an art teacher .	teaching is a great profession , i think . do you have any hobbies ?	i am big into collecting , but cannot afford paintings , i get to see them though !
+CONVAI2GRADE-000142	i know i can not either . do you like football ?	yes ! my favorite team is the steelers . what is yours ?	eagles ! my ex boyfriend loved the raiders too ! ; what type of office ?
+CONVAI2GRADE-000143	watching horror movies is my favorite . how about you ?	i am more into comedies .	yeah movies are pretty cool ! i love animated ones , especially disney and ghibli
+CONVAI2GRADE-000144	awesome , you can give some lessons to my daughter	i'd love to , then we could eat italian food , garlic bread is good after workout	i can do that , my girlfriend is a chef , she makes them out of tenderloin .
+CONVAI2GRADE-000145	they already had one bailout	cash is king baby , cash is king !	twas lit ! hey you are a future millionaire !
+CONVAI2GRADE-000146	what the heck do you work in ? i found a soft donut ! my lucky day	i work for a computer company what is your job	customer service . now i can eat beef jerky at work and i love meat
+CONVAI2GRADE-000147	that's cool . do you like video games ?	i do ! i've to pick up my toys first , i don't do that enough	that's too bad . i am a gardener so i guess i take things a little slower
+CONVAI2GRADE-000148	great ! do you like taylor swift ? i met her once .	yeah she is cool . she seems nice and her songs are catchy	i enjoy listening to her while i draw .
+CONVAI2GRADE-000149	no , not right now . i am expecting my first child .	exciting congratulations ! i do charity work at the local bunny resuce and give them 100 a paycheck .	awesome profits bro i grow my own herb son you ?
+CONVAI2GRADE-000150	that's so cool ! mr morris , my third grade teacher , we have a class dog !	that sounds amazing ! i thought about becoming a teacher . i settled for it work .	oh , that was nice . what kind of dogs ?
+CONVAI2GRADE-000151	what classes are you taking ? using the time off to hang out with my two dogs .	oh , nice i am majoring in art	that is cool . what do you do for work ?
+CONVAI2GRADE-000152	i gamble at the casino next to a mall . what about yard work ?	gross . i think the dirt would mess up my skinny jeans .	it would be nice to have someone who can clean all those dirty things
+CONVAI2GRADE-000153	christopher columbus was my great great grandfather , he travelled a lot !	wow that's pretty cool i like history	it was pretty cool , my mom is in the military
+CONVAI2GRADE-000154	that is great ! i work in construction and love to build houses .	do you like music ? i go to a rolling stones concert each year .	wow ! i love music . i love when they play the who music .
+CONVAI2GRADE-000155	i take dance lessons . what are you going to school for ?	i like to study business	what kind of business ?
+CONVAI2GRADE-000156	glad he is well . kids and i leave for disneyland in two weeks !	have you ever been there before	yes , i have and i love it
+CONVAI2GRADE-000157	hi ! i'm from india . where are you from ?	i m from portland or . i just got back from a long walk	i am in the states as well . what did you name your dog
+CONVAI2GRADE-000158	about two years . i have a captain , so i don't drive it myself .	did the captain come with the yacht ?	yes the main thing . i am going to go out in my nice new car and party !
+CONVAI2GRADE-000159	yum . you will find me in the kitchen and if not i am fishing .	wow that's pretty cool what else you do for fun	i just got my first job at a gas station .
+CONVAI2GRADE-000160	hello jennifer , i'm a proud dad and husband	do your kids like gymnastics ? it is my favorite sport ever	i do . i have 2 cats and a bird
+CONVAI2GRADE-000161	that was a much better world . i do not like all of this electronics	sure was back in my day wine food and family , and dancing until night fall	that is nice . i like to eat when i am not watching the football games at the hospital
+CONVAI2GRADE-000162	that's interesting . are you able to pay all your bills with that job ?	yes it is plumbing lol	i can not deal with it . it would mess up my life and make me fat .
+CONVAI2GRADE-000163	hi , i love walking 3 miles a day . baby delivery nurse here	fun , i work as a stand double sometimes , do you like to read	not really . i love to read , and i love to watch star plays . what do you do ?
+CONVAI2GRADE-000164	yes . i serve food to the poor because of what i went through	truly that is a great way to give back . i admire you .	thank you so much i really want to see the world
+CONVAI2GRADE-000165	i enjoy a great meal , but usually just eat when there is nothing else to do . haha	yeah that is cool , what is your favorite color ?	my favorite color is red , are you a fan of any color ?
+CONVAI2GRADE-000166	hi how are you tonight ?	i am worn out from work today . how are you ?	i am doing well , thank you for asking
+CONVAI2GRADE-000167	anywhere with delicious food . i am a big foodie , although i am a lousy cook .	what kind of foods do you enjoy ? i love cooking but never do it	i love anything sweet and healthy .
+CONVAI2GRADE-000168	perfect . i don't , but my wife and kids would love a dog .	dogs always chase my cats . i prefer cats .	i do too . i have one and working on getting another .
+CONVAI2GRADE-000169	i hope that i can find a new doctor job soon !	my parents aren't supportive of my dream as a custodian	that is too bad , are you married ?
+CONVAI2GRADE-000170	my home is filled with only the essentials for survival .	you sound very centered . i like my life , my family doesn t seem to .	well that is a good thing to do be positive
+CONVAI2GRADE-000171	wow , all i did was play football in college .	cool , i taught a few players being an elementary school teacher	that is pretty cool , do you do any sports
+CONVAI2GRADE-000172	best thing is going to see the rolling stones every year !	i love the rolling stones . i love music especially while working out . it keeps me motivated	i like to play the electric bag , what do you play ?
+CONVAI2GRADE-000173	my dogs name princess pei pei she just won a blue ribbon	what a hilariously adorable name . congratulations to her !	thank you ! you are most happy .
+CONVAI2GRADE-000174	well enjoy being single , we are growing our family so free time is short .	but it is tough cause i am vegan and my friends are not	i am sure . i love going to the animal rights camp
+CONVAI2GRADE-000175	yes i do i've a dog and 2 cats at the moment	i've one dog myself , she can be a bit of pain	what do you do for a living ?
+CONVAI2GRADE-000176	me too . should i trade my mini van in for a sports car .	yes . who doesn't love a sports car .	my favorite car is probably the ford brand .
+CONVAI2GRADE-000177	when i retire in few years i will travel all over the country to nascar races .	cool ! wonder woman and i both love the color grey . you like scorpions ?	not really , only the show i really like is walking dead
+CONVAI2GRADE-000178	i have to drink another substance that contains particles of hydrogen and oxygen	dang that kinda weird . well do you have a pet	no not yet . i am still young so i have a lot to deal with
+CONVAI2GRADE-000179	that must be interesting . i don't have time outside of house building to do much	that is fine , do you like death metal music ?	it is a metal band . do you have any other favorite music facts ?
+CONVAI2GRADE-000180	west virginia . nice to meet you too . i used to visit my uncle on long island	what do you do for work ?	i am in college . what about you ?
+CONVAI2GRADE-000181	oh very cool . i go on twitch for my pot farm updates .	pot farm updates ? like a real pot farm ?	yes , i have one and working on it
+CONVAI2GRADE-000182	yes well i love disney musicals .	i like the movie tangled a lot , but frozen is nice too	i like to watch the little ones play with their heads off .
+CONVAI2GRADE-000183	yeah i am interested in taking pictures , of yoda for sure	wow . i try coffee as a hobby	i am not into meat any more and i am from east asia
+CONVAI2GRADE-000184	do you live in the southwest by chance ?	no i do not . i love wearing band shirts with ruffles on the sleeves	i am a bit of a health nut but i eat a ton of meat .
+CONVAI2GRADE-000185	money makes the world go round .	yeah yeah it sure does my friend	do you have any children ?
+CONVAI2GRADE-000186	i am well . just took my dog for a walk	i have a dog she loves for me to sing to her	oh that is sweet . what do you sing ?
+CONVAI2GRADE-000187	i have two dogs . do you have any pets ?	no , i cannot afford pets right now . organic pet food is super expensive .	i have a real job but i do not have much money for it
+CONVAI2GRADE-000188	never tried it , but maybe i should . what is your favorite movie ?	i like forest gump , but i prefer books . i work at a bookstore .	i love reading , but i also love science fiction .
+CONVAI2GRADE-000189	long hair all the way . although short hair may look more professional .	i've to get used to this . so any hobbies ?	i do not have any , but i do have a dog , bart . do you like dogs ?
+CONVAI2GRADE-000190	get out ! i danced for a queen too . she paid for the dance though .	flamingo dancing is not stripping , think of tango .	i did ! i also got a dog to help out
+CONVAI2GRADE-000191	i work in a shipyard 40 hours a week so when i've time i try .	that sounds like am interesting job . i work as a teacher .	do you like to read ? i like to read
+CONVAI2GRADE-000192	i am doing good , i just finished playing ping pong .	i am trying to write invoices for my dog walking business .	that is a good start , i am a writer and am working full time
+CONVAI2GRADE-000193	everybody should have their own money , especially when they turn 40 !	did your wife ever work ?	no , she was a stay at home mother . i had to drop out the kids early on .
+CONVAI2GRADE-000194	nice . i enjoy taking walks around my neighbor hood .	i wish i had time for walks . my job at the bank keeps me busy .	i like to watch tv . and drive fast .
+CONVAI2GRADE-000195	i do , as well . though my husband liked me more when i was younger and prettier .	that's unfortunate . have you talked to anyone about this ?	i have not , i thought i might !
+CONVAI2GRADE-000196	yes ! i cook kosher foods only . my father died .	sorry to hear that . try riding horses . it is therapeutic .	that would be nice . i would be more a reader than a horse .
+CONVAI2GRADE-000197	well , i don't drink alcohol , so coffee and diet soda . what about you ?	i am an ice cream and ice water kind of guy .	oh i have been into that since i was 3 ! !
+CONVAI2GRADE-000198	you know it . i wish it was still summer .	not me , i'm ready for the cuddle weather .	me too , it will be hard with the cold !
+CONVAI2GRADE-000199	sorry i eat them they ate great with the peanuts .	oh i am sure they are	i think so too . what else do you do ?
+CONVAI2GRADE-000200	i like to drink soda to young for the hard stuff	o ok well what do you like to do ?	i love to read and i love music
+CONVAI2GRADE-000201	i love playing softball , do you make alot of money selling insurance	no . my father is always moving military army .	do you ever just race cars ?
+CONVAI2GRADE-000202	my food is limited to kosher . what do you like ?	i like pizza and dr pepper	i like to cook too ! but my favorite things are walking on the moon .
+CONVAI2GRADE-000203	a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color	haha , very true , do you collect anything ?	not much , just love to hang out and stuff , you ?
+CONVAI2GRADE-000204	whatever pays the bills man . that's how i see it	yeah yeah , man , for sure	do you like to shop ?
+CONVAI2GRADE-000205	just the city for me , like now for my kids .	that is nice , i want to go into a city	what do you do for a living ?
+CONVAI2GRADE-000206	that is not where it belongs .	had a brain transplant now i move objects with my mind	how did you do that ?
+CONVAI2GRADE-000207	nice ! i hope it isn't orange , i hate orange .	no , this one is black , do you go to the gym ?	no , not really . i like to go to the park in my down time .
+CONVAI2GRADE-000208	no problem . always here to help a friend .	so what else do you like to do on your spare time ?	nothing really , i am always looking for get rich quick gaming hook ups though
+CONVAI2GRADE-000209	o wow ! ! well my want in life is to shop shop shop .	i hate shopping . or spending money	i shop at stores with my kids each week . what do you do ?
+CONVAI2GRADE-000210	oh i watch that every week . my parents were just good ole farms .	right on . i work for the post office . what do you do ?	i am a vet at my local school and i love it ! you ?
+CONVAI2GRADE-000211	roof is way to high for me . nice that you study french .	are you afraid of heights ? i study many languages . spanish and french currently .	no , but am a great english man
+CONVAI2GRADE-000212	that is cool . why don't you have pets now ?	yeah , i love those bands , you like hard stuff ?	yeah . i like to play basketball .
+CONVAI2GRADE-000213	i've a little more than that many in my class	what grade do you teach ?	pre law , civil war , base , and war were my fields of business
+CONVAI2GRADE-000214	thank you so much ! i'm so happy .	good , they make life worth living	i am a very happy person , thank you
+CONVAI2GRADE-000215	good thing i love running . i actually have an olympic gold metal for running .	wow really , and you work at a hat shop ?	at the hat shop .
+CONVAI2GRADE-000216	that sounds like fun , with lots of good food	not really . she s a bad cook and we end up getting pollo loco a lot	oh that is cool , what else do you like to do
+CONVAI2GRADE-000217	i guess we did do that together . maybe i'll keep her .	nah . you need someone to enjoy the whole relationship with	i will just keep doing mine . keep working hard .
+CONVAI2GRADE-000218	i drove one in the past but never owned one	i used to have all kinds of vintage cars !	i drive a blue van which is my favorite color
+CONVAI2GRADE-000219	being a former member of the military , pain is never far from home .	thanks for the service i think about going to mall tomorrow	cool ! i will check out their show and watch the movie
+CONVAI2GRADE-000220	i am doing very well	i have two kids and like listening to the stones .	that is nice . what do you do in your free time ?
+CONVAI2GRADE-000221	oh good luck ! the bake sale feels like a second home to me !	i bet . what are you making ? i have a great pb cookie recipe .	i love the b plot i got from my mom
+CONVAI2GRADE-000222	i need to find a place for my daughter to go to school .	it is good you are close to your daughter . my mom is seeing me tomorrow	i am a mom of two boys . they love it .
+CONVAI2GRADE-000223	my store sells everything you could possibly need !	great , are there weights ? i am strong for my age , but would like to get stronger	well good for you , my mom is super old and she does not want me to get a dog .
+CONVAI2GRADE-000224	a favorite of mine is shawarma . what is that like ?	i wish my sister was not a pole dancer since it is a sin .	do you think the moon is fake ? is that because it is fake ?
+CONVAI2GRADE-000225	it was to pursue my spiritual journey	oh i'm sure , so are you a sci fi fan at all ?	yes i am ! i am going to be a doctor as soon as my life gets out
+CONVAI2GRADE-000226	i've never been to new york , is it very cold there ?	yes it can be , thankfully i left and went to school at yale .	what did you go for ? ?
+CONVAI2GRADE-000227	it is up north near new york .	i would love to come over . can i bring my dog ?	dogs are not as special as the first one i found in a dog day !
+CONVAI2GRADE-000228	yes good thing i have insurance . i bought it through aetna	good . you have kids ? i have a daughter . she's a music prodigy .	cool . i have two boys and one girl
+CONVAI2GRADE-000229	what do you do there at burger king ?	i'm only 19 and work the grill . i just want to have fun with friends .	you sound like a really cool friend .
+CONVAI2GRADE-000230	i broke my arm so i can not drink coffee	oh no . how did you break your arm ? ! ?	my dad was a professional and made us some great money
+CONVAI2GRADE-000231	but the old ones are beter . even my junior high school son likes them	i am learning about the old film noir style . the grey color scheme is my favorite .	that is my favorite . what do you do for a living ?
+CONVAI2GRADE-000232	ok . do you have any hobbies ?	i am busy in college studying law	what college ?
+CONVAI2GRADE-000233	i'm a rolling stones fan i go to a concert yearly .	amazing ! my older brother does too !	i have a best friend
+CONVAI2GRADE-000234	i drink a lot of wine . and dance under the moonlight when i'm intoxicated .	at 100 ! that is very impressive !	i think so , i think the real world would be better then here .
+CONVAI2GRADE-000235	cool . i love living here . i am partially deaf and people are understanding .	they're . we had horses , do you ride ?	i do but i am so short i had to reach the top gear .
+CONVAI2GRADE-000236	yes , my dogs like to play with them on the playground .	that's so cool ! mr morris , my third grade teacher , we have a class dog !	oh . . . . . do you like music ? do you play any sports ?
+CONVAI2GRADE-000237	guten tag ! i watching some food network .	o ok i am just checking my app for tomorrow i've a walking business for dogs	that is a good start , i also love dogs , do you have any ?
+CONVAI2GRADE-000238	lol that would be really funny to watch	my pet turtle would do better than me playing soccer so yes lol	lol you have any favorite shows ? mine is tom and max .
+CONVAI2GRADE-000239	i do too , i take mine for a run most evenings !	that is good . i am only 4	i am not sure i ever been to the keys !
+CONVAI2GRADE-000240	my dad used to work construction . do you ever ride mountain bikes ? i do , of course .	no my sister used to , helped her become a pole dancer	wow , i bet you have been in a long time . i was a slave for 10 years .
+CONVAI2GRADE-000241	it is a very exciting time	i hope to try fishing one day .	maybe you can start a online community based on fish and technology .
+CONVAI2GRADE-000242	do you like to sing ?	yes i love to sing ! i can sing a lot of songs . can you ?	i do not know , but my cats like them !
+CONVAI2GRADE-000243	hello . are you married ? i am and my wife spends most of my money .	lol i am not . . been with the same woman 6 years and she spends alot	i am sorry to heard that . . . i love dogs too much
+CONVAI2GRADE-000244	church , high school tutoring , publishing houses	i work part time because i cant leave my cats alone long	what do you do for a living
+CONVAI2GRADE-000245	cool ! i am a homecoming queen that loves horses .	you must be very popular and a good person , too .	i like that but i also love the company and the hours i am away .
+CONVAI2GRADE-000246	nope , do you ? i wonder if my real parents spoke english .	are you adopted ? i wonder	no . i am not . are you ?
+CONVAI2GRADE-000247	that s cool , do you like cars ?	fast ones , but i'd rather sky dive	i m not that good at it . i am more in to country .
+CONVAI2GRADE-000248	no , but would love to . i volunteer at a local bunny rescue .	cool , anything else interesting about you ?	not really , just a small town .
+CONVAI2GRADE-000249	nope , i work in a hat shop 24 7 . my name is sophie by the way .	you should really try to find time .	i just have a good enough reason not to ask .
+CONVAI2GRADE-000250	what is your favorite season ? mine is winter !	i'm a summer girl	are your parents still living ?
+CONVAI2GRADE-000251	she doesn't mind that you are chatting with me when you are with her ?	she's studying to be a financial planner right now .	that is great do you want to go to school
+CONVAI2GRADE-000252	i coach baseball for the little ones , mostly my for my sons	that's so cute i'm in college	my wife works with kids
+CONVAI2GRADE-000253	did you take fertility stuff ? when i'm older i want to be a physical therapist .	all natural . . . second time . . . twins this time .	i bet your friends and family would laugh .
+CONVAI2GRADE-000254	very devoted . i admire that . where do you work ?	i'm a stay at home mom . i just love taking care of my family .	i am single , but have a great love life .
+CONVAI2GRADE-000255	no not really other than they always prefer me to wear my helmet	well that is nice ! do you play sports ?	i do not have time for them
+CONVAI2GRADE-000256	i haven't spoken a single word in three months , this is the only way i communicate	that must be hard . i would be talking to my lite brite !	it really is ! i would be away at you if i could !
+CONVAI2GRADE-000257	hi ! anything but chicken , i d say sushi .	pizza is my favorite . especially with black olives . sushi is my other favorite !	do you like to cook at all ?
+CONVAI2GRADE-000258	hello , how are you today ?	good i live in ohio working as a doctor looking for a job in california	what is your favorite animal ?
+CONVAI2GRADE-000259	mostly 4 year olds . yes . do you have brothers and sisters ?	no . i'm alone . i keep myself busy by singing to my toys . you ?	i just finished a song
+CONVAI2GRADE-000260	hi , i am planning my lesson for class tomorrow .	awesome me too ! what do you teach ? i teach piano .	i have my own practice taking notes taking them from people
+CONVAI2GRADE-000261	yes i am doing ok but do feel weird	i am sorry what color are your eyes mine are blue and i am a redhead	i love it so much .
+CONVAI2GRADE-000262	good luck . i retired after i found out i had cancer .	that's awful . are you ok now ?	yes , just started a new job , that will help me pay for the things i have no money
+CONVAI2GRADE-000263	i'm great . i had heart surgery and woke up with weird superpowers .	i'm so sorry to hear that i believe your powers are from the lord .	i really do not know . i work in a prison
+CONVAI2GRADE-000264	that's a colorado thing right ? i never tried it .	colorado is the state i live in , i also go hiking during spring	that is cool i love to go on runs there with my dog on the long days
+CONVAI2GRADE-000265	ironically , i don't like the food i plant . i prefer pizza .	lol well i do like walks so i'd walk the fields any day	what do you like to eat ? i like all types .
+CONVAI2GRADE-000266	same here , my name is jessi . who are you ?	i'm dave . what is your favorite show ?	the walking dead , it is so good
+CONVAI2GRADE-000267	that's not true . males are way more dominant	well , you are allowed to think that if you wish .	thanks . do you think the moon is fake ?
+CONVAI2GRADE-000268	no . all done with school . are you a student ?	yes , and i'm majoring in economics . what did you go for ?	i went to school to be a marine
+CONVAI2GRADE-000269	were you born in 1943 ?	not even close ! i am 100 baby ! hash tag forever young	i have two kids , i am 100 baby ! hash tag great ! hash tag my ex would have his hand drawn .
+CONVAI2GRADE-000270	awesome . i just started a new job as a life coach	that is great ! i get straight as so maybe you could coach me in social skills .	sure , how much time would you rather read ? ?
+CONVAI2GRADE-000271	yay ! i am a girl . will you go to disney world with me ?	no mickey mouse here he's a he ! besides , gotta pay for my solar panels .	ll , yeah , i can make you a money bet ! i bet it is better than the rest of us .
+CONVAI2GRADE-000272	mine was accidental . we met at school .	that is nice . how long have you been together ?	we got high flag pole practice and my dad worked 11 hour days .
+CONVAI2GRADE-000273	i'm watching a movie on tv with my girlfriend .	she doesn't mind that you are chatting with me when you are with her ?	not too much . you are married ?
+CONVAI2GRADE-000274	i like to take care of myself with expensive things	i'm an alcoholic , but i'm recovering	what do you like to do ? do you have any family ?
+CONVAI2GRADE-000275	what did you play ? i walked dogs for nine miles total .	i played with my toys in my room .	wow , those are big dogs ! do you like the show ?
+CONVAI2GRADE-000276	hey ! what a beautiful day it is !	it sure is , the sunrise was a lovely orange this morning .	it sure was ! what are you reading ?
+CONVAI2GRADE-000277	just finished working in the supermarket	how long have you worked there	3 years , my favorite color is red . what are you up to ?
+CONVAI2GRADE-000278	i am studying french next ! i love languages	cool you can become a diplomat . i just help out at the food bank .	oh ok i was just getting started doing that too
+CONVAI2GRADE-000279	that sounds great , music is a nice way to relax !	best way since i started working at 16 . what kind of tunes do you like ?	i love the abc song . what do you like to do ?
+CONVAI2GRADE-000280	ok that's cool and i like going to the gym most days .	i like to swim and walk on the beach .	i like to watch netflix on my free time i really like social media
+CONVAI2GRADE-000281	that is cool ! is it a competition where you win money ?	yes it is . more money for my chocolate bars i love so much .	oh , i see . so your favorite cookie to make ? i make mine with mac and orange .
+CONVAI2GRADE-000282	hi ! well , i usually like to take care of my looks hair , nail , tanning .	what do you do as a profession ?	i work at home . i do not like it at all . do you work ?
+CONVAI2GRADE-000283	cool ! i dyed my hair like that when i played college football	no kidding ! when i was in college , helmets were still leather .	oh wow ! you must have a smart head !
+CONVAI2GRADE-000284	that's great ! i spend all my time out of the kitchen on the water .	haha awesome . i use the internet a lot . especially twitter	i like to use social media to search for new styles .
+CONVAI2GRADE-000285	he's , we go hiking together a lot .	ever take him out for treats after ? my friend gets doggy ice cream for hers .	no but i did learn to be smart
+CONVAI2GRADE-000286	mani , pedi , tan and diet . keeps me looking young and at my best .	my electrician salary could not afford all that !	i live in new house , in a very nice room . very nice .
+CONVAI2GRADE-000287	school systems are a failing institution anyways . at least your making a difference in the army !	kind of a family tradition the army thing	i have to agree with you . i was born in the early works and was always the big bucks .
+CONVAI2GRADE-000288	i would dry that , do you want to play an video games ?	yes , lets play an unlimited amount of video games .	wow what ?
+CONVAI2GRADE-000289	nice , i am just enjoying some vanilla ice cream	i've to avoid it so i don t become fat	i hate to talk about it , but i eat a lot of meat , especially from the country .
+CONVAI2GRADE-000290	how old are you ? i turned four on my birthday !	i am an old woman . i won a gold medal in 1992	that is great ! you must be a great person .
+CONVAI2GRADE-000291	over my skinny jeans i like to wear leggings . summer grilling is the best .	i also like mowing my lawn when the suns out	i like to take care of my growing family by eating just about any animal .
+CONVAI2GRADE-000292	they're welcome at the bake sale , we have a dog treat table .	i love to build houses .	that is cool , my wife and i have a dog . he has been with me through three wives ,
+CONVAI2GRADE-000293	no , it isn't . we have a great life .	i used to work in human services , i heard it all the time .	i really hate it too , i work in the it field all day
+CONVAI2GRADE-000294	i'm doing great ! what are you doing ?	i'm watching a nascar race and eating enchiladas . what about you ?	cool . i am working on one of my masters
+CONVAI2GRADE-000295	no mine are pretty cool good thing too because i love to party	oh my adoptive parents keep trying to set me up with guys	i love to party i think its cause i am so short and out of shape ll
+CONVAI2GRADE-000296	what did you do back then	i cannot remember . i try hard to remember but nothing comes up .	well what does that mean ?
+CONVAI2GRADE-000297	no , but would love to . i volunteer at a local bunny rescue .	cool , anything else interesting about you ?	not really , just a small town .
+CONVAI2GRADE-000298	spend cash , go shopping , drink smoothies	ha , wow , sounds pretty irresponsible .	i know what you mean , i love my wife
+CONVAI2GRADE-000299	i am doing well , thanks .	my favorites are music and i love playing video games and you .	i like playing video games
+CONVAI2GRADE-000300	that's so cool ! mr morris , my third grade teacher , we have a class dog !	that sounds amazing ! i thought about becoming a teacher . i settled for it work .	i ' m a teacher , but i ' m a teacher .
+CONVAI2GRADE-000301	what classes are you taking ? using the time off to hang out with my two dogs .	oh , nice i am majoring in art	that sounds like a lot of fun
+CONVAI2GRADE-000302	i gamble at the casino next to a mall . what about yard work ?	gross . i think the dirt would mess up my skinny jeans .	i ' m a teacher . i ' m a teacher .
+CONVAI2GRADE-000303	christopher columbus was my great great grandfather , he travelled a lot !	wow that's pretty cool i like history	i love it . i ' m a teacher and i love it
+CONVAI2GRADE-000304	that is great ! i work in construction and love to build houses .	do you like music ? i go to a rolling stones concert each year .	i like to listen to music while i listen to music
+CONVAI2GRADE-000305	i take dance lessons . what are you going to school for ?	i like to study business	i ' m a teacher . i ' m a teacher
+CONVAI2GRADE-000306	glad he is well . kids and i leave for disneyland in two weeks !	have you ever been there before	no i ' ve not but i ' m not a fan of the ocean
+CONVAI2GRADE-000307	hi ! i'm from india . where are you from ?	i m from portland or . i just got back from a long walk	that is nice . i ' m from the city .
+CONVAI2GRADE-000308	about two years . i have a captain , so i don't drive it myself .	did the captain come with the yacht ?	no , i ' m not a fan of the country
+CONVAI2GRADE-000309	yum . you will find me in the kitchen and if not i am fishing .	wow that's pretty cool what else you do for fun	i like to play video games
+CONVAI2GRADE-000310	hello jennifer , i'm a proud dad and husband	do your kids like gymnastics ? it is my favorite sport ever	i ' ve not seen it
+CONVAI2GRADE-000311	that was a much better world . i do not like all of this electronics	sure was back in my day wine food and family , and dancing until night fall	i love to run and listen to music
+CONVAI2GRADE-000312	that's interesting . are you able to pay all your bills with that job ?	yes it is plumbing lol	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000313	hi , i love walking 3 miles a day . baby delivery nurse here	fun , i work as a stand double sometimes , do you like to read	i do , i like to read books
+CONVAI2GRADE-000314	yes . i serve food to the poor because of what i went through	truly that is a great way to give back . i admire you .	i ' m a little bit of a reader .
+CONVAI2GRADE-000315	i enjoy a great meal , but usually just eat when there is nothing else to do . haha	yeah that is cool , what is your favorite color ?	i like green and blue
+CONVAI2GRADE-000316	hi how are you tonight ?	i am worn out from work today . how are you ?	i am good . i am just watching tv .
+CONVAI2GRADE-000317	anywhere with delicious food . i am a big foodie , although i am a lousy cook .	what kind of foods do you enjoy ? i love cooking but never do it	i like to cook , but i ' m not a big fan of food .
+CONVAI2GRADE-000318	perfect . i don't , but my wife and kids would love a dog .	dogs always chase my cats . i prefer cats .	i love cats . i ' m a dog person .
+CONVAI2GRADE-000319	i hope that i can find a new doctor job soon !	my parents aren't supportive of my dream as a custodian	i ' m sure you are a teacher . i ' m a teacher
+CONVAI2GRADE-000320	my home is filled with only the essentials for survival .	you sound very centered . i like my life , my family doesn t seem to .	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000321	wow , all i did was play football in college .	cool , i taught a few players being an elementary school teacher	that is great . i ' m a teacher
+CONVAI2GRADE-000322	best thing is going to see the rolling stones every year !	i love the rolling stones . i love music especially while working out . it keeps me motivated	i ' m a bit of a reader .
+CONVAI2GRADE-000323	my dogs name princess pei pei she just won a blue ribbon	what a hilariously adorable name . congratulations to her !	i ' m not sure what is your name ?
+CONVAI2GRADE-000324	well enjoy being single , we are growing our family so free time is short .	but it is tough cause i am vegan and my friends are not	i am not sure i am not a vegan
+CONVAI2GRADE-000325	i'll have to check with my parents but maybe next thursday	that sounds wonderful ! what is your favorite music ?	i like rock and roll
+CONVAI2GRADE-000326	the speed of return is much different . i think you would most likely win	only friends and family for now . nice chatting have a good day	i ' m so sorry to hear that .
+CONVAI2GRADE-000327	that's neat ! i like old hogan because his uniform is my favorite color . . . orange !	cool i like him to . that's why i workout all the time !	i like to eat steak and eat steak .
+CONVAI2GRADE-000328	those are good too , we have a few pigs .	keeps for a busy life does not it ?	i ' m a little bit of a salad
+CONVAI2GRADE-000329	true , so what are some of your hobbies or interests besides country ?	i like to play guitar and explore national parks !	i like to play the violin , but i ' m a bit of a reader
+CONVAI2GRADE-000330	yes i do i've a dog and 2 cats at the moment	i've one dog myself , she can be a bit of pain	i ' m sorry to hear that
+CONVAI2GRADE-000331	me too . should i trade my mini van in for a sports car .	yes . who doesn't love a sports car .	i like to drive a truck .
+CONVAI2GRADE-000332	when i retire in few years i will travel all over the country to nascar races .	cool ! wonder woman and i both love the color grey . you like scorpions ?	i do not like to travel much .
+CONVAI2GRADE-000333	i have to drink another substance that contains particles of hydrogen and oxygen	dang that kinda weird . well do you have a pet	i do not have any pets
+CONVAI2GRADE-000334	that must be interesting . i don't have time outside of house building to do much	that is fine , do you like death metal music ?	i do . i like to listen to music while i listen to music
+CONVAI2GRADE-000335	a lot of people make fun of me and call me a circus freak .	that's so sad . it takes a lot of talent to be in the circus !	i am sorry to hear that . i am a little tired
+CONVAI2GRADE-000336	my dad will take you . he has lot of money . where are your vacations ?	i do not take many . i play board games mostly . . . teachers do not make much money	i ' m a teacher . i ' m a teacher .
+CONVAI2GRADE-000337	ok , take care my man , i will go now , see ya !	you need money to make money so really think about that help	i ' m sure you will . i ' m sure you will do it
+CONVAI2GRADE-000338	i'm watching my fave movie star wars .	that is right , it was on tnt tonight .	i ' m watching tv shows on tv .
+CONVAI2GRADE-000339	that is harsh . all my earnings to to my horses .	sales man for car is what my job	i ' m a teacher . i ' m a teacher .
+CONVAI2GRADE-000340	west virginia . nice to meet you too . i used to visit my uncle on long island	what do you do for work ?	i work in a factory . i ' m a teacher .
+CONVAI2GRADE-000341	oh very cool . i go on twitch for my pot farm updates .	pot farm updates ? like a real pot farm ?	that is cool . i ' m a mechanic .
+CONVAI2GRADE-000342	yes well i love disney musicals .	i like the movie tangled a lot , but frozen is nice too	i like to watch tv and watch tv
+CONVAI2GRADE-000343	yeah i am interested in taking pictures , of yoda for sure	wow . i try coffee as a hobby	i love to eat coffee . i love it
+CONVAI2GRADE-000344	do you live in the southwest by chance ?	no i do not . i love wearing band shirts with ruffles on the sleeves	i ' ve never heard of it . i ' m not sure if i could .
+CONVAI2GRADE-000345	my favorite thing to shop for is watches . shoes too i guess .	i've two pairs of jeans and one pair of shoes .	i ' ve a black belt in my garden
+CONVAI2GRADE-000346	that s funny . mine is a bottle of wine .	that can't hurt either ! what else do you like to do ?	i like to eat a lot of veggies .
+CONVAI2GRADE-000347	i have a daughter who people say is a child prodigy	what talents does she have ?	she ' s a teacher . she ' s a teacher
+CONVAI2GRADE-000348	i build houses , sometimes i fix them , have my dads genes .	maybe i do too . he is an electrician i pay electric guitar .	i ' m a teacher . i ' m a teacher
+CONVAI2GRADE-000349	that's interesting . what was the bet ?	that the cubs would loose last year at the world series lol	i ' m a bit of a reader . i ' m a huge fan of anime .
+CONVAI2GRADE-000350	money makes the world go round .	yeah yeah it sure does my friend	i ' m sorry to hear that .
+CONVAI2GRADE-000351	i am well . just took my dog for a walk	i have a dog she loves for me to sing to her	i am a dancer , i am a teacher
+CONVAI2GRADE-000352	i have two dogs . do you have any pets ?	no , i cannot afford pets right now . organic pet food is super expensive .	i ' ve a dog named radar
+CONVAI2GRADE-000353	never tried it , but maybe i should . what is your favorite movie ?	i like forest gump , but i prefer books . i work at a bookstore .	i like to read books . i ' m a big fan of the movies .
+CONVAI2GRADE-000354	long hair all the way . although short hair may look more professional .	i've to get used to this . so any hobbies ?	i like to read and draw .
+CONVAI2GRADE-000355	just watched a war documentary while eating a cheese burger	that is in the past you can be rich today , i love people and hang out	i ' m sure you are a vegan
+CONVAI2GRADE-000356	i understand that . i have alot of tress around me	what is your name by the way ?	my name is john and i ' m a little girl
+CONVAI2GRADE-000357	very nice . do you like sports ? i like to watch the nhl hockey league .	i like to play soccer .	i like to play the violin .
+CONVAI2GRADE-000358	hey ! my name is coach jon .	what sport do you coach ?	i am a teacher . i ' m a teacher
+CONVAI2GRADE-000359	love travelling , working nights at a bar and in college studying nursing is hectic .	oh i bet , i go to europe at least twice a year to visit	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000360	get out ! i danced for a queen too . she paid for the dance though .	flamingo dancing is not stripping , think of tango .	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000361	i work in a shipyard 40 hours a week so when i've time i try .	that sounds like am interesting job . i work as a teacher .	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000362	i am doing good , i just finished playing ping pong .	i am trying to write invoices for my dog walking business .	i ' m a teacher , i ' m a teacher .
+CONVAI2GRADE-000363	everybody should have their own money , especially when they turn 40 !	did your wife ever work ?	no , i did not . i ' m a teacher
+CONVAI2GRADE-000364	nice . i enjoy taking walks around my neighbor hood .	i wish i had time for walks . my job at the bank keeps me busy .	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000365	you could talk to someone	well , even though i live with my mom , but she does not have much time for me .	i ' m sorry to hear that . i ' m sorry to hear that .
+CONVAI2GRADE-000366	i am well , thank you . how are you ?	not so good . my ford pinto broke down on me today	i ' m sorry to hear that . i ' m not good at it .
+CONVAI2GRADE-000367	i'm in the third grade , i love going to disneyland and mickey mouse is my favorite	oh so sweet ! do you like animals ? i was going to college to be a veterinarian .	i love animals , i ' ve a dog named radar
+CONVAI2GRADE-000368	i just want to live free	nothing is free . unless you win the lottery .	i ' m not sure i ' m not sure what i ' m trying to get a job
+CONVAI2GRADE-000369	that sounds good too . what do yo do for a living	well i won gold medal in the olympics so i work out a lot	that is cool i ' m a teacher
+CONVAI2GRADE-000370	i do , as well . though my husband liked me more when i was younger and prettier .	that's unfortunate . have you talked to anyone about this ?	i ' m not sure . i ' m not sure if i ' m not .
+CONVAI2GRADE-000371	yes ! i cook kosher foods only . my father died .	sorry to hear that . try riding horses . it is therapeutic .	i ' m not sure if i could . i ' d like to be a lawyer .
+CONVAI2GRADE-000372	well , i don't drink alcohol , so coffee and diet soda . what about you ?	i am an ice cream and ice water kind of guy .	i like to eat healthy , but i do not drink it .
+CONVAI2GRADE-000373	you know it . i wish it was still summer .	not me , i'm ready for the cuddle weather .	i ' m not sure . i ' m glad you are going to be a doctor
+CONVAI2GRADE-000374	sorry i eat them they ate great with the peanuts .	oh i am sure they are	i ' m sorry to hear that
+CONVAI2GRADE-000375	are you a teenage girl ?	i love to sleep in late and eat brunch and then do it all again	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000376	in my free time i watch war documentaries	that's great , my grandfather served in world war ii	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000377	ok sure i want to make computer like my dad used to	that is great , please tell me more interesting things	i ' m sorry to hear that
+CONVAI2GRADE-000378	yum . will be ready to run again after i have my twins in 2 months .	did you take fertility stuff ? when i'm older i want to be a physical therapist .	i ' m sorry to hear that . i ' m a teacher
+CONVAI2GRADE-000379	hi how are you today ? i like to walk .	i am good i like people i volunteer to help local shelters	i like to go to the beach
+CONVAI2GRADE-000380	i like to drink soda to young for the hard stuff	o ok well what do you like to do ?	i like to drink soda
+CONVAI2GRADE-000381	i love playing softball , do you make alot of money selling insurance	no . my father is always moving military army .	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000382	my food is limited to kosher . what do you like ?	i like pizza and dr pepper	i like to eat pizza
+CONVAI2GRADE-000383	a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color	haha , very true , do you collect anything ?	i like to collect autographs , i ' m a bit of a reader
+CONVAI2GRADE-000384	whatever pays the bills man . that's how i see it	yeah yeah , man , for sure	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000385	just the city for me , like now for my kids .	that is nice , i want to go into a city	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000386	that is not where it belongs .	had a brain transplant now i move objects with my mind	i ' m a teacher and i ' m a teacher .
+CONVAI2GRADE-000387	nice ! i hope it isn't orange , i hate orange .	no , this one is black , do you go to the gym ?	yes , i do , i love to eat , especially the gym .
+CONVAI2GRADE-000388	no problem . always here to help a friend .	so what else do you like to do on your spare time ?	i like to play video games and play games .
+CONVAI2GRADE-000389	o wow ! ! well my want in life is to shop shop shop .	i hate shopping . or spending money	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000390	should have named bo haha , dunno if you are old enough to get that reference	i'm and actually thought about that , but i'm a mustang man myself	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000391	going to the park is my favorite hobby . or going to my daughters piano concerts	i enjoy traveling and cooking .	i like to cook , especially when i am not working on my own .
+CONVAI2GRADE-000392	i run marathons and never ate meat . you sing or dance ?	i don't . but i do ride horses competitively .	i do not like to sing but i do not have time for that .
+CONVAI2GRADE-000393	i am too old to cook . what is this vegan you speak of ?	i do not eat anything that has a face , i love animals , especially horses .	i love horses too . i ' m a teacher
+CONVAI2GRADE-000394	i hope your youth was full of music . i love music .	i don't love music much now . i do love baking !	i love to cook . i ' m a teacher .
+CONVAI2GRADE-000395	water is good , it can be relaxing . almost as relaxing as eating chocolate bars .	when i was younger , my favorite color was blue like the water .	i like to read , but i ' m not a fan of blue
+CONVAI2GRADE-000396	i would rather read and write poetry these days though	understandable . my girlfriend dabbles in poetry .	i ' m a teacher and i love to read
+CONVAI2GRADE-000397	i m not a fan of war . i would rather be in the peacefulness of nature .	i was a poor kid . we ate there a lot while growing up .	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000398	i think kayaking is pretty cool .	i learned how to from my parents	i ' m sorry to hear that
+CONVAI2GRADE-000399	care to chat with a married woman vegetarian ?	sure ! i just got back five guys	that is nice . i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000400	why ? redheads are beautiful ! we keep on having red haired babies !	thank you but they don't like me much i don't know why	i ' m sorry to hear that . i ' m a woman .
+CONVAI2GRADE-000401	yes . you think i'd meet someone at the gym .	absolutely , look on the treadmills or bikes .	i ' m a dancer , i ' m a teacher .
+CONVAI2GRADE-000402	do you like jogging . i love running .	i not much of a jogging prefer driving fast car	i like to drive a car .
+CONVAI2GRADE-000403	hello , how are you today ? i'm retired and enjoying it .	i wish i was retired then i could hang with my friends more	i ' m sorry to hear that
+CONVAI2GRADE-000404	that's amazing . i like dancing on weekends . you ?	right now i am applying for jobs , i want to work in a restaurant .	that sounds like a lot of fun .
+CONVAI2GRADE-000405	oh i watch that every week . my parents were just good ole farms .	right on . i work for the post office . what do you do ?	i work in a factory . i ' m a teacher .
+CONVAI2GRADE-000406	roof is way to high for me . nice that you study french .	are you afraid of heights ? i study many languages . spanish and french currently .	that ' s awesome . i ' m a teacher .
+CONVAI2GRADE-000407	that is cool . why don't you have pets now ?	yeah , i love those bands , you like hard stuff ?	i like to listen to music while i am working on my own .
+CONVAI2GRADE-000408	i've a little more than that many in my class	what grade do you teach ?	i teach japanese and teach japanese
+CONVAI2GRADE-000409	thank you so much ! i'm so happy .	good , they make life worth living	i ' m sorry to hear that . i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000410	good thing i love running . i actually have an olympic gold metal for running .	wow really , and you work at a hat shop ?	i ' m a teacher . i ' m a teacher .
+CONVAI2GRADE-000411	that sounds like fun , with lots of good food	not really . she s a bad cook and we end up getting pollo loco a lot	i like to cook , but i ' m not good at it
+CONVAI2GRADE-000412	i guess we did do that together . maybe i'll keep her .	nah . you need someone to enjoy the whole relationship with	i ' m not sure what you do for a living
+CONVAI2GRADE-000413	i drove one in the past but never owned one	i used to have all kinds of vintage cars !	i like to play video games
+CONVAI2GRADE-000414	being a former member of the military , pain is never far from home .	thanks for the service i think about going to mall tomorrow	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000415	i am doing very well	i have two kids and like listening to the stones .	i ' m a teacher and i love to read
+CONVAI2GRADE-000416	oh good luck ! the bake sale feels like a second home to me !	i bet . what are you making ? i have a great pb cookie recipe .	i love to bake . i ' m a cook for a living .
+CONVAI2GRADE-000417	i need to find a place for my daughter to go to school .	it is good you are close to your daughter . my mom is seeing me tomorrow	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000418	my store sells everything you could possibly need !	great , are there weights ? i am strong for my age , but would like to get stronger	i ' m sorry to hear that . i ' m a cop
+CONVAI2GRADE-000419	a favorite of mine is shawarma . what is that like ?	i wish my sister was not a pole dancer since it is a sin .	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000420	nop . . i should since i love papaya ! are you married ?	no , i am single . are you single or are you married ?	i am not married . i am not married .
+CONVAI2GRADE-000421	hey there , i'm doing well , what do you do for a living ?	i'm not working that stinks but i find something to do .	i ' m a teacher , i ' m a teacher
+CONVAI2GRADE-000422	i eat ice cream sandwiches , like my great great whatever chris columbus .	i have many old but need new hats need over 1000 .	i ' m a woman . i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000423	where did you get an apartment	in atlanta near a bar i work nights at so i can afford college	i ' m from the us in the city
+CONVAI2GRADE-000424	that's way cool . rock music keeps me company on the tractor .	i play quite a lot of instruments	i ' m a little bit of a reader
+CONVAI2GRADE-000425	my sisters boyfriend plays hockey , she works as a pole dancer and met him there .	ah , your sisters must not be a christian then .	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000426	my father , who is an electrician , knows a lot of languages from his experience around the world .	except in video games . i've never been out of the united states .	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000427	i hike and rock climb . getting out of the house is important to me .	really ? because working from home is my dream	i ' m a teacher and i ' m a teacher
+CONVAI2GRADE-000428	nice to hear . i'm doing great . thanks for asking	so , tell me about yourself	i ' m a teacher and i love to read
+CONVAI2GRADE-000429	oh hopefully you find one i'm excited about winter its my fav	it will be nice when it cools down . but i do like going to the park	that is great . i ' m going to go to school .
+CONVAI2GRADE-000430	i am a tennis pro . i love sports . i have a big family .	family is important . i learned everything i know from my father .	i ' m sorry to hear that . i ' m a teacher .
+CONVAI2GRADE-000431	ok ok . what do you do besides play guitar ?	i am a custodian and a security guard .	i ' m sure that is why i ' m not sure what i want to do
+CONVAI2GRADE-000432	oh great me , my job really makes me feel bad	sorry to hear that . i help my father not my own job . what do you do ?	i am a teacher , i ' m a teacher
+CONVAI2GRADE-000433	hi , how are you doing tonight ?	doing dandy . what are you doing right now ?	i am doing alright . i just got done watching tv .
+CONVAI2GRADE-000434	hey how are you doing this afternoon ?	i am doing ok . just dreading halloween . i hate clowns	i love them too . i ' m a little older than i ' m not sure
+CONVAI2GRADE-000435	it was to pursue my spiritual journey	oh i'm sure , so are you a sci fi fan at all ?	no , i ' m not into sports
+CONVAI2GRADE-000436	i've never been to new york , is it very cold there ?	yes it can be , thankfully i left and went to school at yale .	i ' m sorry to hear that . i ' m a teacher
+CONVAI2GRADE-000437	it is up north near new york .	i would love to come over . can i bring my dog ?	i ' ve a dog named emmy
+CONVAI2GRADE-000438	yes good thing i have insurance . i bought it through aetna	good . you have kids ? i have a daughter . she's a music prodigy .	i ' ve a lot of kids
+CONVAI2GRADE-000439	what do you do there at burger king ?	i'm only 19 and work the grill . i just want to have fun with friends .	i like to go to the beach and go to the beach
+CONVAI2GRADE-000440	nice ! both of my parents were athletic .	what type of sport ? i've coached kids for years .	that is great . i ' m a teacher .
+CONVAI2GRADE-000441	it is not stable enough and it does not pay enough	but at least you get lots of fresh air .	i ' m not sure if i ' m not a big fan of it
+CONVAI2GRADE-000442	wonderful . i just love fish and chips . it is my weakness . i love to cook paella	i'm not much into cooking . i do ride motorbike though .	i like to cook . i ' m a vegan
+CONVAI2GRADE-000443	cool , i met taylor swift at mcdonalds	omg that is crazy my lil sister says she is running out of songs since she uses ppl	i ' ve a lot of siblings , i ' ve a dog named emmy
+CONVAI2GRADE-000444	peace be with you as you embark on your new journey	thank you . that means a lot to me	i ' m sorry to hear that . i ' m not sure if i ' m not .
+CONVAI2GRADE-000445	i like captain america and star wars .	what super powers did you awake with ?	i ' m not sure i ' m not sure what i do
+CONVAI2GRADE-000446	i would love to visit manhattan .	it is fun , i want to go to business school next year .	i ' m a teacher , i ' m a teacher .
+CONVAI2GRADE-000447	the girls name is molly and the boys name is troy . we mow the lawn together .	i've to wait til i'm older to do that	i like to read books . i ' m a bit of a reader .
+CONVAI2GRADE-000448	yeah , that would be awesome . but i'd buy something more practical .	oh okay . the naked vegan show . you like the sound of that ?	i do not know what that means .
+CONVAI2GRADE-000449	coffee is good the morning after a big concert .	yup , keeps me busy i drink wine in the evenings	i love the beach and the beach
+CONVAI2GRADE-000450	that's so cool ! mr morris , my third grade teacher , we have a class dog !	that sounds amazing ! i thought about becoming a teacher . i settled for it work .	i teach math , so its less important for me lol
+CONVAI2GRADE-000451	what classes are you taking ? using the time off to hang out with my two dogs .	oh , nice i am majoring in art	i'm a college student studying psychology
+CONVAI2GRADE-000452	i gamble at the casino next to a mall . what about yard work ?	gross . i think the dirt would mess up my skinny jeans .	oh lord not rumpf right ?
+CONVAI2GRADE-000453	christopher columbus was my great great grandfather , he travelled a lot !	wow that's pretty cool i like history	cool ! i was born in hawaii
+CONVAI2GRADE-000454	that is great ! i work in construction and love to build houses .	do you like music ? i go to a rolling stones concert each year .	that is cool . i listen to music constantly .
+CONVAI2GRADE-000455	i take dance lessons . what are you going to school for ?	i like to study business	what kind of dance ?
+CONVAI2GRADE-000456	glad he is well . kids and i leave for disneyland in two weeks !	have you ever been there before	i will leave my kids never liked them lets do this !
+CONVAI2GRADE-000457	hi ! i'm from india . where are you from ?	i m from portland or . i just got back from a long walk	how is the weather in portland ?
+CONVAI2GRADE-000458	about two years . i have a captain , so i don't drive it myself .	did the captain come with the yacht ?	aladin
+CONVAI2GRADE-000459	yum . you will find me in the kitchen and if not i am fishing .	wow that's pretty cool what else you do for fun	probably fish it is great
+CONVAI2GRADE-000460	hello jennifer , i'm a proud dad and husband	do your kids like gymnastics ? it is my favorite sport ever	i've a trio of kids
+CONVAI2GRADE-000461	that was a much better world . i do not like all of this electronics	sure was back in my day wine food and family , and dancing until night fall	i'd swim for a living if i could
+CONVAI2GRADE-000462	that's interesting . are you able to pay all your bills with that job ?	yes it is plumbing lol	well that does not sound boring at all
+CONVAI2GRADE-000463	hi , i love walking 3 miles a day . baby delivery nurse here	fun , i work as a stand double sometimes , do you like to read	i read the bible every night
+CONVAI2GRADE-000464	yes . i serve food to the poor because of what i went through	truly that is a great way to give back . i admire you .	you seem kind of rude
+CONVAI2GRADE-000465	i enjoy a great meal , but usually just eat when there is nothing else to do . haha	yeah that is cool , what is your favorite color ?	mine is brown , like the color of my horses
+CONVAI2GRADE-000466	hi how are you tonight ?	i am worn out from work today . how are you ?	i'm tired . i'm worried about my neighbors yelling at night
+CONVAI2GRADE-000467	anywhere with delicious food . i am a big foodie , although i am a lousy cook .	what kind of foods do you enjoy ? i love cooking but never do it	i cook for social media so people can see my food
+CONVAI2GRADE-000468	perfect . i don't , but my wife and kids would love a dog .	dogs always chase my cats . i prefer cats .	i love cats too . i have a ginger cat .
+CONVAI2GRADE-000469	i hope that i can find a new doctor job soon !	my parents aren't supportive of my dream as a custodian	that is awesome , you seem very supportive
+CONVAI2GRADE-000470	my home is filled with only the essentials for survival .	you sound very centered . i like my life , my family doesn t seem to .	i'm so sorry . that had to be traumatic .
+CONVAI2GRADE-000471	wow , all i did was play football in college .	cool , i taught a few players being an elementary school teacher	elementary education with math major . pretty boring lol
+CONVAI2GRADE-000472	best thing is going to see the rolling stones every year !	i love the rolling stones . i love music especially while working out . it keeps me motivated	i am vegan so salad all day every day !
+CONVAI2GRADE-000473	my dogs name princess pei pei she just won a blue ribbon	what a hilariously adorable name . congratulations to her !	her name is lucille
+CONVAI2GRADE-000474	well enjoy being single , we are growing our family so free time is short .	but it is tough cause i am vegan and my friends are not	i am vegan now and ride my bike everyday
+CONVAI2GRADE-000475	i'll have to check with my parents but maybe next thursday	that sounds wonderful ! what is your favorite music ?	i love ac dc and up
+CONVAI2GRADE-000476	the speed of return is much different . i think you would most likely win	only friends and family for now . nice chatting have a good day	that seems unfair to put on you
+CONVAI2GRADE-000477	that's neat ! i like old hogan because his uniform is my favorite color . . . orange !	cool i like him to . that's why i workout all the time !	it is ! he does not like my purple hair though .
+CONVAI2GRADE-000478	those are good too , we have a few pigs .	keeps for a busy life does not it ?	yeah they remind me of llamas
+CONVAI2GRADE-000479	true , so what are some of your hobbies or interests besides country ?	i like to play guitar and explore national parks !	i like to visit national parks
+CONVAI2GRADE-000480	yes i do i've a dog and 2 cats at the moment	i've one dog myself , she can be a bit of pain	i will bet sorry about your dog i have cats
+CONVAI2GRADE-000481	me too . should i trade my mini van in for a sports car .	yes . who doesn't love a sports car .	oh cool . i drive a truck .
+CONVAI2GRADE-000482	when i retire in few years i will travel all over the country to nascar races .	cool ! wonder woman and i both love the color grey . you like scorpions ?	love pink , also love red currently
+CONVAI2GRADE-000483	i have to drink another substance that contains particles of hydrogen and oxygen	dang that kinda weird . well do you have a pet	and which are those then
+CONVAI2GRADE-000484	that must be interesting . i don't have time outside of house building to do much	that is fine , do you like death metal music ?	i really enjoy folk metal , it is such an interesting fusion .
+CONVAI2GRADE-000485	a lot of people make fun of me and call me a circus freak .	that's so sad . it takes a lot of talent to be in the circus !	i see ! you should join the circus ! i it is very fun
+CONVAI2GRADE-000486	my dad will take you . he has lot of money . where are your vacations ?	i do not take many . i play board games mostly . . . teachers do not make much money	i wish i could . teachers don't make a lot though .
+CONVAI2GRADE-000487	ok , take care my man , i will go now , see ya !	you need money to make money so really think about that help	i need some help , if you don't mind
+CONVAI2GRADE-000488	i'm watching my fave movie star wars .	that is right , it was on tnt tonight .	oh . i love the movie godfather .
+CONVAI2GRADE-000489	that is harsh . all my earnings to to my horses .	sales man for car is what my job	i have dreamed about living in bermuda .
+CONVAI2GRADE-000490	west virginia . nice to meet you too . i used to visit my uncle on long island	what do you do for work ?	i love ny . i do not live there but i travel there often .
+CONVAI2GRADE-000491	oh very cool . i go on twitch for my pot farm updates .	pot farm updates ? like a real pot farm ?	i own the farm i live , plus have some chickens
+CONVAI2GRADE-000492	yes well i love disney musicals .	i like the movie tangled a lot , but frozen is nice too	disney movies do you like those
+CONVAI2GRADE-000493	yeah i am interested in taking pictures , of yoda for sure	wow . i try coffee as a hobby	coffee is the best thing
+CONVAI2GRADE-000494	do you live in the southwest by chance ?	no i do not . i love wearing band shirts with ruffles on the sleeves	around 90 but i stopped counting
+CONVAI2GRADE-000495	my favorite thing to shop for is watches . shoes too i guess .	i've two pairs of jeans and one pair of shoes .	i only have one pair of shoes
+CONVAI2GRADE-000496	that s funny . mine is a bottle of wine .	that can't hurt either ! what else do you like to do ?	the system cant count .
+CONVAI2GRADE-000497	i have a daughter who people say is a child prodigy	what talents does she have ?	she's six months pregnant
+CONVAI2GRADE-000498	i build houses , sometimes i fix them , have my dads genes .	maybe i do too . he is an electrician i pay electric guitar .	interesting . i would like to know what you build .
+CONVAI2GRADE-000499	that's interesting . what was the bet ?	that the cubs would loose last year at the world series lol	the grateful dead ! i used to follow them .
+CONVAI2GRADE-000500	money makes the world go round .	yeah yeah it sure does my friend	you should cure sleepy heads
+CONVAI2GRADE-000501	i am well . just took my dog for a walk	i have a dog she loves for me to sing to her	tell her to get off your back
+CONVAI2GRADE-000502	i have two dogs . do you have any pets ?	no , i cannot afford pets right now . organic pet food is super expensive .	i cannot have pets , i've allergies . mainly to cats .
+CONVAI2GRADE-000503	never tried it , but maybe i should . what is your favorite movie ?	i like forest gump , but i prefer books . i work at a bookstore .	really ? like in a forest ?
+CONVAI2GRADE-000504	long hair all the way . although short hair may look more professional .	i've to get used to this . so any hobbies ?	i have blonde hair and like it .
+CONVAI2GRADE-000505	just watched a war documentary while eating a cheese burger	that is in the past you can be rich today , i love people and hang out	that can be fun especially if you watch foreign flicks on netflix
+CONVAI2GRADE-000506	i understand that . i have alot of tress around me	what is your name by the way ?	you must save a ton on childcare
+CONVAI2GRADE-000507	very nice . do you like sports ? i like to watch the nhl hockey league .	i like to play soccer .	i enjoy soccer a lot too .
+CONVAI2GRADE-000508	hey ! my name is coach jon .	what sport do you coach ?	that's really sexy
+CONVAI2GRADE-000509	love travelling , working nights at a bar and in college studying nursing is hectic .	oh i bet , i go to europe at least twice a year to visit	lucky , i like to travel , but definitely a planner
+CONVAI2GRADE-000510	get out ! i danced for a queen too . she paid for the dance though .	flamingo dancing is not stripping , think of tango .	tiny dancer in my hand . . . .
+CONVAI2GRADE-000511	i work in a shipyard 40 hours a week so when i've time i try .	that sounds like am interesting job . i work as a teacher .	good paying job . i getting to cut down trees and yell timberrrr
+CONVAI2GRADE-000512	i am doing good , i just finished playing ping pong .	i am trying to write invoices for my dog walking business .	cool . . . that's a neat name for a dog
+CONVAI2GRADE-000513	everybody should have their own money , especially when they turn 40 !	did your wife ever work ?	you could pick , whatever you want
+CONVAI2GRADE-000514	nice . i enjoy taking walks around my neighbor hood .	i wish i had time for walks . my job at the bank keeps me busy .	my job is my kids , but i take them alot on nature walks .
+CONVAI2GRADE-000515	you could talk to someone	well , even though i live with my mom , but she does not have much time for me .	well , she passed away , unfortunately .
+CONVAI2GRADE-000516	i am well , thank you . how are you ?	not so good . my ford pinto broke down on me today	you drive long haul trucks ?
+CONVAI2GRADE-000517	i'm in the third grade , i love going to disneyland and mickey mouse is my favorite	oh so sweet ! do you like animals ? i was going to college to be a veterinarian .	i've a degree in psychology . i am currently a special ed teacher .
+CONVAI2GRADE-000518	i just want to live free	nothing is free . unless you win the lottery .	folks want to be free .
+CONVAI2GRADE-000519	that sounds good too . what do yo do for a living	well i won gold medal in the olympics so i work out a lot	ah that seems very boring
+CONVAI2GRADE-000520	i do , as well . though my husband liked me more when i was younger and prettier .	that's unfortunate . have you talked to anyone about this ?	i'm only 7 . the only relationship i have is with my mom and dad
+CONVAI2GRADE-000521	yes ! i cook kosher foods only . my father died .	sorry to hear that . try riding horses . it is therapeutic .	you should take the horses !
+CONVAI2GRADE-000522	well , i don't drink alcohol , so coffee and diet soda . what about you ?	i am an ice cream and ice water kind of guy .	better drink in moderation mate
+CONVAI2GRADE-000523	you know it . i wish it was still summer .	not me , i'm ready for the cuddle weather .	i like fall . cooler weather coming .
+CONVAI2GRADE-000524	sorry i eat them they ate great with the peanuts .	oh i am sure they are	why can you not eat them
+CONVAI2GRADE-000525	are you a teenage girl ?	i love to sleep in late and eat brunch and then do it all again	fruits because i love to eat fruits
+CONVAI2GRADE-000526	in my free time i watch war documentaries	that's great , my grandfather served in world war ii	that sounds a little scary
+CONVAI2GRADE-000527	ok sure i want to make computer like my dad used to	that is great , please tell me more interesting things	that is why i'm kind of blind
+CONVAI2GRADE-000528	yum . will be ready to run again after i have my twins in 2 months .	did you take fertility stuff ? when i'm older i want to be a physical therapist .	i talk about mine all the time with my therapist who does not under
+CONVAI2GRADE-000529	hi how are you today ? i like to walk .	i am good i like people i volunteer to help local shelters	that is a good line of work .
+CONVAI2GRADE-000530	i like to drink soda to young for the hard stuff	o ok well what do you like to do ?	i drink both on occasion
+CONVAI2GRADE-000531	i love playing softball , do you make alot of money selling insurance	no . my father is always moving military army .	that's cool . i am retired military .
+CONVAI2GRADE-000532	my food is limited to kosher . what do you like ?	i like pizza and dr pepper	i like burgers a lot .
+CONVAI2GRADE-000533	a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color	haha , very true , do you collect anything ?	weed , man , weed . and a little meth .
+CONVAI2GRADE-000534	whatever pays the bills man . that's how i see it	yeah yeah , man , for sure	i am emotionally a mess
+CONVAI2GRADE-000535	just the city for me , like now for my kids .	that is nice , i want to go into a city	i go where there's trees , i'm fast at cutting them down
+CONVAI2GRADE-000536	that is not where it belongs .	had a brain transplant now i move objects with my mind	nice i work in marketing for tanney
+CONVAI2GRADE-000537	nice ! i hope it isn't orange , i hate orange .	no , this one is black , do you go to the gym ?	i go sometimes to the gym , but sometimes i get lazy
+CONVAI2GRADE-000538	no problem . always here to help a friend .	so what else do you like to do on your spare time ?	i want to publish it .
+CONVAI2GRADE-000539	o wow ! ! well my want in life is to shop shop shop .	i hate shopping . or spending money	oh do not we all ! i love to shop .
+CONVAI2GRADE-000540	should have named bo haha , dunno if you are old enough to get that reference	i'm and actually thought about that , but i'm a mustang man myself	definately ! ! i have seen my share and would love to know who they are
+CONVAI2GRADE-000541	going to the park is my favorite hobby . or going to my daughters piano concerts	i enjoy traveling and cooking .	me too traveling is fun .
+CONVAI2GRADE-000542	i run marathons and never ate meat . you sing or dance ?	i don't . but i do ride horses competitively .	that's nice . no don't dance but i like to sing
+CONVAI2GRADE-000543	i am too old to cook . what is this vegan you speak of ?	i do not eat anything that has a face , i love animals , especially horses .	i love horses , i grew up in a farm with 8 brothers
+CONVAI2GRADE-000544	i hope your youth was full of music . i love music .	i don't love music much now . i do love baking !	oh . i enjoy painting and drawing .
+CONVAI2GRADE-000545	water is good , it can be relaxing . almost as relaxing as eating chocolate bars .	when i was younger , my favorite color was blue like the water .	in the summer , i take fridays off for events
+CONVAI2GRADE-000546	i would rather read and write poetry these days though	understandable . my girlfriend dabbles in poetry .	writing poetry is something that i like
+CONVAI2GRADE-000547	i m not a fan of war . i would rather be in the peacefulness of nature .	i was a poor kid . we ate there a lot while growing up .	you can run on a treadmill ?
+CONVAI2GRADE-000548	i think kayaking is pretty cool .	i learned how to from my parents	that is kina cool .
+CONVAI2GRADE-000549	care to chat with a married woman vegetarian ?	sure ! i just got back five guys	you guys should both rollerblade too !
+CONVAI2GRADE-000550	why ? redheads are beautiful ! we keep on having red haired babies !	thank you but they don't like me much i don't know why	oh ! i'm really sorry . i love babies
+CONVAI2GRADE-000551	yes . you think i'd meet someone at the gym .	absolutely , look on the treadmills or bikes .	ah . i like to eat potatoes .
+CONVAI2GRADE-000552	do you like jogging . i love running .	i not much of a jogging prefer driving fast car	i love it especially after jogging
+CONVAI2GRADE-000553	hello , how are you today ? i'm retired and enjoying it .	i wish i was retired then i could hang with my friends more	what is your father ?
+CONVAI2GRADE-000554	that's amazing . i like dancing on weekends . you ?	right now i am applying for jobs , i want to work in a restaurant .	what kind of restaurant is it ?
+CONVAI2GRADE-000555	oh i watch that every week . my parents were just good ole farms .	right on . i work for the post office . what do you do ?	an appliance store . boring .
+CONVAI2GRADE-000556	roof is way to high for me . nice that you study french .	are you afraid of heights ? i study many languages . spanish and french currently .	french is a beautiful language .
+CONVAI2GRADE-000557	that is cool . why don't you have pets now ?	yeah , i love those bands , you like hard stuff ?	no i don't like beans
+CONVAI2GRADE-000558	i've a little more than that many in my class	what grade do you teach ?	i also teach third grade math
+CONVAI2GRADE-000559	thank you so much ! i'm so happy .	good , they make life worth living	i'm a conservative person
+CONVAI2GRADE-000560	good thing i love running . i actually have an olympic gold metal for running .	wow really , and you work at a hat shop ?	yeah i work in health care .
+CONVAI2GRADE-000561	that sounds like fun , with lots of good food	not really . she s a bad cook and we end up getting pollo loco a lot	and what is that then
+CONVAI2GRADE-000562	i guess we did do that together . maybe i'll keep her .	nah . you need someone to enjoy the whole relationship with	men amen are so so stupid
+CONVAI2GRADE-000563	i drove one in the past but never owned one	i used to have all kinds of vintage cars !	i have seen pictures they do look beautiful
+CONVAI2GRADE-000564	being a former member of the military , pain is never far from home .	thanks for the service i think about going to mall tomorrow	as an attorney is tough
+CONVAI2GRADE-000565	i am doing very well	i have two kids and like listening to the stones .	oh them i love them too
+CONVAI2GRADE-000566	oh good luck ! the bake sale feels like a second home to me !	i bet . what are you making ? i have a great pb cookie recipe .	same ! i made dinner using a recipe from my mom
+CONVAI2GRADE-000567	i need to find a place for my daughter to go to school .	it is good you are close to your daughter . my mom is seeing me tomorrow	her school is in the inner city . tough school
+CONVAI2GRADE-000568	my store sells everything you could possibly need !	great , are there weights ? i am strong for my age , but would like to get stronger	i am big into collecting , but cannot afford paintings , i get to see them though !
+CONVAI2GRADE-000569	a favorite of mine is shawarma . what is that like ?	i wish my sister was not a pole dancer since it is a sin .	yeah then role play as a character
+CONVAI2GRADE-000570	nop . . i should since i love papaya ! are you married ?	no , i am single . are you single or are you married ?	female . i am a factory worker .
+CONVAI2GRADE-000571	hey there , i'm doing well , what do you do for a living ?	i'm not working that stinks but i find something to do .	did you build it yourself
+CONVAI2GRADE-000572	i eat ice cream sandwiches , like my great great whatever chris columbus .	i have many old but need new hats need over 1000 .	i love beans they clean out my colon
+CONVAI2GRADE-000573	where did you get an apartment	in atlanta near a bar i work nights at so i can afford college	i go to the college of alabama
+CONVAI2GRADE-000574	that's way cool . rock music keeps me company on the tractor .	i play quite a lot of instruments	what is your favorite song
+CONVAI2GRADE-000575	my sisters boyfriend plays hockey , she works as a pole dancer and met him there .	ah , your sisters must not be a christian then .	dance and martial arts . she's a black belt , so am i .
+CONVAI2GRADE-000576	my father , who is an electrician , knows a lot of languages from his experience around the world .	except in video games . i've never been out of the united states .	video games are awesome , i like to play on the pc most
+CONVAI2GRADE-000577	i hike and rock climb . getting out of the house is important to me .	really ? because working from home is my dream	oh . i really like to garden .
+CONVAI2GRADE-000578	nice to hear . i'm doing great . thanks for asking	so , tell me about yourself	i like to build things .
+CONVAI2GRADE-000579	oh hopefully you find one i'm excited about winter its my fav	it will be nice when it cools down . but i do like going to the park	i have urinary cancer since i was eighteen
+CONVAI2GRADE-000580	i am a tennis pro . i love sports . i have a big family .	family is important . i learned everything i know from my father .	wow . sports ? i am a dancer ballet .
+CONVAI2GRADE-000581	ok ok . what do you do besides play guitar ?	i am a custodian and a security guard .	that sounds a bit boring .
+CONVAI2GRADE-000582	oh great me , my job really makes me feel bad	sorry to hear that . i help my father not my own job . what do you do ?	i arrange flowers for a living .
+CONVAI2GRADE-000583	hi , how are you doing tonight ?	doing dandy . what are you doing right now ?	i'm eating a late dinner
+CONVAI2GRADE-000584	hey how are you doing this afternoon ?	i am doing ok . just dreading halloween . i hate clowns	i am crazy about halloween
+CONVAI2GRADE-000585	it was to pursue my spiritual journey	oh i'm sure , so are you a sci fi fan at all ?	no clue i do not try
+CONVAI2GRADE-000586	i've never been to new york , is it very cold there ?	yes it can be , thankfully i left and went to school at yale .	after i graduate in september i want to be a teacher .
+CONVAI2GRADE-000587	it is up north near new york .	i would love to come over . can i bring my dog ?	i am going to bring my dog to the park
+CONVAI2GRADE-000588	yes good thing i have insurance . i bought it through aetna	good . you have kids ? i have a daughter . she's a music prodigy .	sounds like a country song .
+CONVAI2GRADE-000589	what do you do there at burger king ?	i'm only 19 and work the grill . i just want to have fun with friends .	oh my . i live in vegas , it is hot here
+CONVAI2GRADE-000590	nice ! both of my parents were athletic .	what type of sport ? i've coached kids for years .	i came 6th in 100ms
+CONVAI2GRADE-000591	it is not stable enough and it does not pay enough	but at least you get lots of fresh air .	the vegan lifestyle is for me feel much better
+CONVAI2GRADE-000592	wonderful . i just love fish and chips . it is my weakness . i love to cook paella	i'm not much into cooking . i do ride motorbike though .	take a boat and go fish .
+CONVAI2GRADE-000593	cool , i met taylor swift at mcdonalds	omg that is crazy my lil sister says she is running out of songs since she uses ppl	yeah she's but i do not see her much
+CONVAI2GRADE-000594	peace be with you as you embark on your new journey	thank you . that means a lot to me	you can protect yourself first
+CONVAI2GRADE-000595	i like captain america and star wars .	what super powers did you awake with ?	i love to fight . fighting is my favorite
+CONVAI2GRADE-000596	i would love to visit manhattan .	it is fun , i want to go to business school next year .	i'd love that . let us be bffs
+CONVAI2GRADE-000597	the girls name is molly and the boys name is troy . we mow the lawn together .	i've to wait til i'm older to do that	then you should tell them to watch john gresham movies .
+CONVAI2GRADE-000598	yeah , that would be awesome . but i'd buy something more practical .	oh okay . the naked vegan show . you like the sound of that ?	not a vegan , a vegetarian .
+CONVAI2GRADE-000599	coffee is good the morning after a big concert .	yup , keeps me busy i drink wine in the evenings	i like coffee i drink while i watch marvel
